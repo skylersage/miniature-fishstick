@@ -1,0 +1,252 @@
+[
+  {
+    "question": "The format apply based on user criteria is called ......",
+    "options": ["Conditional formatting", "Auto formatting", "Style", "Theme"],
+    "answer": "Conditional formatting"
+  },
+  {
+    "question": "The unit of CPU is ......",
+    "options": ["Control unit", "ALU", "Register unit", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "The function upper (\"Nepal\") will give you",
+    "options": ["NEPAL", "Nepal", "NepaL", "NePaL"],
+    "answer": "NEPAL"
+  },
+  {
+    "question": "Which one is the highest priority operator?",
+    "options": ["()", "%", "/", "*"],
+    "answer": "()"
+  },
+  {
+    "question": "? indicates in file searching is ......",
+    "options": ["a single character", "a group of character", "questions", "none"],
+    "answer": "a single character"
+  },
+  {
+    "question": "Pivot chart shows",
+    "options": ["Summarized data", "Grouping data", "Latest data", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The page numbers located in ......",
+    "options": ["Left", "Centre", "Right", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which cannot create report from ......?",
+    "options": ["Table", "Query", "Table & Query", "Filter"],
+    "answer": "Filter"
+  },
+  {
+    "question": "The head and footer is set by ...... menu.",
+    "options": ["Insert", "Edit", "View", "Tools"],
+    "answer": "View"
+  },
+  {
+    "question": "The UTP connector is used ......",
+    "options": ["RJ65", "RJ45", "RJ30", "RJ90"],
+    "answer": "RJ45"
+  },
+  {
+    "question": "Which is not in print dialog box?",
+    "options": ["Orientation", "Collate", "Current page", "Print what"],
+    "answer": "Orientation"
+  },
+  {
+    "question": "The scenario is used for ......",
+    "options": ["What if analysis", "Data summarizing", "Data grouping", "All of above"],
+    "answer": "What if analysis"
+  },
+  {
+    "question": "The shortcut key to fill down",
+    "options": ["F2", "Ctrl + F, D", "Ctrl + D", "Edit → Fill → Down"],
+    "answer": "Ctrl + D"
+  },
+  {
+    "question": "The protocol is used for email?",
+    "options": ["SMTP", "HTTP", "MAILTP", "FTP"],
+    "answer": "SMTP"
+  },
+  {
+    "question": "Which is the network protocol?",
+    "options": ["TCP/IP", "HTTP", "MAILTP", "FTP"],
+    "answer": "TCP/IP"
+  },
+  {
+    "question": "The mail merged is used for mailing purpose because it generates",
+    "options": ["Personal mails", "Mass mails", "Customize mail", "None"],
+    "answer": "Mass mails"
+  },
+  {
+    "question": "Fdisk/Q does ......",
+    "options": ["Existing Fdisk", "Partition for small disk", "Partitions for small disk", "None"],
+    "answer": "None"
+  },
+  {
+    "question": "To display hidden file",
+    "options": ["Dir/hidden", "Attrib/ah", "Dir/ah", "None"],
+    "answer": "Dir/ah"
+  },
+  {
+    "question": "The largest unit of database is?",
+    "options": ["record", "a field", "a subfield", "all of the above"],
+    "answer": "record"
+  },
+  {
+    "question": "Which is not impact printer?",
+    "options": ["Daisy wheel", "Dot matrix", "Inkjet", "All"],
+    "answer": "Inkjet"
+  },
+  {
+    "question": "Which is fast memory?",
+    "options": ["Cache memory", "RAM", "Disk", "Tape"],
+    "answer": "Cache memory"
+  },
+  {
+    "question": "The shortcut key to create default chart?",
+    "options": ["F1", "F10", "F2", "F11"],
+    "answer": "F11"
+  },
+  {
+    "question": "To delete record from table",
+    "options": ["Edit → Delete record", "Edit → Delete", "Record → Delete Record", "None"],
+    "answer": "Record → Delete Record"
+  },
+  {
+    "question": "Which is not changed by Slide Master?",
+    "options": ["Layout", "Title", "Handouts", "Placeholders"],
+    "answer": "Layout"
+  },
+  {
+    "question": "Default page orientation of MS Word is ......",
+    "options": ["Landscape", "Portrait", "Wide", "All"],
+    "answer": "Portrait"
+  },
+  {
+    "question": "Which command verifies the copied file?",
+    "options": ["copy/v", "copy/verify", "copy/d", "none"],
+    "answer": "copy/v"
+  },
+  {
+    "question": "How do you set slide timing?",
+    "options": ["Slide show/Slide transition", "Format/Slide transition", "Tools/Slide transition", "All of the above"],
+    "answer": "Slide show/Slide transition"
+  },
+  {
+    "question": "Which cable allows the fastest data transfer?",
+    "options": ["Fibre optics", "Twisted pair", "Coaxial cable", "UTP"],
+    "answer": "Fibre optics"
+  },
+  {
+    "question": "The KIPS is used",
+    "options": ["Processor", "Printer", "Hard disk", "All"],
+    "answer": "Processor"
+  },
+  {
+    "question": "Which is not function of OS?",
+    "options": ["File management", "Platform", "Memory management", "Virus detection"],
+    "answer": "Virus detection"
+  },
+  {
+    "question": "What does 'HTML' stand for?",
+    "options": ["Hyper Text Markup Language", "High Transfer Markup Language", "Hyper Transfer Markup Language", "Hyperlink Text Markup Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which key combination is used to save a document?",
+    "options": ["Ctrl+S", "Ctrl+P", "Ctrl+O", "Ctrl+N"],
+    "answer": "Ctrl+S"
+  },
+  {
+    "question": "What is the purpose of a firewall in computer networks?",
+    "options": ["To increase internet speed", "To prevent unauthorized access", "To store data", "To create websites"],
+    "answer": "To prevent unauthorized access"
+  },
+  {
+    "question": "Which of these is a programming language?",
+    "options": ["Python", "Excel", "PowerPoint", "Photoshop"],
+    "answer": "Python"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Reference Link"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which device is used to connect multiple computers in a network?",
+    "options": ["Modem", "Router", "Printer", "Scanner"],
+    "answer": "Router"
+  },
+  {
+    "question": "What is the binary number system based on?",
+    "options": ["2", "8", "10", "16"],
+    "answer": "2"
+  },
+  {
+    "question": "Which software is used for creating presentations?",
+    "options": ["Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Microsoft Access"],
+    "answer": "Microsoft PowerPoint"
+  },
+  {
+    "question": "What does 'CPU' stand for?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which of these is an output device?",
+    "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "What is the function of RAM in a computer?",
+    "options": ["Permanent storage", "Temporary storage while computer is running", "Processing data", "Displaying graphics"],
+    "answer": "Temporary storage while computer is running"
+  },
+  {
+    "question": "Which protocol is used for secure web browsing?",
+    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "What does 'PDF' stand for?",
+    "options": ["Portable Document Format", "Printed Document File", "Personal Data File", "Program Data Format"],
+    "answer": "Portable Document Format"
+  },
+  {
+    "question": "Which component is known as the brain of the computer?",
+    "options": ["RAM", "CPU", "Hard Drive", "Motherboard"],
+    "answer": "CPU"
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "High Transfer Text Protocol", "Hyper Transfer Text Protocol"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which of these is a type of computer network?",
+    "options": ["LAN", "WAN", "MAN", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the shortcut key for copying selected text?",
+    "options": ["Ctrl+C", "Ctrl+V", "Ctrl+X", "Ctrl+Z"],
+    "answer": "Ctrl+C"
+  },
+  {
+    "question": "Which programming language is primarily used for web development?",
+    "options": ["Java", "Python", "C++", "JavaScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What does 'GUI' stand for?",
+    "options": ["Graphical User Interface", "General User Interface", "Graphical Unit Interface", "General Unit Interface"],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "question": "Which storage device has no moving parts?",
+    "options": ["HDD", "SSD", "Floppy Disk", "DVD"],
+    "answer": "SSD"
+  }
+]

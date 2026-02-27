@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Table is ......",
+    "options": ["Row and column", "Field/Column", "Row & chart", "None of above"],
+    "answer": "Row and column"
+  },
+  {
+    "question": "What many ways to save the document?",
+    "options": ["2", "3", "4", "1"],
+    "answer": "3"
+  },
+  {
+    "question": "To save a document in different location use",
+    "options": ["Save", "Save as", "Save as web page", "All"],
+    "answer": "Save as"
+  },
+  {
+    "question": "How many steps are there to create a form letter?",
+    "options": ["4", "3", "2", "1"],
+    "answer": "4"
+  },
+  {
+    "question": "The arrangement of elements such as Title and subtitle text, pictures, tables, etc is called",
+    "options": ["Layout", "Presentation", "Design", "Scheme"],
+    "answer": "Layout"
+  },
+  {
+    "question": "To move slide from one computer to another the operation ......",
+    "options": ["Pack and go", "Save and go", "Save and pack", "All of the above"],
+    "answer": "Pack and go"
+  },
+  {
+    "question": "What do you mean by dialog box?",
+    "options": ["Interactive message box", "Group of options", "Set of controls", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The information of cell gives on",
+    "options": ["Formula box", "Name box", "Name box", "Formatting box"],
+    "answer": "Formula box"
+  },
+  {
+    "question": "Where in located footnote?",
+    "options": ["Top of the page", "Bottom of the page", "Both", "None"],
+    "answer": "Bottom of the page"
+  },
+  {
+    "question": "We create new document from",
+    "options": ["File/New Tab", "File/New", "Format/New Option", "None of the above"],
+    "answer": "File/New"
+  },
+  {
+    "question": "The technology is used in CD-ROM?",
+    "options": ["Optical", "Magnetic", "Mechanical", "Electromechanical"],
+    "answer": "Optical"
+  },
+  {
+    "question": "Which one is not a floppy capacity?",
+    "options": ["1.24MB", "1.44MB", "360KB", "720KB"],
+    "answer": "1.24MB"
+  },
+  {
+    "question": "Which code is used in keystroke?",
+    "options": ["ASCII", "ANSI", "Both", "None"],
+    "answer": "ASCII"
+  },
+  {
+    "question": "Charts hold with all the information?",
+    "options": ["Legend", "Data table", "Axis", "None of above"],
+    "answer": "Data table"
+  },
+  {
+    "question": "SVGA is related with",
+    "options": ["Printer", "Monitor", "CPU", "All"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "Which is popular secondary storage device?",
+    "options": ["Disk", "CD", "RAM", "All of the above"],
+    "answer": "Disk"
+  },
+  {
+    "question": "WWW stands for",
+    "options": ["World Wide Web", "World Wide Work", "World Wide Webpage", "None"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "Which is database application?",
+    "options": ["Excel", "Access", "Spreadsheet", "All"],
+    "answer": "Excel"
+  },
+  {
+    "question": "Which one is used for database management?",
+    "options": ["Jet Engine", "Boot & Logic", "Procedure", "Format"],
+    "answer": "Boot & Logic"
+  },
+  {
+    "question": "Where is located merge cell option?",
+    "options": ["Alignment", "Pattern", "Border", "All"],
+    "answer": "Alignment"
+  },
+  {
+    "question": "Command is associated with",
+    "options": ["Disabled command", "Shortcut key", "None", "All"],
+    "answer": "Disabled command"
+  },
+  {
+    "question": "The fastest printer is ......",
+    "options": ["Laser printer", "Dot Matrix printer", "Inkjet printer", "None of the above"],
+    "answer": "Laser printer"
+  },
+  {
+    "question": "Which device used to relation for computer and user?",
+    "options": ["Software", "Hardware", "Peripheral", "Memory"],
+    "answer": "Software"
+  },
+  {
+    "question": "What is the function of info super highway?",
+    "options": ["Network to network connection", "Linked other part of the world through broadband information network", "Rapidly flow and gradually development of multimedia service", "All of the above"],
+    "answer": "Rapidly flow and gradually development of multimedia service"
+  },
+  {
+    "question": "To delete cell, press",
+    "options": ["Ctrl + D", "Alt + D", "Delete", "Esc"],
+    "answer": "Alt + D"
+  },
+  {
+    "question": "To view comment ......",
+    "options": ["Edit menu", "Insert menu", "View menu", "Format menu"],
+    "answer": "View menu"
+  },
+  {
+    "question": "Which is ROM software?",
+    "options": ["Romware", "Firmware", "Humanware", "Fireware"],
+    "answer": "Firmware"
+  },
+  {
+    "question": "Which is used in binary code?",
+    "options": ["EBDCDIC", "ASCII", "ANSI", "COBOL"],
+    "answer": "ASCII"
+  },
+  {
+    "question": "Restrict to database file used to another user we protect in",
+    "options": ["Exclusive mode", "Inclusive mode", "Extended mode", "All of the above"],
+    "answer": "Exclusive mode"
+  },
+  {
+    "question": "Which DOS command uses to additional file?",
+    "options": ["Internal DOS command", "External DOS command", "Primary command", "All of the above"],
+    "answer": "Internal DOS command"
+  },
+  {
+    "question": "The box which is appear right side of chart is called",
+    "options": ["Legend", "Label", "Series", "Data marker"],
+    "answer": "Label"
+  },
+  {
+    "question": "In Access to insert picture the data type is used",
+    "options": ["OLE", "Hyperlink", "Lookup wizard", "Picture"],
+    "answer": "OLE"
+  },
+  {
+    "question": "In Access table, which components are exist?",
+    "options": ["Field and Column", "Row and Record", "Column and Row", "Row and Cell"],
+    "answer": "Field and Column"
+  },
+  {
+    "question": "Which is database program?",
+    "options": ["Oracle", "Word", "Excel", "None"],
+    "answer": "Excel"
+  },
+  {
+    "question": "Which device connects CPU and the users?",
+    "options": ["Peripheral devices", "Multimedia devices", "Optical devices", "None of the above"],
+    "answer": "Peripheral devices"
+  },
+  {
+    "question": "Filter is available on ......",
+    "options": ["Tools menu", "Data menu", "Edit menu", "View menu"],
+    "answer": "Data menu"
+  },
+  {
+    "question": "When insert a column in excel previous column moves on",
+    "options": ["Left side", "Left most side", "Right side", "Right most side"],
+    "answer": "Right side"
+  },
+  {
+    "question": "Function of filter is",
+    "options": ["Selection number", "Select special character", "Select character", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "We can run PowerPoint slide in another computer program",
+    "options": ["Pack and go", "Save and go", "Export", "None"],
+    "answer": "Pack and go"
+  },
+  {
+    "question": "Font folder is located on ......",
+    "options": ["Program folder", "MS Word File", "Window folder", "Desktop folder"],
+    "answer": "Window folder"
+  },
+  {
+    "question": "Which shortcut use to column break?",
+    "options": ["Ctrl + Enter", "Enter", "Ctrl + Shift + Enter", "Alt + Enter"],
+    "answer": "Ctrl + Shift + Enter"
+  },
+  {
+    "question": "Which shortcut use to slide show?",
+    "options": ["F4", "F3", "F2", "F5"],
+    "answer": "F5"
+  },
+  {
+    "question": "For insert new slide use ...... shortcut.",
+    "options": ["Ctrl + N", "Alt + M", "Ctrl + M", "Ctrl + Shift + M"],
+    "answer": "Alt + M"
+  },
+  {
+    "question": "In Access which wild card is not mostly used?",
+    "options": ["!", "#", "?", "*"],
+    "answer": "!"
+  },
+  {
+    "question": "Which application program is called database program?",
+    "options": ["Excel", "Word", "PowerPoint", "Access"],
+    "answer": "Access"
+  },
+  {
+    "question": "Which one is not relationship type?",
+    "options": ["Many to many", "Many to one", "One to many", "One to one"],
+    "answer": "Many to one"
+  },
+  {
+    "question": "What function does form?",
+    "options": ["Adding", "Deleting", "Modify", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Which one is not database object?",
+    "options": ["Form", "Table", "Report", "Datasheet"],
+    "answer": "Datasheet"
+  },
+  {
+    "question": "Where does text box lies?",
+    "options": ["Drawing tool bars", "Standard tool bar", "Formatting tool bar", "Text box tool bar"],
+    "answer": "Drawing tool bars"
+  },
+  {
+    "question": "In which menu we can add footnote?",
+    "options": ["Insert menu", "View menu", "Format menu", "Edit menu"],
+    "answer": "Insert menu"
+  }
+]

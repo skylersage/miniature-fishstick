@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which is used for connecting database with front-end object?",
+    "options": ["ADO", "Record set", "Query", "All of the above"],
+    "answer": "ADO"
+  },
+  {
+    "question": "Which is used for insert footnote?",
+    "options": ["View → Footnote", "Insert → Reference → Footnote", "Tools → Footnote", "None"],
+    "answer": "Insert → Reference → Footnote"
+  },
+  {
+    "question": "Which is not database?",
+    "options": ["LISP", "FoxPro", "Dbase", "Oracle"],
+    "answer": "LISP"
+  },
+  {
+    "question": "Which is an odd?",
+    "options": ["SQL", "QBE", "MS Access", "QUEL"],
+    "answer": "QBE"
+  },
+  {
+    "question": "What will happen if you drag downward for cell containing date?",
+    "options": ["Auto increment by day", "Auto increment by month", "Auto increment by year", "Copy same thing"],
+    "answer": "Auto increment by day"
+  },
+  {
+    "question": "The shortcut key to insert new slide?",
+    "options": ["Ctrl + N", "Ctrl + M", "Ctrl + D", "None"],
+    "answer": "Ctrl + M"
+  },
+  {
+    "question": "You have LPT1 Printer if you want to change printer which would be possible?",
+    "options": ["LPT2", "COM1", "COM2", "All"],
+    "answer": "LPT2"
+  },
+  {
+    "question": "What is the full form of ASCII?",
+    "options": ["American Standard Code for Information Interchange", "American Scientist Council for Information Imagine", "All Standard Code for Information Interchange", "All Ways Status Correct Information Engine"],
+    "answer": "American Standard Code for Information Interchange"
+  },
+  {
+    "question": "Which will be used to identify the IP address in website?",
+    "options": ["Web browser", "DNS", "File server", "All"],
+    "answer": "DNS"
+  },
+  {
+    "question": "Which is expensive to put in website?",
+    "options": ["Picture", "Text", "Video", "Flash document"],
+    "answer": "Video"
+  },
+  {
+    "question": "The shortcut key for speller?",
+    "options": ["F7", "Shift + F7", "Alt + F1", "F8"],
+    "answer": "F7"
+  },
+  {
+    "question": "Which is not input device?",
+    "options": ["Touch pad", "Touch screen", "Scanner", "Mouse"],
+    "answer": "Touch screen"
+  },
+  {
+    "question": "To change the volume label?",
+    "options": ["Vol", "Label", "Scandisk", "None"],
+    "answer": "Label"
+  },
+  {
+    "question": "Which is not located in toolbar?",
+    "options": ["Text Wrap", "New", "Bold", "Word Art"],
+    "answer": "Text Wrap"
+  },
+  {
+    "question": "Which is the shortcut key to underline for word only?",
+    "options": ["Ctrl + W", "Ctrl + Shift + W", "Ctrl + D", "None"],
+    "answer": "Ctrl + Shift + W"
+  },
+  {
+    "question": "To decrease the space of characters?",
+    "options": ["Kerning", "Expanding", "Condensing", "All of the above"],
+    "answer": "Condensing"
+  },
+  {
+    "question": "Which is relationship type?",
+    "options": ["1:1", "1: M", "M:N", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Which is the absolute reference?",
+    "options": ["A1", "A$1", "$A1", "$A$1"],
+    "answer": "$A$1"
+  },
+  {
+    "question": "Which is the application software?",
+    "options": ["Defragment", "Speller", "Editor", "None"],
+    "answer": "Editor"
+  },
+  {
+    "question": "What is the full form of USB?",
+    "options": ["Universal Serial Bus", "Uniform Serial Bus", "Unique Serial Bus", "None"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "question": "Minimum refresh rate of CRT screen",
+    "options": ["60Hz", "70Hz", "30Hz", "75Hz"],
+    "answer": "60Hz"
+  },
+  {
+    "question": "Which is not executable file?",
+    "options": [".com", ".exe", ".bat", ".txt"],
+    "answer": ".txt"
+  },
+  {
+    "question": "Which is not multitasking OS?",
+    "options": ["DOS", "Windows", "Unix", "Linux"],
+    "answer": "DOS"
+  },
+  {
+    "question": "Which is not network topology?",
+    "options": ["Bus", "Ring", "Ethernet", "Star"],
+    "answer": "Ethernet"
+  },
+  {
+    "question": "Job Priority is used in ......",
+    "options": ["Time sharing operating system", "Multiuser operating system", "Real time operating system", "Batch operating system"],
+    "answer": "Time sharing operating system"
+  },
+  {
+    "question": "Summary function of Excel ......",
+    "options": ["Stdv", "Num", "Sum", "All"],
+    "answer": "Sum"
+  },
+  {
+    "question": "1 point is ...... ?",
+    "options": ["1/72 inch", "72 inch", "1/6 inch", "None"],
+    "answer": "1/72 inch"
+  },
+  {
+    "question": "Which is not default toolbar in word?",
+    "options": ["Picture", "Formatting", "Standard", "Drawing"],
+    "answer": "Picture"
+  },
+  {
+    "question": "Full Form of ISP ......",
+    "options": ["Internal Service Provider", "Internet Service Provider", "Internet Service Provider", "None"],
+    "answer": "Internet Service Provider"
+  },
+  {
+    "question": "To show format dialog box in Excel",
+    "options": ["Ctrl + 1", "Ctrl + 2", "Ctrl + F1", "None"],
+    "answer": "Ctrl + 1"
+  },
+  {
+    "question": "To activate cell",
+    "options": ["Tab", "Click", "Enter", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "The shortcut key to insert new slide.",
+    "options": ["Ctrl + N", "Ctrl + M", "Ctrl + D", "None"],
+    "answer": "Ctrl + M"
+  },
+  {
+    "question": "The maximum zoom percentage in PowerPoint is ......",
+    "options": ["200%", "400%", "500%", "1000%"],
+    "answer": "200%"
+  },
+  {
+    "question": "1GB = ...... byte",
+    "options": ["10^9", "10^6", "10^3", "10^12"],
+    "answer": "10^9"
+  },
+  {
+    "question": "Which is fast memory?",
+    "options": ["Cache memory", "Register", "Disk", "Tape"],
+    "answer": "Register"
+  },
+  {
+    "question": "How to use rehearsal timing?",
+    "options": ["Format/Rehearse Timing", "Slide Show/Rehearse Timing", "Setup Show/Rehearse Timing", "All of the above"],
+    "answer": "Slide Show/Rehearse Timing"
+  },
+  {
+    "question": "The command to partition large disk",
+    "options": ["Fdisk", "Format", "MD", "All of the above"],
+    "answer": "Fdisk"
+  },
+  {
+    "question": "The template is a ......",
+    "options": ["Determines the basic structure for a document and contains document settings", "Documents created in VBA", "Document format", "All of the above"],
+    "answer": "Determines the basic structure for a document and contains document settings"
+  },
+  {
+    "question": "The tag is used for picture?",
+    "options": ["a href", "vink", "picture", "none"],
+    "answer": "a href"
+  },
+  {
+    "question": "Which is not a software?",
+    "options": ["Word", "Touch Pad", "DOS", "Antivirus"],
+    "answer": "Touch Pad"
+  },
+  {
+    "question": "Host is ......",
+    "options": ["Server", "Client", "Desktop", "Remote computer"],
+    "answer": "Server"
+  },
+  {
+    "question": "The mail merge combines the ......",
+    "options": ["Main Document & Data Source", "Letter and Envelope", "Data Field and Data Source", "None"],
+    "answer": "Main Document & Data Source"
+  },
+  {
+    "question": "Auto content wizard in PowerPoint is used to ......",
+    "options": ["Create presentation by providing information", "Apply readymade format for the presentation", "Creates the blank presentation", "None"],
+    "answer": "Create presentation by providing information"
+  },
+  {
+    "question": "Foreign key is used to ......",
+    "options": ["Establish relationship", "Indexing table", "Unique record", "All of the above"],
+    "answer": "Establish relationship"
+  },
+  {
+    "question": "Slide consistency is provided by ......",
+    "options": ["Design template", "Slide layout", "Slide master", "All of the above"],
+    "answer": "Design template"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which protocol is used for secure web browsing?",
+    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "What is the function of RAM?",
+    "options": ["Permanent storage", "Temporary storage while computer is running", "Processing data", "Display output"],
+    "answer": "Temporary storage while computer is running"
+  },
+  {
+    "question": "Which of these is a spreadsheet software?",
+    "options": ["Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Microsoft Access"],
+    "answer": "Microsoft Excel"
+  },
+  {
+    "question": "What does PDF stand for?",
+    "options": ["Portable Document Format", "Printed Document File", "Personal Data File", "Program Data Format"],
+    "answer": "Portable Document Format"
+  }
+]

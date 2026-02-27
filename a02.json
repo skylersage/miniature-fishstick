@@ -1,0 +1,267 @@
+[
+  {
+    "question": "To move to the previous worksheet press ......",
+    "options": ["Ctrl+Pg Up", "Ctrl+Pg Dn", "Alt+Pg UP", "Shift+Tab"],
+    "answer": "Ctrl+Pg Up"
+  },
+  {
+    "question": "What displays the content of the active cell in excel?",
+    "options": ["Name box", "Row headings", "Formula bar", "Task pane"],
+    "answer": "Formula bar"
+  },
+  {
+    "question": "What do you press to enter the current date in a cell?",
+    "options": ["Ctrl+;", "Ctrl+Shift+;", "Ctrl+F10", "Ctrl+F11"],
+    "answer": "Ctrl+;"
+  },
+  {
+    "question": "What symbol in excel is used to enter number as text?",
+    "options": ["'", "\"", "=", "+"],
+    "answer": "'"
+  },
+  {
+    "question": "Which of the following is concatenating (adding) operator in excel?",
+    "options": ["'", "!", "&", "#"],
+    "answer": "&"
+  },
+  {
+    "question": "When you create two or four separate windows containing part of the spreadsheet that can be viewed, you have created ......",
+    "options": ["Sections", "Panes", "Subsheets", "Views"],
+    "answer": "Panes"
+  },
+  {
+    "question": "Excel is a ......",
+    "options": ["Database package", "Spreadsheet package", "Word processing package", "Presentation package"],
+    "answer": "Spreadsheet package"
+  },
+  {
+    "question": "A template file is:",
+    "options": [
+      "a special kind of workbook that provides basic tools for shaping a final workbook",
+      "a special work book you can use as a pattern to create other work boos of the same type",
+      "a blueprint for the text, graphic & formatting of a workbook",
+      "all of the above"
+    ],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Rounding errors can occur",
+    "options": [
+      "when you use multiplication, division or exponentiation in a formula",
+      "when you use addition and subtraction in a formula",
+      "because excel uses hidden decimal places in computation",
+      "none of the above"
+    ],
+    "answer": "because excel uses hidden decimal places in computation"
+  },
+  {
+    "question": "To view a cell comment in Excel",
+    "options": [
+      "click the edit comment command on the insert menu",
+      "click the display comment command on the window menu",
+      "position the mouse point over the cell",
+      "click the comment command on the view menu"
+    ],
+    "answer": "position the mouse point over the cell"
+  },
+  {
+    "question": "...... is a collection of data stored in a standardized format, designed to be shared by multiple users.",
+    "options": ["Database", "Record", "Database management system", "Relation"],
+    "answer": "Database"
+  },
+  {
+    "question": "A field or group of fields that uniquely identifies every row of table is ......",
+    "options": ["Primary key", "Foreign key", "Hot key", "Access key"],
+    "answer": "Primary key"
+  },
+  {
+    "question": "The oldest database models are",
+    "options": ["hierarchical and network", "relational and object oriented", "objected oriented and deductive", "none of the above"],
+    "answer": "hierarchical and network"
+  },
+  {
+    "question": "Where can you add graphics, movies and sounds in MS PowerPoint?",
+    "options": ["Outline pane", "Slide pane", "Note pane", "All of the above"],
+    "answer": "Slide pane"
+  },
+  {
+    "question": "In Microsoft PowerPoint the entry effect as one slide replaces another in a show is called",
+    "options": ["(an): animation", "slide transition", "custom animation", "preset animation"],
+    "answer": "slide transition"
+  },
+  {
+    "question": "All peripheral devices connected to computer system are known as:",
+    "options": ["keyboard", "hardware", "software", "application"],
+    "answer": "hardware"
+  },
+  {
+    "question": "Computer is a system having",
+    "options": ["storage", "I/O devices", "CPU", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Who was the first to conceptualize and design a fully programmable mechanical computer analytical engine?",
+    "options": ["Lady Ada", "Bill Gates", "Charles Babbage", "None of the above"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "Which is not the characteristic of computer?",
+    "options": ["Automatic", "Lazy", "High Speed", "Accurate"],
+    "answer": "Lazy"
+  },
+  {
+    "question": "Which one has the highest storage capacity?",
+    "options": ["CD", "DVD", "Floppy disk", "Hard disk"],
+    "answer": "Hard disk"
+  },
+  {
+    "question": "A mouse is an ...... device",
+    "options": ["input", "CPU", "output", "Processor"],
+    "answer": "input"
+  },
+  {
+    "question": "The storage capacity of hard disk is measured in ......",
+    "options": ["Terabyte", "Gigabyte", "Megabyte", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Faster memory of computer system is ......",
+    "options": ["hard disk", "firmware", "cache memory", "CD"],
+    "answer": "cache memory"
+  },
+  {
+    "question": "The full form of ASCII is ......",
+    "options": ["International Code for Asia", "Asian Standard Code International Interchange", "Asian Standard Code II", "American Standard Code for Information Interchange"],
+    "answer": "American Standard Code for Information Interchange"
+  },
+  {
+    "question": "WAN, LAN, MAN are types of",
+    "options": ["Computer", "Network", "Police unit", "Mobile"],
+    "answer": "Network"
+  },
+  {
+    "question": "Which one is an internet browser?",
+    "options": ["Safari", "Internet Explorer", "Firefox", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "If CPU is brain of computer then CU is ......",
+    "options": ["Head of computer", "Nerve centre of computer", "Tail of computer", "Maim memory of computer"],
+    "answer": "Nerve centre of computer"
+  },
+  {
+    "question": "Disks are further divide into ......",
+    "options": ["tracks and sectors", "plates and plastics", "memory and space", "keyboard and mouse"],
+    "answer": "tracks and sectors"
+  },
+  {
+    "question": "CD-ROM is a ...",
+    "options": ["semiconductor memory", "memory register", "magnetic memory", "none of the above"],
+    "answer": "none of the above"
+  },
+  {
+    "question": "If you need to duplicate the entire disk, which command will you use?",
+    "options": ["copy", "move", "diskcopy", "transfer"],
+    "answer": "diskcopy"
+  },
+  {
+    "question": "Which of the following are loaded in safe mode?",
+    "options": ["Keyboard driver", "Mouse driver", "VGA driver", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which is the easiest method to go the MSDOS in windows environment?",
+    "options": ["My computer", "Go to DOS from start menu", "Click on icon of desktop", "Type command in Run dialog box"],
+    "answer": "Type command in Run dialog box"
+  },
+  {
+    "question": "What is FAT stands for?",
+    "options": ["File Attribute Type", "File Allocation Table", "Format all tab setting", "File for All Type"],
+    "answer": "File Allocation Table"
+  },
+  {
+    "question": "Which command is not internal command of DOS?",
+    "options": ["DIR", "Edit", "CD", "CLS"],
+    "answer": "Edit"
+  },
+  {
+    "question": "Leader character is associated with ......",
+    "options": ["Bullet and numbering", "Gutter", "Indent", "Tab"],
+    "answer": "Tab"
+  },
+  {
+    "question": "Page formatting which is used frequently in future is saved as ......",
+    "options": ["Master document", "Theme", "Cross reference", "Template"],
+    "answer": "Template"
+  },
+  {
+    "question": "Short cut key for manual column break in word.",
+    "options": ["Ctrl+Enter", "Shift+Spacebar", "Ctrl+Shift+Enter", "Alt+Enter"],
+    "answer": "Ctrl+Shift+Enter"
+  },
+  {
+    "question": "Ctrl+Shift+D is used for ......",
+    "options": ["Double paragraph spacing", "Delete current word", "Dotted underline", "Double underline"],
+    "answer": "Double underline"
+  },
+  {
+    "question": "Which of the following is feature of MS word?",
+    "options": ["Drag and Drop", "Text wrap", "Find & replace", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "...... increase the readability of text.",
+    "options": ["Save", "Bullet & numbering", "Thesaurus", "Help"],
+    "answer": "Bullet & numbering"
+  },
+  {
+    "question": "Which is not the type of indent available in word?",
+    "options": ["Right indent", "Left indent", "Centre indent", "Hanging indent"],
+    "answer": "Centre indent"
+  },
+  {
+    "question": "Page numbering is inserted as ......",
+    "options": ["footnote", "endnote", "footer", "none of the above"],
+    "answer": "footer"
+  },
+  {
+    "question": "Shortcut key combination for undo is ......",
+    "options": ["Ctrl+U", "Ctrl+Y", "Ctrl+Z", "Ctrl+V"],
+    "answer": "Ctrl+Z"
+  },
+  {
+    "question": "Which of the following is a page layout?",
+    "options": ["Shading", "Portrait", "Template", "Window"],
+    "answer": "Portrait"
+  },
+  {
+    "question": "Shortcut key combination for displaying print dialog box is ......",
+    "options": ["Ctrl+P", "Ctrl+T", "Ctrl+A", "Ctrl+N"],
+    "answer": "Ctrl+P"
+  },
+  {
+    "question": "The feature of MS Word that combines a set of database records with a main document is ……",
+    "options": ["Thesaurus", "Mail Merge", "Autocorrect", "Word Wrap"],
+    "answer": "Mail Merge"
+  },
+  {
+    "question": "In MS Word, which of the following is not available in paragraph setting?",
+    "options": ["Single", "Double", "Triple", "Multiple"],
+    "answer": "Triple"
+  },
+  {
+    "question": "To paste, we use ……",
+    "options": ["Ctrl+C", "Ctrl+P", "Ctrl+X", "Ctrl+V"],
+    "answer": "Ctrl+V"
+  },
+  {
+    "question": "When a formatted number does not fit within a cells it display?",
+    "options": ["####", "#Div/0", "#Div@", "none of the above"],
+    "answer": "####"
+  },
+  {
+    "question": "By default, how many sheets will be in excel workbook?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  }
+]

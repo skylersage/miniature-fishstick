@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Mini computer is ......",
+    "options": ["Larger than PC and smaller than Super", "Smaller than PC and larger than Mainframe", "Larger than Mainframe and Smaller than Super", "None of above"],
+    "answer": "Larger than PC and smaller than Super"
+  },
+  {
+    "question": "Macro is ......",
+    "options": ["Record frequently repeated action", "Playing object", "Backup utility", "None"],
+    "answer": "Record frequently repeated action"
+  },
+  {
+    "question": "The application is used for calculation and charting ......",
+    "options": ["DBMS", "Spreadsheet", "Presentation", "Graphics"],
+    "answer": "Spreadsheet"
+  },
+  {
+    "question": "Data entry is done through ......",
+    "options": ["Report", "Switchboard", "Form", "Page"],
+    "answer": "Form"
+  },
+  {
+    "question": "Virus is a ......",
+    "options": ["Code can be created problem", "Code generate useful information", "Code to maintain program", "All"],
+    "answer": "Code can be created problem"
+  },
+  {
+    "question": "MS DOs is a",
+    "options": ["Application software", "Utility software", "System software", "None"],
+    "answer": "System software"
+  },
+  {
+    "question": "Two or more task done simultaneously ......",
+    "options": ["Multitasking", "Batch operating", "Multiprocessing", "Multiuser"],
+    "answer": "Multitasking"
+  },
+  {
+    "question": "To convert whole source code into machine code ......",
+    "options": ["Compiler", "Interpreter", "Debugger", "Loader"],
+    "answer": "Compiler"
+  },
+  {
+    "question": "Freely available (open) operating system is ......",
+    "options": ["Internet", "Linux", "DOS", "Windows"],
+    "answer": "Linux"
+  },
+  {
+    "question": "Input and Output device is",
+    "options": ["Touch Screen", "Microphone", "Touch Pad", "Printer"],
+    "answer": "Touch Screen"
+  },
+  {
+    "question": "Which is the least domain name account @ntc.net.np?",
+    "options": ["Ntc", "Net", "np", "All"],
+    "answer": "np"
+  },
+  {
+    "question": "How many generation are came till now?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "4"
+  },
+  {
+    "question": "Which shortcut used in desktop to make duplicate ?",
+    "options": ["Ctrl_X, Ctrl_V", "Ctrl_C, Ctrl_V", "Alt_C, Ctrl_V", "None"],
+    "answer": "Ctrl_X, Ctrl_V"
+  },
+  {
+    "question": "Which networking within a building?",
+    "options": ["LAN", "WAN", "MAN", "VAN"],
+    "answer": "LAN"
+  },
+  {
+    "question": "Which is true?",
+    "options": ["WAN is faster than LAN", "LAN transferring in sped than WAN", "LAN and WAN same", "All"],
+    "answer": "LAN transferring in sped than WAN"
+  },
+  {
+    "question": "The network for specific use ......",
+    "options": ["Internet", "Intranet", "Extrant", "none"],
+    "answer": "Intranet"
+  },
+  {
+    "question": "NEA is used for which application for data processing.",
+    "options": ["DBMS", "Word Processing", "Spreadsheet", "None"],
+    "answer": "DBMS"
+  },
+  {
+    "question": "What is the result of 3^3+9/3+3?",
+    "options": ["30", "33", "35", "37"],
+    "answer": "33"
+  },
+  {
+    "question": "Which is the input device?",
+    "options": ["Printer", "Plotter", "Mouse", "Monitor"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "Which is used for email?",
+    "options": ["Website address", "Email address", "IP address", "All"],
+    "answer": "Email address"
+  },
+  {
+    "question": "Which device is used for two way communication?",
+    "options": ["Printer", "Scanner", "Mouse", "Modem"],
+    "answer": "Modem"
+  },
+  {
+    "question": "Which communication media is fast?",
+    "options": ["Satellite", "Coaxial cable", "Twisted pair", "None"],
+    "answer": "Satellite"
+  },
+  {
+    "question": "Which protect the backup of outline?",
+    "options": ["SMPS", "UPS", "Storage", "All of the above"],
+    "answer": "UPS"
+  },
+  {
+    "question": "Which device is the voltage storage?",
+    "options": ["Battery", "Power Supply", "Volt Guard", "All"],
+    "answer": "Battery"
+  },
+  {
+    "question": "The decimal equivalent of 101010 is ......",
+    "options": ["40", "42", "45", "46"],
+    "answer": "42"
+  },
+  {
+    "question": "Which is the latest operating system?",
+    "options": ["Windows Xp", "'Windows Vista'", "Windows Millennium", "Windows 2003"],
+    "answer": "'Windows Vista'"
+  },
+  {
+    "question": "The Vacuum tube is used for ...... generation.",
+    "options": ["1st", "2nd", "3rd", "4th"],
+    "answer": "1st"
+  },
+  {
+    "question": "Who is known as father of modern computer?",
+    "options": ["John Mackhly", "Charles Babbage", "Lady Augusta", "Hollerith"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "HTML stands for",
+    "options": ["Hyper Text Main Language", "Hyper Text Mark Up Language", "High Technology Machine Language", "None of the above"],
+    "answer": "Hyper Text Mark Up Language"
+  },
+  {
+    "question": "GIF stands for",
+    "options": ["Graphics Interchange Format", "Graphics Information Form", "Graphics Info Format", "None"],
+    "answer": "Graphics Information Form"
+  },
+  {
+    "question": "Which of the following is an output device?",
+    "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Process Utility", "Control Processing Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which programming language is known as the language of the web?",
+    "options": ["Java", "Python", "JavaScript", "C++"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Random Access Memory", "Readily Available Memory", "Random Active Memory", "Read Access Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Apple", "IBM", "Microsoft", "Google"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What is the binary equivalent of decimal number 10?",
+    "options": ["1010", "1100", "1001", "1110"],
+    "answer": "1010"
+  },
+  {
+    "question": "Which of these is a database management system?",
+    "options": ["Excel", "PowerPoint", "MySQL", "Photoshop"],
+    "answer": "MySQL"
+  },
+  {
+    "question": "What does PDF stand for?",
+    "options": ["Portable Document Format", "Personal Data File", "Printable Document Form", "Public Data Format"],
+    "answer": "Portable Document Format"
+  },
+  {
+    "question": "Which key is used to delete text to the right of the cursor?",
+    "options": ["Delete", "Backspace", "Insert", "Home"],
+    "answer": "Delete"
+  },
+  {
+    "question": "What does URL stand for?",
+    "options": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Resource Link", "Universal Resource Locator"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which of these is a type of computer virus?",
+    "options": ["Trojan Horse", "Firewall", "Antivirus", "Router"],
+    "answer": "Trojan Horse"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "HighTech Transfer Process", "HyperText Transmission Protocol", "High Transfer Text Protocol"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which component stores data permanently in a computer?",
+    "options": ["RAM", "CPU", "Hard Disk", "Cache"],
+    "answer": "Hard Disk"
+  },
+  {
+    "question": "What does LAN stand for?",
+    "options": ["Local Area Network", "Large Area Network", "Long Area Network", "Limited Access Network"],
+    "answer": "Local Area Network"
+  },
+  {
+    "question": "Which software is used to browse the internet?",
+    "options": ["Microsoft Word", "Web Browser", "Excel", "PowerPoint"],
+    "answer": "Web Browser"
+  },
+  {
+    "question": "What does ROM stand for?",
+    "options": ["Read Only Memory", "Random Only Memory", "Read Output Memory", "Random Output Memory"],
+    "answer": "Read Only Memory"
+  },
+  {
+    "question": "Which of these is an input device?",
+    "options": ["Printer", "Speaker", "Scanner", "Projector"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "What does BIOS stand for?",
+    "options": ["Basic Input Output System", "Binary Input Output System", "Basic Internal Operating System", "Binary Internal Operating System"],
+    "answer": "Basic Input Output System"
+  },
+  {
+    "question": "Which of these is a programming language?",
+    "options": ["HTML", "CSS", "Python", "JPEG"],
+    "answer": "Python"
+  },
+  {
+    "question": "What does SSD stand for in computer storage?",
+    "options": ["Solid State Drive", "Super Speed Drive", "System Storage Device", "Software Storage Disk"],
+    "answer": "Solid State Drive"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Essential files of MS DOS are",
+    "options": ["command.com", "IO.sys", "Msdos.sys", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "In MS Word, which of the following is not an option for change the case of text?",
+    "options": ["Lower case", "Indent case", "Sentence case", "Toggle case"],
+    "answer": "Indent case"
+  },
+  {
+    "question": "Operating system is",
+    "options": ["a collection of software routines", "a collection of hardware components", "a collection of input/output devices", "all of the above"],
+    "answer": "a collection of software routines"
+  },
+  {
+    "question": "Which of the following is not an operating system?",
+    "options": ["CP/M", "Unix", "Pascal", "MS DOS"],
+    "answer": "Pascal"
+  },
+  {
+    "question": "Cryptography technique is used in",
+    "options": ["File management", "Polling", "Job scheduling", "Protection"],
+    "answer": "Protection"
+  },
+  {
+    "question": "A Front End processor is used in",
+    "options": ["multiprocessing", "multiprogramming", "virtual storage", "time sharing"],
+    "answer": "multiprocessing"
+  },
+  {
+    "question": "Which of the following is not part of the merge process?",
+    "options": ["Main document", "Data field", "Merge field", "Data source"],
+    "answer": "Data field"
+  },
+  {
+    "question": "In MS Word, you can decrease your document by one page by using the",
+    "options": ["Reduce by one page button", "Shrink to fit button", "Fit to one page button", "Magnifier button"],
+    "answer": "Shrink to fit button"
+  },
+  {
+    "question": "The divide symbol is ......",
+    "options": [")", "D", "/", "\\"],
+    "answer": "/"
+  },
+  {
+    "question": "New record is added using ......",
+    "options": ["append record into from browse menu", "append record from browse menu", "add record from edit menu", "all of the above"],
+    "answer": "append record from browse menu"
+  },
+  {
+    "question": "In MS Access ...... is used to build and modify database objects and also to create new queries.",
+    "options": ["Layout preview", "Datasheet view", "Design view", "Print preview"],
+    "answer": "Design view"
+  },
+  {
+    "question": "Which of the following is not the type of relationship?",
+    "options": ["Access", "Presentation package", "One to one", "One to many"],
+    "answer": "Presentation package"
+  },
+  {
+    "question": "PowerPoint is also known as ......",
+    "options": ["Access", "Presentation package", "Database package", "Excel"],
+    "answer": "Presentation package"
+  },
+  {
+    "question": "The shortcut key to view show is ......",
+    "options": ["F5", "F6", "F4", "F8"],
+    "answer": "F5"
+  },
+  {
+    "question": "The PowerPoint view that displays only text (title and bullets) is ......",
+    "options": ["Outline view", "Slide view", "Slide sorter view", "Notes page view"],
+    "answer": "Outline view"
+  },
+  {
+    "question": "Material consisting of text and number, the best presented as ......",
+    "options": ["A bullet slide", "A table slide", "A title slide", "All of the above"],
+    "answer": "A table slide"
+  },
+  {
+    "question": "Which one of the following is consider as a office package?",
+    "options": ["MS PowerPoint", "Visual Basic", "C++", "Java"],
+    "answer": "MS PowerPoint"
+  },
+  {
+    "question": "Full form of HTML is ......",
+    "options": ["Hyper Text Main Language", "Hyper Text Mark Up Language", "High Technology Machine Language", "None of the above"],
+    "answer": "Hyper Text Mark Up Language"
+  },
+  {
+    "question": "Word inside <> is called in HTML as:",
+    "options": ["Tags", "HTML", "Body", "Head"],
+    "answer": "Tags"
+  },
+  {
+    "question": "HTML is similar to a ......",
+    "options": ["Search engine", "Word processing language", "Screen editor", "Scripting language"],
+    "answer": "Word processing language"
+  },
+  {
+    "question": "Which of the following is a part of central processing unit (CPU) of computer?",
+    "options": ["Control unit", "Hard disk", "Graphics card", "MODEM"],
+    "answer": "Control unit"
+  },
+  {
+    "question": "Charles Babbage \"Father of Computer\" has invented ......",
+    "options": ["Microprocessor", "DOS", "Mainframe computer", "Analytical engine"],
+    "answer": "Analytical engine"
+  },
+  {
+    "question": "ASCII stands for ......",
+    "options": ["American Standard Code for Information Interchange", "American Scientist Council for Information Imagine", "All Standard Code for Information Interchange", "All ways Status Correct Information Engine"],
+    "answer": "American Standard Code for Information Interchange"
+  },
+  {
+    "question": "Address assigned computer where connected in a network is known as:",
+    "options": ["Domain Name Server (DNS)", "Network Node", "System ID", "Internet Protocol (IP)"],
+    "answer": "Internet Protocol (IP)"
+  },
+  {
+    "question": "In MS-Excel, to delete an embedded object, first:",
+    "options": ["Select it and then press the delete key", "Double-click the object", "Select the object by clicking it", "Press the Shift + Delete Keys"],
+    "answer": "Select it and then press the delete key"
+  },
+  {
+    "question": "In MS Excel, to drag a selected range of data to another worksheet in the same workbook, use the:",
+    "options": ["Ctrl key", "Tab key", "Alt key", "Shift key"],
+    "answer": "Alt key"
+  },
+  {
+    "question": "How many rows are there in excel worksheet?",
+    "options": ["35", "65535", "65256", "65536"],
+    "answer": "65536"
+  },
+  {
+    "question": "Protection sub menu is found in",
+    "options": ["Tools", "View", "Insert", "Format"],
+    "answer": "Tools"
+  },
+  {
+    "question": "In MS Excel, you can activate cell by",
+    "options": ["Pressing an arrow key", "Pressing the tab key", "Clicking at cell", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which one of the following is short key of copy?",
+    "options": ["Ctrl + V", "Alt + C", "Ctrl + C", "Alt + D"],
+    "answer": "Ctrl + C"
+  },
+  {
+    "question": "In MS Excel, when integrating word and excel, word is usually the",
+    "options": ["Client and destination", "Server", "Source", "All of the above"],
+    "answer": "Client and destination"
+  },
+  {
+    "question": "What are the main building blocks of a database?",
+    "options": ["Tables", "Lists", "Queries", "All of the above"],
+    "answer": "Tables"
+  },
+  {
+    "question": "Which of the following is not a relational database?",
+    "options": ["Reflex", "FoxPro", "Dbase IV", "4th Dimension"],
+    "answer": "Reflex"
+  },
+  {
+    "question": "A phone number in a database is an example of a:",
+    "options": ["File", "Field", "Record", "Sort"],
+    "answer": "Field"
+  },
+  {
+    "question": "Which command is used to find and display all records that match the text that you enter?",
+    "options": ["Remove/Sort", "Filter by selection", "Filter excluding selection", "Filter for"],
+    "answer": "Filter for"
+  },
+  {
+    "question": "A ...... helps you perform routine tasks by automating them.",
+    "options": ["Report", "Query", "Macro", "Form"],
+    "answer": "Macro"
+  },
+  {
+    "question": "The selection bar is",
+    "options": ["located below the status bar in the word window", "below the title bar", "to the far left of your document", "used to open other office application"],
+    "answer": "to the far left of your document"
+  },
+  {
+    "question": "Which of the following is not an option for changing the case of text?",
+    "options": ["Lower case", "Sentence case", "Toggle case", "Indent C"],
+    "answer": "Indent C"
+  },
+  {
+    "question": "Which of the following is not a paragraph formatting?",
+    "options": ["Bold face", "Alignment", "Indenting", "Line spacing"],
+    "answer": "Bold face"
+  },
+  {
+    "question": "The shortcut key Ctrl + Z is used for",
+    "options": ["Save the file with changes", "Redo", "Undo", "Close word"],
+    "answer": "Undo"
+  },
+  {
+    "question": "In MS Word, you can display margins in text on the horizontal or vertical ruler with the mouse and",
+    "options": ["the space bar", "the Alt key", "the delete key", "the font size button"],
+    "answer": "the Alt key"
+  },
+  {
+    "question": "1GB pen drive has capacity equivalent to how many 1KB pen drive?",
+    "options": ["1024×1024", "1024×1024", "1024×1024×1024", "1024×1024×1024×1024"],
+    "answer": "1024×1024×1024"
+  },
+  {
+    "question": "Which of the following is an output device?",
+    "options": ["Scanner", "Light pen", "Joy stick", "Plotter"],
+    "answer": "Plotter"
+  },
+  {
+    "question": "The speed of printer is measured in Following term:",
+    "options": ["DPI", "GPI", "PPM", "Print rate index"],
+    "answer": "PPM"
+  },
+  {
+    "question": "Among the following communication system, which is the fastest?",
+    "options": ["Co-axial cable", "UTP cable", "CAT 6 cable", "Optic Fibre cable"],
+    "answer": "Optic Fibre cable"
+  },
+  {
+    "question": "What is the name of software that allows user to access web pages?",
+    "options": ["FTP client", "Messenger", "Mail Client", "Browser"],
+    "answer": "Browser"
+  },
+  {
+    "question": "Windows is GUI operating system, where GUI stands for",
+    "options": ["Graphical User Interface", "Graphical Utility Interface", "Basic Input Output System", "Booting Information Output Sequence"],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "question": "The fundamental information required for booting computer is stored in BIOS, BIOS stands for",
+    "options": ["Booting Input Output Sequence", "Basic Information Output Storage", "Basic Input Output System", "Booting Information Output Sequence"],
+    "answer": "Basic Input Output System"
+  },
+  {
+    "question": "Which of the following is the volatile memory?",
+    "options": ["Floppy disk memory", "Random Access memory", "Flash memory", "Read only memory"],
+    "answer": "Random Access memory"
+  },
+  {
+    "question": "Which of the following is not an integral function of OS?",
+    "options": ["Organize File and Folders", "Run application software", "Control input output device", "Control virus and malwares"],
+    "answer": "Control virus and malwares"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Virus is",
+    "options": ["Utility program", "Application software", "Unwanted computer program", "All of the above"],
+    "answer": "Unwanted computer program"
+  },
+  {
+    "question": "Which of the following statement is correct?",
+    "options": ["Cache memory is Greater than RAM", "Cache memory is smaller than RAM", "RAM is faster than ROM", "All"],
+    "answer": "Cache memory is smaller than RAM"
+  },
+  {
+    "question": "Carbon print copy can be created by",
+    "options": ["Laser printer", "Inkjet printer", "Dot matrix printer", "All of the above"],
+    "answer": "Dot matrix printer"
+  },
+  {
+    "question": "Which statement is valid?",
+    "options": ["1KB = 1024 bytes", "1MB=2048bytes", "1MB=1000kilobytes", "1KB=1000bytes"],
+    "answer": "1KB = 1024 bytes"
+  },
+  {
+    "question": "VGA refers to",
+    "options": ["Video Graphic Array", "Visual Graphics Array", "Volatile Graphics Array", "Visual Graphics Adapter"],
+    "answer": "Video Graphic Array"
+  },
+  {
+    "question": "Monitor is",
+    "options": ["Serial & Block Device", "Serial & Character Device", "Parallel & Block Device", "Parallel & Character"],
+    "answer": "Parallel & Character"
+  },
+  {
+    "question": "IP Address size of IPV4",
+    "options": ["2 byte", "3 byte", "4 byte", "6 byte"],
+    "answer": "4 byte"
+  },
+  {
+    "question": "WWW stands for",
+    "options": ["World Wide Web", "Wide World Web", "Word Wide Web", "World Wide Word"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "The brain of any computer system is",
+    "options": ["ALU", "Memory", "Control Unit", "CPU"],
+    "answer": "CPU"
+  },
+  {
+    "question": "Objective of IT policy",
+    "options": ["Accessible Information Technology to the general public", "To access ISP", "To increase cyber crime", "All"],
+    "answer": "Accessible Information Technology to the general public"
+  },
+  {
+    "question": "The program in ROM is called",
+    "options": ["Software", "Hardware", "Firmware", "Humanware"],
+    "answer": "Firmware"
+  },
+  {
+    "question": "USB stands for",
+    "options": ["Universal Serial Bus", "Universal System Bus", "Uniform Serial Bus", "None"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "question": "Internal command residing in",
+    "options": ["config.sys", "command.com", "IO.sys", "internal.com"],
+    "answer": "command.com"
+  },
+  {
+    "question": "Which command displays the list of all previous commands entered by the user?",
+    "options": ["COMMANDS/ALL", "KEYDOS", "DOSKEY", "DIR/ALL"],
+    "answer": "DOSKEY"
+  },
+  {
+    "question": "Function of Alt + Ctrl + Delete",
+    "options": ["Activate task manager", "Run", "Cancel program", "Shutdown"],
+    "answer": "Activate task manager"
+  },
+  {
+    "question": "DOS makes which of the special batch file named",
+    "options": ["AUTOEXEC.BAT", "AUTOEXE.BAT", "AUTOEXEC.BAT", "AUTOEXC.BAT"],
+    "answer": "AUTOEXEC.BAT"
+  },
+  {
+    "question": "Linked file name & extension",
+    "options": ["(comma)", ".(period)", "- (dash)", "; (semi colon)"],
+    "answer": ".(period)"
+  },
+  {
+    "question": "Which is executable file?",
+    "options": [".exe", ".doc", ".tif", "All of the above"],
+    "answer": ".exe"
+  },
+  {
+    "question": "Which of the following shortcut key is used to check spelling?",
+    "options": ["F1", "F2", "F7", "F9"],
+    "answer": "F7"
+  },
+  {
+    "question": "Which of the following bar is not available in MS Word?",
+    "options": ["Toolbar", "Formula bar", "Menu bar", "Status bar"],
+    "answer": "Formula bar"
+  },
+  {
+    "question": "Function of Ctrl + Shift + D is",
+    "options": ["Double underline", "Single underline", "Insert date", "Insert date and time"],
+    "answer": "Double underline"
+  },
+  {
+    "question": "The status bar shows the",
+    "options": ["page number", "date & time", "cursor position", "Both A & C"],
+    "answer": "Both A & C"
+  },
+  {
+    "question": "MS Word used for",
+    "options": ["Text & documentation", "Presentation", "Calculation", "All of the above"],
+    "answer": "Text & documentation"
+  },
+  {
+    "question": "The view to see how appears text & graphics are in page after printing is",
+    "options": ["Page Layout", "Print Preview", "Outline Layout", "Web Page Layout"],
+    "answer": "Print Preview"
+  },
+  {
+    "question": "Number of panes in window is",
+    "options": ["2", "3", "4", "6"],
+    "answer": "2"
+  },
+  {
+    "question": "Which protocol is used to transfer a file over the email?",
+    "options": ["UPD", "FTP", "SMTP", "TCP"],
+    "answer": "SMTP"
+  },
+  {
+    "question": "To make a number in cell C1 10% smaller than the number in C3 you enter",
+    "options": ["=C3*1.10", "=C3*110", "=C3%10", "=C3*.90"],
+    "answer": "=C3*.90"
+  },
+  {
+    "question": "To select several cells or ranges that are not touching each other, you would ...... while selecting",
+    "options": ["hold down the Ctrl key", "hold down the Shift key", "hold down the Alt key", "hold down Ctrl + Shift key"],
+    "answer": "hold down the Ctrl key"
+  },
+  {
+    "question": "What term describes explanatory text attached to a cell?",
+    "options": ["Callout", "Comment", "Dialog", "Extension"],
+    "answer": "Comment"
+  },
+  {
+    "question": "You can activate a cell by",
+    "options": ["Pressing the Tab key", "Clicking the cell", "Pressing an arrow key", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which of the following is an absolute cell reference?",
+    "options": ["!A!1", "$A$1", "#a#1", "A1"],
+    "answer": "$A$1"
+  },
+  {
+    "question": "To add al and a9 cell, which is true?",
+    "options": ["add(al:a9)", "sum(al to a9)", "sum(a1 and a9)", "sum(a1, a9)"],
+    "answer": "sum(a1, a9)"
+  },
+  {
+    "question": "Where cannot export from excel file?",
+    "options": [".doc", ".csv", ".html", ".xml"],
+    "answer": ".doc"
+  },
+  {
+    "question": "To display current date",
+    "options": ["date", "today", "time", "date & time"],
+    "answer": "today"
+  },
+  {
+    "question": "COUNT command is used to",
+    "options": ["Count the number of data fields in an active database file", "Count the number of data files which are active", "Count the records which are updated", "Count the number of records in an active database file"],
+    "answer": "Count the number of records in an active database file"
+  },
+  {
+    "question": "Database has",
+    "options": ["design view", "datasheet view", "format view", "Both A and B"],
+    "answer": "Both A and B"
+  },
+  {
+    "question": "Which command is used to display the record that satisfies the specified criteria?",
+    "options": ["FIND QUERY", "SEARCH QUERY", "SELECT QUERY", "LOCATE QUERY"],
+    "answer": "SELECT QUERY"
+  },
+  {
+    "question": "Which of the following is not an Access database object?",
+    "options": ["Datasheet", "Table", "Form", "Query"],
+    "answer": "Datasheet"
+  },
+  {
+    "question": "What is the maximum character for text field?",
+    "options": ["64 character", "255 character", "512 character", "None"],
+    "answer": "255 character"
+  },
+  {
+    "question": "Linked 2 computers for data transfer over telephone line",
+    "options": ["Modem", "Network", "Protocol", "None"],
+    "answer": "Modem"
+  },
+  {
+    "question": "Real time operation is done by computer ......",
+    "options": ["Accuracy", "Multiple", "Speed", "Versatility"],
+    "answer": "Speed"
+  },
+  {
+    "question": "Connector or central device in star topology",
+    "options": ["Bridge", "Hub & Switch", "Router", "None"],
+    "answer": "Hub & Switch"
+  },
+  {
+    "question": "You can create a new presentation by completing all of the following except",
+    "options": ["Clicking the new button on the standard toolbar", "Clicking file, new", "Clicking file, open", "Pressing Ctrl + N"],
+    "answer": "Clicking file, open"
+  },
+  {
+    "question": "Which key on the keyboard can be used to view the presentation?",
+    "options": ["F1", "F2", "F5", "F10"],
+    "answer": "F5"
+  },
+  {
+    "question": "To insert a new slide in the current presentation, we can choose",
+    "options": ["Ctrl + M", "Ctrl + N", "Ctrl + O", "Ctrl + F"],
+    "answer": "Ctrl + M"
+  },
+  {
+    "question": "Maximum number of slides can be printed in a page is called",
+    "options": ["3", "6", "9", "12"],
+    "answer": "9"
+  },
+  {
+    "question": "Which can be inserted in presentation?",
+    "options": ["Text", "Sound", "Video", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which is correct for applying background in page?",
+    "options": ["<body bg color=\"color\">", "<body bgcolor=\"color\">", "<body bg-color=\"color\">", "None"],
+    "answer": "<body bgcolor=\"color\">"
+  },
+  {
+    "question": "What is C++?",
+    "options": ["Application software.", "System software.", "Programming language.", "None."],
+    "answer": "Programming language."
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hypertext Markup Language", "Hyper Test Mark up Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language"],
+    "answer": "Hypertext Markup Language"
+  }
+]

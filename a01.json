@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Which of the following company developed MS Office?",
+    "options": ["Apple", "Novell", "Microsoft", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "Which of the following memory needs continuous electricity for the refreshment?",
+    "options": ["RAM", "ROM", "SRAM", "DRAM"],
+    "answer": "DRAM"
+  },
+  {
+    "question": "Which of the following device understands the user's instructions?",
+    "options": ["Input", "Output", "Memory", "Microprocessor"],
+    "answer": "Input"
+  },
+  {
+    "question": "How many bytes are there in 1GB of memory?",
+    "options": ["2^60", "2^9", "2^30", "2^10"],
+    "answer": "2^30"
+  },
+  {
+    "question": "Which of the following is the software?",
+    "options": ["Application software", "System software", "Packaged software", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the name of the symbol that shows the placement of the next character?",
+    "options": ["Mouse", "Cursor", "Trackball", "Joystick"],
+    "answer": "Cursor"
+  },
+  {
+    "question": "What is the LAN card termed as?",
+    "options": ["Modem", "NIC", "Internet Card", "Network connector"],
+    "answer": "NIC"
+  },
+  {
+    "question": "What is the full form of FAT?",
+    "options": ["File Allocation Table", "File Accommodation Table", "File Access Table", "File Activity Table"],
+    "answer": "File Allocation Table"
+  },
+  {
+    "question": "Which of the following is not an operating system?",
+    "options": ["DOS", "UNIX", "Oracle", "Linux"],
+    "answer": "Oracle"
+  },
+  {
+    "question": "Which of the following computer is used to measure the continuous value?",
+    "options": ["Analog", "Digital", "Hybrid", "None"],
+    "answer": "Analog"
+  },
+  {
+    "question": "What is the full form of POST?",
+    "options": ["Power On Self Test", "Power Off Self Test", "Power On Self Text", "All"],
+    "answer": "Power On Self Test"
+  },
+  {
+    "question": "Which of the following is not a protocol used by internet?",
+    "options": ["SMTP", "UDP", "SMAP", "TCP"],
+    "answer": "SMAP"
+  },
+  {
+    "question": "Which command is used to give the volume name of the disk?",
+    "options": ["Label", "Vol", "Volume", "Disk label"],
+    "answer": "Label"
+  },
+  {
+    "question": "Which command is used to see the version of operating system?",
+    "options": ["Ver", "Version", "Verify", "All"],
+    "answer": "Ver"
+  },
+  {
+    "question": "Which command is used to recover accidentally delete files from the computer?",
+    "options": ["UNDELETE", "RESTORE", "RECOVER", "Cancel"],
+    "answer": "UNDELETE"
+  },
+  {
+    "question": "The active cell is identified with the ______.",
+    "options": ["black border", "cell pointer", "cross line", "white border"],
+    "answer": "black border"
+  },
+  {
+    "question": "Which command is used to see the system line?",
+    "options": ["Time", "Date", "Cls", "Dir"],
+    "answer": "Date"
+  },
+  {
+    "question": "What is the smallest element of picture?",
+    "options": ["Icon", "Pixel", "Silicon chip", "Optical illusion"],
+    "answer": "Pixel"
+  },
+  {
+    "question": "Which of the following shortcut key is used to save the file?",
+    "options": ["Ctrl + A", "Ctrl + P", "Ctrl + S", "Alt + S"],
+    "answer": "Ctrl + S"
+  },
+  {
+    "question": "What keeps the space between the characters in MS Word?",
+    "options": ["Proposition", "Kerning", "Spacing", "Pre-formatting"],
+    "answer": "Spacing"
+  },
+  {
+    "question": "MS Office provides a full-fledged web page designing package, which of the following is that?",
+    "options": ["MS Front Page", "MS Excel", "MS Word", "MS Access"],
+    "answer": "MS Front Page"
+  },
+  {
+    "question": "From which menu do you place the picture on your document?",
+    "options": ["Edit", "View", "Insert", "Tools"],
+    "answer": "Insert"
+  },
+  {
+    "question": "For what purpose, the Thesaurus is used?",
+    "options": ["Checking spelling", "Checking synonyms", "Correcting meaning", "Correcting grammar"],
+    "answer": "Checking synonyms"
+  },
+  {
+    "question": "In which menu, does the letters and mailing labels?",
+    "options": ["Tools", "Insert", "Format", "Data"],
+    "answer": "Tools"
+  },
+  {
+    "question": "MS Office provides help in many ways, which of the following are more closer to help?",
+    "options": ["What is this?", "Office Assistant", "Help Menu", "All of the above"],
+    "answer": "Office Assistant"
+  },
+  {
+    "question": "What is the extension of workbook file?",
+    "options": [".txt", ".doc", ".xls", ".tmp"],
+    "answer": ".xls"
+  },
+  {
+    "question": "What is the formula to add A1 and B1?",
+    "options": ["=add(A1+B1)", "=(A2,B1)", "=A1+B1", "together(A1+B1)"],
+    "answer": "=A1+B1"
+  },
+  {
+    "question": "What is B2 in excel?",
+    "options": ["column heading B and row 2", "row heading", "cell reference", "both a & B"],
+    "answer": "cell reference"
+  },
+  {
+    "question": "From which menu, you can hide sheet?",
+    "options": ["View", "Insert", "Format", "Window"],
+    "answer": "Format"
+  },
+  {
+    "question": "Which of the following key is used to slide show?",
+    "options": ["F1", "F2", "F5", "F10"],
+    "answer": "F5"
+  },
+  {
+    "question": "Presentation design that regulates the formatting and layout for the slide and are commonly called?",
+    "options": ["Auto style", "Template", "Wizard", "Pre-formatting"],
+    "answer": "Template"
+  },
+  {
+    "question": "Text and number is best described as",
+    "options": ["Title slide", "Table slide", "Chart slide", "Normal slide"],
+    "answer": "Table slide"
+  },
+  {
+    "question": "Which is not a field property?",
+    "options": ["Format", "Indexed", "Colour", "Field size"],
+    "answer": "Colour"
+  },
+  {
+    "question": "Which of the following automate the task?",
+    "options": ["Macro", "Autotext", "Wizard", "Template"],
+    "answer": "Macro"
+  },
+  {
+    "question": "Each individual data item is called",
+    "options": ["Field", "Data type", "Comment", "All of the above"],
+    "answer": "Field"
+  },
+  {
+    "question": "A numeric value can be presented as label, if it is preceded with ______.",
+    "options": ["!", "! #", "#", "'"],
+    "answer": "'"
+  },
+  {
+    "question": "Which of the following is not related to MS Excel?",
+    "options": ["Row", "Column", "Lookup", "Record"],
+    "answer": "Record"
+  },
+  {
+    "question": "Which of the following is related to retrieval of data?",
+    "options": ["Query", "Field", "Record", "Data type"],
+    "answer": "Query"
+  },
+  {
+    "question": "The function that are related to textual data are called:",
+    "options": ["financial function", "numeric function", "string function", "scientific function"],
+    "answer": "string function"
+  },
+  {
+    "question": "What are the data called?",
+    "options": ["Raw and number", "Image", "Facts and figure", "None"],
+    "answer": "Facts and figure"
+  },
+  {
+    "question": "Which of the following is the database programme?",
+    "options": ["MS Access", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "MS Access"
+  },
+  {
+    "question": "How can you search for files and folders in your computer?",
+    "options": ["Type google.com in internet explorer", "Use start > search > for files and folder", "Start > Run", "All"],
+    "answer": "Use start > search > for files and folder"
+  },
+  {
+    "question": "Which of the following can't be done using control panel?",
+    "options": ["Time setting", "Display setting", "Booting setting", "Printer setting"],
+    "answer": "Booting setting"
+  },
+  {
+    "question": "Which of the following type of data is transmitted by the Fibre Optic Cable?",
+    "options": ["True", "False", "Both of Above", "None"],
+    "answer": "Both of Above"
+  },
+  {
+    "question": "What is internet?",
+    "options": ["Interconnected network", "Local Area Network", "Computer connected with user", "All"],
+    "answer": "Interconnected network"
+  },
+  {
+    "question": "What is the unit of memory that equals to a single character?",
+    "options": ["Byte", "Bit", "Kilo Byte", "Nibble"],
+    "answer": "Byte"
+  },
+  {
+    "question": "Which of the following files are executable files of MS.DOS?",
+    "options": [".com, .sys, .bat", ".sys, .exe, .cfg", ".txt, .doc, .xls", "None"],
+    "answer": ".com, .sys, .bat"
+  },
+  {
+    "question": "What are the files of DBMS called?",
+    "options": ["Table", "Attribute", "Field", "None"],
+    "answer": "Table"
+  },
+  {
+    "question": "From where you can add and remove the application program in your computer?",
+    "options": ["Control Panel", "My Computer", "Recycle bin", "Internet Explorer"],
+    "answer": "Control Panel"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which is the first computing device?",
+    "options": ["ABACUS", "UNIVAC-I", "IBM-1400", "Marc-II"],
+    "answer": "ABACUS"
+  },
+  {
+    "question": "Which is non-impact printer?",
+    "options": ["Laser Printer", "Dot matrix", "Daisy wheel", "Line"],
+    "answer": "Laser Printer"
+  },
+  {
+    "question": "Which one is sequential serial access device?",
+    "options": ["Floppy disk", "Magnetic tape", "Compact disk", "None of the above"],
+    "answer": "Magnetic tape"
+  },
+  {
+    "question": "Which command is used to copy file myfile.doc from floppy disk to hard disk?",
+    "options": ["copy a:\\myfile.doc c:", "copy c:\\myfile.doc a:", "copy a:\\c:\\myfile.doc", "none of the above"],
+    "answer": "copy a:\\myfile.doc c:"
+  },
+  {
+    "question": "Which is not system tool?",
+    "options": ["Folder", "Backup", "Scandisk", "Format"],
+    "answer": "Folder"
+  },
+  {
+    "question": "Which is not concern with control panel?",
+    "options": ["Printer", "Run application", "Font", "Keyboard"],
+    "answer": "Run application"
+  },
+  {
+    "question": "Desktop is a",
+    "options": ["Provide workspace", "Screen saver", "Display program", "Working with my doc"],
+    "answer": "Provide workspace"
+  },
+  {
+    "question": "URL is a",
+    "options": ["Uniform Resource Locator", "United Resource Locator", "United Resource Location", "Uniform Resource Location"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "The abbreviation of HTML is ......",
+    "options": ["Hyper Text Mark-Up Language", "Hyper Text Marque Language", "Hybrid Text Marque Language", "Hyper Type Mark Location"],
+    "answer": "Hyper Text Mark-Up Language"
+  },
+  {
+    "question": "Full form of LSI",
+    "options": ["Large Scale Integrated", "Large Scale Integration", "Long Scale Integrated", "None of the above"],
+    "answer": "Large Scale Integration"
+  },
+  {
+    "question": "Full form of EEPROM",
+    "options": ["Electrically Erasable Programmable Read Only Memory", "Electronically Erasable Programmable Read Only Memory", "Electric Erasable Programmable Read Only Memory", "None of the above"],
+    "answer": "Electrically Erasable Programmable Read Only Memory"
+  },
+  {
+    "question": "Which one is primary storage?",
+    "options": ["PROM", "Hard disk", "CPU", "Zip disk"],
+    "answer": "PROM"
+  },
+  {
+    "question": "Which memory loses data when power is off?",
+    "options": ["RAM", "PROM", "EAPROM", "ROM"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Which program translates one line at time?",
+    "options": ["Interpreter", "Translator", "Compiler", "Assembler"],
+    "answer": "Interpreter"
+  },
+  {
+    "question": "What gives when word is opened?",
+    "options": ["Default setting", "Formatting setting", "Paragraph setting", "Standard setting"],
+    "answer": "Default setting"
+  },
+  {
+    "question": "Which one displays antonyms and synonyms?",
+    "options": ["tools\\language\\thesaurus", "tools\\language\\dictionary", "tools\\language\\synonyms", "none of above"],
+    "answer": "tools\\language\\thesaurus"
+  },
+  {
+    "question": "Indentation is a ......",
+    "options": ["left margin", "right margin", "left space of paragraph", "top"],
+    "answer": "left space of paragraph"
+  },
+  {
+    "question": "While typing, number in cell margin is,",
+    "options": ["Right align", "Justify", "Left align", "Centre align"],
+    "answer": "Right align"
+  },
+  {
+    "question": "Work space is a ......",
+    "options": ["Collection of workbook", "Collection of sheet", "Collection of documents", "none of above"],
+    "answer": "Collection of workbook"
+  },
+  {
+    "question": "Which character fixes row or column?",
+    "options": ["&", "$", "=", "@"],
+    "answer": "$"
+  },
+  {
+    "question": "What is integer value of 3/2+5*0.5+A1 where A1=0.75",
+    "options": ["4.75", "5", "3.75", "none"],
+    "answer": "5"
+  },
+  {
+    "question": "Which is not numeric data type?",
+    "options": ["byte", "bit", "single", "double"],
+    "answer": "bit"
+  },
+  {
+    "question": "Which object uses table and report?",
+    "options": ["Switch board", "Query", "Report", "Form"],
+    "answer": "Query"
+  },
+  {
+    "question": "How many relation can be formed with two tables?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "question": "Which one is unique field?",
+    "options": ["Primary key", "Foreign key", "Index key", "None"],
+    "answer": "Primary key"
+  },
+  {
+    "question": "Which is not Data field type?",
+    "options": ["OLE", "Memo", "Lookup wizard", "E-mail"],
+    "answer": "E-mail"
+  },
+  {
+    "question": "Function of F5 in PowerPoint",
+    "options": ["Slide sorter", "View show", "Slide view", "Normal views"],
+    "answer": "View show"
+  },
+  {
+    "question": "How many options is display in PowerPoint starting?",
+    "options": ["2", "4", "3", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "Which heading appears when exploring PowerPoint slide into word?",
+    "options": ["Heading 1", "Heading 2", "Heading 3", "Heading 4"],
+    "answer": "Heading 1"
+  },
+  {
+    "question": "Website is a ......",
+    "options": ["Collection of related webpage", "Collection of web page", "Collection of document", "Collection of file"],
+    "answer": "Collection of related webpage"
+  },
+  {
+    "question": "Which is graphical presentation?",
+    "options": ["Folder", "Icon", "File", "None of above"],
+    "answer": "Icon"
+  },
+  {
+    "question": "Which fields appears when report is created with report wizard?",
+    "options": ["All fields", "Selected field", "Related fields", "All of the above"],
+    "answer": "All fields"
+  },
+  {
+    "question": "Which characters forms the formula in excel?",
+    "options": ["=", "+", "^", "*"],
+    "answer": "="
+  },
+  {
+    "question": "What is multimedia?",
+    "options": ["Sound, text, video, picture", "Sound, video, picture", "Text and picture", "Video and sound"],
+    "answer": "Sound, text, video, picture"
+  },
+  {
+    "question": "What is the combination of characters and paragraph formatting?",
+    "options": ["Style", "Theme", "Auto format", "Paragraph"],
+    "answer": "Style"
+  },
+  {
+    "question": "Which chart will show nominal data series?",
+    "options": ["Pie", "Bar", "Line", "Column"],
+    "answer": "Pie"
+  },
+  {
+    "question": "Which menu provides apply design in PowerPoint?",
+    "options": ["Format menu", "Slideshow menu", "Insert menu", "Edit menu"],
+    "answer": "Format menu"
+  },
+  {
+    "question": "How many tracks and sector contains MFDD?",
+    "options": ["40, 9", "30, 9", "50, 9", "60, 9"],
+    "answer": "40, 9"
+  },
+  {
+    "question": "Which option provides user to create separate document format or layouts?",
+    "options": ["Create section break", "Create page break", "Create column break", "Text wrapping break"],
+    "answer": "Create section break"
+  },
+  {
+    "question": "How do you create new news paper column?",
+    "options": ["Format/column", "Insert/column", "Edit/column", "Tools/column"],
+    "answer": "Format/column"
+  },
+  {
+    "question": "Full form of E-R diagram",
+    "options": ["Engineer Relation Diagram", "Entity Relation Diagram", "External Relation Diagram", "Internal Relation Diagram"],
+    "answer": "Entity Relation Diagram"
+  },
+  {
+    "question": "Which does not detect virus?",
+    "options": ["Oracle", "Name", "F-Prot", "MacAfee"],
+    "answer": "Oracle"
+  },
+  {
+    "question": "Advantage of Networking",
+    "options": ["Internet", "Email", "Data share", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which is a part of CPU?",
+    "options": ["ALU", "CU", "Register Unit", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the function of print manager?",
+    "options": ["Print queue", "Print cancel", "Print stop", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "How many sheets will open when excel is loaded (default value)?",
+    "options": ["3", "5", "7", "Unlimited"],
+    "answer": "3"
+  },
+  {
+    "question": "To Go to specified page ......",
+    "options": ["go to", "search", "find", "all of the above"],
+    "answer": "go to"
+  },
+  {
+    "question": "Data is",
+    "options": ["Raw facts", "Processed details", "Data record", "None of the above"],
+    "answer": "Raw facts"
+  },
+  {
+    "question": "Which is not sending message from word?",
+    "options": ["Mail recipient", "Fax recipient", "Internet explorer", "PowerPoint"],
+    "answer": "PowerPoint"
+  },
+  {
+    "question": "Modem is used for",
+    "options": ["data transfer", "Internet connect", "email connect", "None of the above"],
+    "answer": "Internet connect"
+  }
+]

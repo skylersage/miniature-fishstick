@@ -1,0 +1,252 @@
+[
+  {
+    "question": "In MS Word, every command is available in?",
+    "options": ["Letter", "Icon", "Printer", "Menu"],
+    "answer": "Menu"
+  },
+  {
+    "question": "Which view in Word can't display graphics?",
+    "options": ["Normal view", "Page layout view", "Print preview", "None of these"],
+    "answer": "Normal view"
+  },
+  {
+    "question": "Which is not an advantage of using computerized spreadsheet?",
+    "options": ["Flexibility of moving entries", "Speed of calculation", "Ability of generate tables", "Cost of initial setup"],
+    "answer": "Cost of initial setup"
+  },
+  {
+    "question": "When you are typing an equation into a cell the first thing that you must be entered ......",
+    "options": ["Parenthesis", "Quotation mark", "Equal sign", "Exclamation"],
+    "answer": "Equal sign"
+  },
+  {
+    "question": "The LEN function does what?",
+    "options": ["Compare the content in two cells", "Counts the number of characters in a cell", "Delete extra space in text", "All of above"],
+    "answer": "Counts the number of characters in a cell"
+  },
+  {
+    "question": "Append from command is used to ......",
+    "options": ["add records from a file", "add records from a variable", "add records from stock", "None"],
+    "answer": "add records from a file"
+  },
+  {
+    "question": "What is the name for match between the words or phrases being searched and items found in an electronic database?",
+    "options": ["bug", "Hit", "It", "Default"],
+    "answer": "Hit"
+  },
+  {
+    "question": "DBMS is ......",
+    "options": ["Collection of data", "Set of programs to access data", "Set of programs to update data", "All of above"],
+    "answer": "Set of programs to access data"
+  },
+  {
+    "question": "What term refers to a collection of related information?",
+    "options": ["Database", "List", "Outline", "Record"],
+    "answer": "Database"
+  },
+  {
+    "question": "To give a PowerPoint presentation to a large audience, you:",
+    "options": ["Setup your computer in a large auditorium, and click large, auditorium, OK", "Click the slide you wish the audience to see in normal view, then click the next slide and on.", "Chose either view, slide show or view show", "Click slide show, ok"],
+    "answer": "Chose either view, slide show or view show"
+  },
+  {
+    "question": "To import text from a word document that uses headings into a PowerPoint presentation:",
+    "options": ["This cannot be done in PowerPoint", "Click Insert, Slides from outline", "Click Import, word document heading", "Click File, New, Presentation from word headings"],
+    "answer": "Click Insert, Slides from outline"
+  },
+  {
+    "question": "The first electronic general purpose digital computer built by motley and Accrete called ENIAC did not work on the stored program concept. How many numbers could it store in the internal memory?",
+    "options": ["100", "20", "40", "80"],
+    "answer": "20"
+  },
+  {
+    "question": "Which of the following required large computer memory?",
+    "options": ["Imaging", "Graphics", "Voice", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Fourth generation of computer used ...... circuit.",
+    "options": ["IC", "VLSI", "LSI", "Transistor"],
+    "answer": "VLSI"
+  },
+  {
+    "question": "In excel to edit a cell content press ...... key.",
+    "options": ["F5", "F4", "F1", "F2"],
+    "answer": "F2"
+  },
+  {
+    "question": "In ...... data model are organized into tables.",
+    "options": ["Relational", "Network", "Tree", "Hierarchical"],
+    "answer": "Relational"
+  },
+  {
+    "question": "Excel has ...... function.",
+    "options": ["Relative", "Text", "Built-in", "Imported"],
+    "answer": "Text"
+  },
+  {
+    "question": "Microcomputers are also called ......",
+    "options": ["Fastest computer", "Network computer", "Personal computer", "Analog computer"],
+    "answer": "Personal computer"
+  },
+  {
+    "question": "High level language is developed by ......",
+    "options": ["USER", "CPU", "ROM", "Operating system"],
+    "answer": "USER"
+  },
+  {
+    "question": "A \"WORM\" in computer spoils by ......",
+    "options": ["Copying itself", "Deleting files", "Bugging programs", "Hacking programs"],
+    "answer": "Copying itself"
+  },
+  {
+    "question": "An input/output device at which data enters or leaves a computer system is ......",
+    "options": ["Printer", "Plotter", "Terminal", "Keyboard"],
+    "answer": "Terminal"
+  },
+  {
+    "question": "Which chips are erasable by ultra violet rays after removing them from main circuit?",
+    "options": ["ROM", "EPROM", "EEPROM", "RAM"],
+    "answer": "EPROM"
+  },
+  {
+    "question": "A typical personal computer now a days have RAM capacity of ......",
+    "options": ["256KB", "1MB", "128MB", "1GB"],
+    "answer": "1GB"
+  },
+  {
+    "question": "Wild card used to ......",
+    "options": ["Represents one unknown file", "Represents one directory", "Represent one letter", "Represents one extension"],
+    "answer": "Represent one letter"
+  },
+  {
+    "question": "Where is BIOS stored?",
+    "options": ["On the hard drive", "On a diskette", "On a USB drive", "On a Flash memory chip"],
+    "answer": "On a Flash memory chip"
+  },
+  {
+    "question": "Which below IP address would be used for a local network?",
+    "options": ["74.125.127.100", "69.72.169.241", "192.168.1.100", "209.131.36.100"],
+    "answer": "192.168.1.100"
+  },
+  {
+    "question": "Which of the below media types hold the most information?",
+    "options": ["Blue-ray", "CD", "DVD", "Floppy diskette"],
+    "answer": "DVD"
+  },
+  {
+    "question": "Which of the below utilities allow you to view a drives partition information?",
+    "options": ["Chkdsk", "Disk management", "Device manager", "Scandisk"],
+    "answer": "Disk management"
+  },
+  {
+    "question": "What is the minimum memory requirement for MS Windows XP?",
+    "options": ["32 MB", "64 MB", "128 MB", "256 MB"],
+    "answer": "64 MB"
+  },
+  {
+    "question": "What is XML short for?",
+    "options": ["eXtensive Markup Language", "eXtensible Markup Language", "eXtension Markup Language", "eXtensible Markup Language"],
+    "answer": "eXtensible Markup Language"
+  },
+  {
+    "question": "\"TMP\" extension refers usually to what kind of file?",
+    "options": ["Compressed file", "Image file", "Temporary file", "Audio file"],
+    "answer": "Temporary file"
+  },
+  {
+    "question": "Who built the world's first binary digit computer Z1?",
+    "options": ["Ken Thompson", "Konrad Zuse", "Alan Turing", "George Boole"],
+    "answer": "Konrad Zuse"
+  },
+  {
+    "question": "Which command is used to backup in DOS 6+ version?",
+    "options": ["Backup", "MS Backup", "MS Backedup", "All of the above"],
+    "answer": "MS Backup"
+  },
+  {
+    "question": "To copy the hidden system files of DOS to another disk you can use the command ......",
+    "options": ["copy", "xcopy", "sys", "disckopy"],
+    "answer": "sys"
+  },
+  {
+    "question": "The command used to copy a file named temp.doc from drive C: to drive A: is;",
+    "options": ["copy temp.doc to A:", "copy C:\\temp.doc A:", "copy C: A:", "copy temp A: C:"],
+    "answer": "copy C:\\temp.doc A:"
+  },
+  {
+    "question": "Which command be used to ask you to confirm that you want to delete the directory?",
+    "options": ["Deltree", "Deltree/f", "del\\*.*/p", "erase\\*.*"],
+    "answer": "Deltree"
+  },
+  {
+    "question": "Which of the following is NOT one of the four major data processing functions of a computer?",
+    "options": ["Gathering data", "Processing data into information", "Analyzing the data or information", "Storing the data or information"],
+    "answer": "Analyzing the data or information"
+  },
+  {
+    "question": "Technology no longer protected by copyright, available to everyone, is considered to be ......",
+    "options": ["Proprietary", "Open", "Experimental", "In the public domain"],
+    "answer": "Open"
+  },
+  {
+    "question": "The name for the way that computers manipulate data into information is called ......",
+    "options": ["Programming", "Processing", "Storing", "Organizing"],
+    "answer": "Processing"
+  },
+  {
+    "question": "Computers process data into information by working exclusively with ......",
+    "options": ["multimedia", "words", "characters", "numbers"],
+    "answer": "numbers"
+  },
+  {
+    "question": "In the binary language each letter of the alphabet, each letter of alphabet, each digit and each special character is made up of a unique combination of:",
+    "options": ["Eight bytes", "Eight bits", "Eight characters", "Eight kilobytes"],
+    "answer": "Eight bits"
+  },
+  {
+    "question": "Which of the following application is not included in office package?",
+    "options": ["Access", "Excel", "Word Perfect", "PowerPoint"],
+    "answer": "Word Perfect"
+  },
+  {
+    "question": "Macros are ......",
+    "options": ["small add-on programs that are installed afterward if you need them", "Programming language that you can use to customize word", "Large tools in word such as mail merge", "Small programs created in word to automate repetitive tasks by using VBA"],
+    "answer": "Small programs created in word to automate repetitive tasks by using VBA"
+  },
+  {
+    "question": "What process should be used to recall a document save previously?",
+    "options": ["Copy", "Save", "Open", "Enter"],
+    "answer": "Open"
+  },
+  {
+    "question": "Which of the following bar is not available in word?",
+    "options": ["Toolbar", "Formula bar", "Status bar", "Menu bar"],
+    "answer": "Formula bar"
+  },
+  {
+    "question": "One of the main features that distinguish microprocessor from microcomputers is ......",
+    "options": ["Words are usually larger in microprocessor", "Words are shorter in microprocessors", "Microprocessor does not contain I/O devices", "Exactly the same as the machine cycle time"],
+    "answer": "Microprocessor does not contain I/O devices"
+  },
+  {
+    "question": "Which generation of computer is still under development?",
+    "options": ["Fourth generation", "Fifth generation", "Sixth generation", "Seventh generation"],
+    "answer": "Fifth generation"
+  },
+  {
+    "question": "A factor in the selection of a source language is ......",
+    "options": ["Programmer skill", "Language availability", "Program compatibility with other software", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "All of the following are examples of real security and privacy risks except:",
+    "options": ["Hackers", "Spam", "Viruses", "Identity theft"],
+    "answer": "Hackers"
+  },
+  {
+    "question": "In HTML tag, OL and Li are related to creation of",
+    "options": ["List", "Line", "Level", "None of the above"],
+    "answer": "List"
+  }
+]

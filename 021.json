@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which memory is fastest to access?",
+    "options": ["Cache memory", "RAM", "ROM", "Bubble memory"],
+    "answer": "Cache memory"
+  },
+  {
+    "question": "Digital computer did not score over than analog computer?",
+    "options": ["Speed", "Accuracy", "Cost", "Memory"],
+    "answer": "Cost"
+  },
+  {
+    "question": "Which stored programme of companies products?",
+    "options": ["ROM", "PROM", "EPROM", "EEPROM"],
+    "answer": "ROM"
+  },
+  {
+    "question": "Which memory is used to Read and write simultaneously?",
+    "options": ["ROM", "RAM", "ALU", "All"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Which one is the brain of computer or heart of computer?",
+    "options": ["CPU", "Monitor", "Keyboard", "Server"],
+    "answer": "CPU"
+  },
+  {
+    "question": "Resolution of printer quality is measured in ......",
+    "options": ["Pin per inch", "Drum per inch", "Character per inch", "Dots per inch"],
+    "answer": "Dots per inch"
+  },
+  {
+    "question": "Two types of operating systems are ......",
+    "options": ["Sequential & Direct", "Offline & Online", "Logical & Permanent", "Batch & Timesharing"],
+    "answer": "Batch & Timesharing"
+  },
+  {
+    "question": "A computer professional working in a offices who operate computer is called ......",
+    "options": ["Shareware", "Humanware", "Firmware", "Airware"],
+    "answer": "Humanware"
+  },
+  {
+    "question": "We can protect our file from in Dos for editing?",
+    "options": ["Safety", "Attrib", "Searching", "Matrib"],
+    "answer": "Attrib"
+  },
+  {
+    "question": "What command is used for creating a directory?",
+    "options": ["DMD", "MD", "MKD", "CMD"],
+    "answer": "MD"
+  },
+  {
+    "question": "Completely computer close is done by ......",
+    "options": ["Close", "Exit", "Quit", "Shutdown"],
+    "answer": "Shutdown"
+  },
+  {
+    "question": "The system update or convert the FAT 16 into FAT 32?",
+    "options": ["FAT converter", "Encoder", "Charger", "Compiler"],
+    "answer": "FAT converter"
+  },
+  {
+    "question": "The RTF is ......",
+    "options": ["Rich text format", "Reach Text format", "Real text format", "Rich text form"],
+    "answer": "Rich text format"
+  },
+  {
+    "question": "In excel, multiplication is done by ......",
+    "options": ["/", "*", "&", "&"],
+    "answer": "*"
+  },
+  {
+    "question": "To Add together (A1:A2), which is the correct formula?",
+    "options": ["=sum(a1:a2)", "318:92", "=add(a1:a2)", "None"],
+    "answer": "=sum(a1:a2)"
+  },
+  {
+    "question": "Which one is a conditional operator?",
+    "options": ["OR", "IF", "AND", "Cov"],
+    "answer": "IF"
+  },
+  {
+    "question": "To join text from two cells, which operator is used?",
+    "options": ["&", "^", "#", "%"],
+    "answer": "&"
+  },
+  {
+    "question": "To edit chart object which is correct?",
+    "options": ["Click", "Drag", "Double click", "Triple click"],
+    "answer": "Double click"
+  },
+  {
+    "question": "To break page break horizontally, you can apply break ......",
+    "options": ["Place the cursor in row", "Place the cursor in column a", "Select the row below where you want to break", "All of the above"],
+    "answer": "Select the row below where you want to break"
+  },
+  {
+    "question": "How do you insert the picture into your documents?",
+    "options": ["Insert/Cliptart", "Insert/Picture", "Insert/Drawing", "Insert/Word Art"],
+    "answer": "Insert/Picture"
+  },
+  {
+    "question": "To search specific text in a document, you can used to press ......",
+    "options": ["Ctrl+G", "Ctrl+F", "Alt+F", "Shift+F"],
+    "answer": "Ctrl+F"
+  },
+  {
+    "question": "To update or Recalculate the value, you must press ......",
+    "options": ["Ctrl+F9", "F9", "Alt+F9", "Shift+F9"],
+    "answer": "F9"
+  },
+  {
+    "question": "Which is not way of creating new document?",
+    "options": ["Click new button", "File/New", "Ctrl+N", "File/Open"],
+    "answer": "File/Open"
+  },
+  {
+    "question": "Number and text will fitted or arranged in attractive presentation in ......",
+    "options": ["Bullet slide", "Table slide", "Title slide", "All"],
+    "answer": "Bullet slide"
+  },
+  {
+    "question": "Database is a ......",
+    "options": ["Relation", "Order", "List", "Collection of data"],
+    "answer": "Collection of data"
+  },
+  {
+    "question": "Which of the following is the largest unit of data?",
+    "options": ["Field", "Database", "Records", "Table"],
+    "answer": "Database"
+  },
+  {
+    "question": "To add data from which menu ......",
+    "options": ["Append from browse menu", "Append from browser", "Append from briefcase", "Append from edit menu"],
+    "answer": "Append from browse menu"
+  },
+  {
+    "question": "The append is ......",
+    "options": ["adds data mid of record source", "adds data top of record source", "adds data at the bottom of record source", "none"],
+    "answer": "adds data at the bottom of record source"
+  },
+  {
+    "question": "Which is used for bold HTML tag?",
+    "options": ["<b>text</b>", "<b>text<b>", "<text></b>", "None"],
+    "answer": "<b>text</b>"
+  },
+  {
+    "question": "Virus affect",
+    "options": ["Corrupts the file", "Destroy the keyboard", "Destroy the monitor", "None"],
+    "answer": "Corrupts the file"
+  },
+  {
+    "question": "The compiled program ...... than script.",
+    "options": ["Faster", "Slower", "Medium", "None"],
+    "answer": "Faster"
+  },
+  {
+    "question": "Which is not the elements of SQL?",
+    "options": ["Select", "From", "Where", "Main"],
+    "answer": "Main"
+  },
+  {
+    "question": "When you use WAN ......",
+    "options": ["Telephone channel", "Microwave", "Satellite", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which of the following loses it contents when the computer is turn off?",
+    "options": ["PROM", "RAM", "ROM", "all of the above"],
+    "answer": "RAM"
+  },
+  {
+    "question": "CPU consists of:",
+    "options": ["MU", "ALU", "CU", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "What is the main objective of IT policy 2000?",
+    "options": ["to establish knowledge based industry", "to increase employment", "to build knowledge based society", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Which of the following is network topology?",
+    "options": ["bus", "star", "both of the above", "none of the above"],
+    "answer": "both of the above"
+  },
+  {
+    "question": "WAN stands for:",
+    "options": ["Wire Accessible Network", "Widely Accessible Network", "Wide Area Network", "Wire & Network"],
+    "answer": "Wide Area Network"
+  },
+  {
+    "question": "FAT and NTFS in windows in type of:",
+    "options": ["disk tool", "storage format", "Internal windows command", "utilities"],
+    "answer": "storage format"
+  },
+  {
+    "question": "The principle of locality of reference justifies the use of ___",
+    "options": ["virtual memory", "interrupts", "main memory", "cache memory"],
+    "answer": "cache memory"
+  },
+  {
+    "question": "Multitasking and multithreading is used in:",
+    "options": ["windows xp", "window 2000", "linus", "all of above"],
+    "answer": "all of above"
+  },
+  {
+    "question": "An approach that permits the computer to work on several programs instead on one is:",
+    "options": ["on-line thesaurus", "multiprogramming", "over lapped processing", "outline processor"],
+    "answer": "multiprogramming"
+  },
+  {
+    "question": "While booting how many types of system files will load into RAM?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "Which menu you have to click if you want to print a document?",
+    "options": ["view", "edit", "format", "file"],
+    "answer": "file"
+  },
+  {
+    "question": "Which one of the following is short-cut key of cut?",
+    "options": ["ctrl+c", "ctrl+x", "ctrl + v", "alt+x"],
+    "answer": "ctrl+x"
+  },
+  {
+    "question": "Alignment can be found inside the:",
+    "options": ["page setup", "font", "back ground", "paragraph"],
+    "answer": "paragraph"
+  },
+  {
+    "question": "From where do you install font?",
+    "options": ["option sub menu of tool menu", "font icons of control panel", "font option of format menu", "none of the above"],
+    "answer": "font icons of control panel"
+  },
+  {
+    "question": "Which one is not found in edit menu?",
+    "options": ["print", "find", "copy", "replace"],
+    "answer": "print"
+  },
+  {
+    "question": "To change case, which menu you have to click?",
+    "options": ["format", "file", "edit", "view"],
+    "answer": "format"
+  },
+  {
+    "question": "What is the file extension of MS-word document?",
+    "options": ["txt", "dot", "doc", "dom"],
+    "answer": "doc"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "question": "In network system, common information is stored in",
+    "options": ["Client", "Server", "Workstation", "None"],
+    "answer": "Server"
+  },
+  {
+    "question": "What is the full form of www?",
+    "options": ["World Wide Word", "World Wide Web", "World Wide Wage", "None"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "Which of the following is a Network operating system?",
+    "options": ["Windows NT", "Windows 95", "Windows 98", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Which of the following is not required in Local Area Network?",
+    "options": ["RJ-45", "PC", "HUB", "Telephone"],
+    "answer": "Telephone"
+  },
+  {
+    "question": "Which of the following software is used for E-mail?",
+    "options": ["Word", "Outlook", "Excel", "PageMaker"],
+    "answer": "Outlook"
+  },
+  {
+    "question": "What is the capacity of 3.5\" floppy?",
+    "options": ["1.44KB", "1.44MB", "1.44GB", "1.44Byte"],
+    "answer": "1.44MB"
+  },
+  {
+    "question": "Computer is an ...... machine.",
+    "options": ["Electrician", "Mechanical", "Engineering", "Electronic"],
+    "answer": "Electronic"
+  },
+  {
+    "question": "Keyboard is ...... of computer.",
+    "options": ["output device", "software device", "hardware device", "all of above"],
+    "answer": "hardware device"
+  },
+  {
+    "question": "What is the full form PROM?",
+    "options": [
+      "Programming ready on memory",
+      "Programmable read only memory",
+      "Package read only memory",
+      "Programmable ready on memory"
+    ],
+    "answer": "Programmable read only memory"
+  },
+  {
+    "question": "The sound pictures and video clips are known as ......",
+    "options": ["media clips", "animation", "transition", "all of the above"],
+    "answer": "media clips"
+  },
+  {
+    "question": "Auto-correct is ......",
+    "options": ["check spell", "find the synonyms", "type automatically", "correct automatically"],
+    "answer": "correct automatically"
+  },
+  {
+    "question": "Slide layout ...... to the prepared slide.",
+    "options": [
+      "could be applied",
+      "could not be applied",
+      "could be copied",
+      "could not be copied"
+    ],
+    "answer": "could be applied"
+  },
+  {
+    "question": "Master slide is to ......",
+    "options": [
+      "correct all the slides to the different formats",
+      "create all the slides to the same format",
+      "copy all the slides to the same format",
+      "paste all the slides to the different format"
+    ],
+    "answer": "create all the slides to the same format"
+  },
+  {
+    "question": "Media clips is used for ......",
+    "options": ["best colour match", "best slide shape", "wake up the audience", "none"],
+    "answer": "wake up the audience"
+  },
+  {
+    "question": "Multimedia includes ......",
+    "options": [
+      "text, audio, video, sound, object",
+      "audio & video",
+      "audio, video & game",
+      "none of above"
+    ],
+    "answer": "text, audio, video, sound, object"
+  },
+  {
+    "question": "Which  shortcut key is used to change the selected text from lowercase to uppercase?",
+    "options": ["Shift+F1", "Shift+F2", "Shift+F3", "Shift+F4"],
+    "answer": "Shift+F3"
+  },
+  {
+    "question": "Drag and drop method is best process of repositioning",
+    "options": ["Text & page", "Object & page", "Object only", "Object & text"],
+    "answer": "Object & text"
+  },
+  {
+    "question": "Bookmark is used to ......",
+    "options": [
+      "mark text or location in the document",
+      "mark text and document",
+      "mark text and page of document",
+      "all of above"
+    ],
+    "answer": "mark text or location in the document"
+  },
+  {
+    "question": "Which of the following item is not printed with document unless you specify?",
+    "options": ["Footnote", "Header & Footer", "Endnote", "Comment"],
+    "answer": "Comment"
+  },
+  {
+    "question": "Managing attached data source file with text of message of main document window is simply called ......",
+    "options": ["Data merging", "Document merging", "File merging", "Mail merging"],
+    "answer": "Mail merging"
+  },
+  {
+    "question": "If you have to divide one column/row into two or more than two columns or rows is called ......",
+    "options": ["split table", "split cell", "merge cells", "merge cells"],
+    "answer": "split cell"
+  },
+  {
+    "question": "Distance between left margin and paragraph text is simply called ......",
+    "options": ["tab", "gutter", "indent", "none"],
+    "answer": "indent"
+  },
+  {
+    "question": "Macro is used to record ......",
+    "options": ["Sequential key strokes", "Document information", "Summary information", "None"],
+    "answer": "Sequential key strokes"
+  },
+  {
+    "question": "The shortcut key Shift+Ctrl+End is used to ......",
+    "options": [
+      "select text from the insertion point to the end of document",
+      "select whole document",
+      "select single paragraph text",
+      "none"
+    ],
+    "answer": "select text from the insertion point to the end of document"
+  },
+  {
+    "question": "Oracle and MS Access are ......",
+    "options": ["Spreadsheet", "RDBMS", "Operating system", "Utility"],
+    "answer": "RDBMS"
+  },
+  {
+    "question": "The main output object of MS Access is ......",
+    "options": ["Table", "Macro", "Report", "Module"],
+    "answer": "Report"
+  },
+  {
+    "question": "The extension of dBase data file is ......",
+    "options": [".exe", ".mdb", ".dbf", ".ndx"],
+    "answer": ".dbf"
+  },
+  {
+    "question": "The extension of MS access data file is ......",
+    "options": [".mdx", ".mdb", ".dbf", ".ndx"],
+    "answer": ".mdb"
+  },
+  {
+    "question": "Browse means to ......",
+    "options": ["display continuously", "update continuously", "delete", "input"],
+    "answer": "display continuously"
+  },
+  {
+    "question": "We can select single column by pressing ......",
+    "options": ["Ctrl + Spacebar", "Shift + Spacebar", "Alt + Spacebar", "None"],
+    "answer": "Ctrl + Spacebar"
+  },
+  {
+    "question": "Which of the following key is editing key in Excel?",
+    "options": ["F1", "F2", "F3", "F4"],
+    "answer": "F2"
+  },
+  {
+    "question": "A special marker that appears at the upper right corner of the active cell is called ......",
+    "options": ["text", "formula", "formula", "comment"],
+    "answer": "comment"
+  },
+  {
+    "question": "A graphical form of a worksheet data is called ......",
+    "options": ["Object", "Comment", "Formula", "Chart"],
+    "answer": "Chart"
+  },
+  {
+    "question": "Vertical alignment is used to adjust the text and numbers with the ......",
+    "options": ["current row height", "current column width", "both a & b", "none"],
+    "answer": "current row height"
+  },
+  {
+    "question": "Windows explorer is to ......",
+    "options": [
+      "operate the computer",
+      "manage all hardware & software",
+      "manage files and folders",
+      "all of above"
+    ],
+    "answer": "manage files and folders"
+  },
+  {
+    "question": "What is paint brush?",
+    "options": [
+      "It is used to create text",
+      "It is used to create, edit and view pictures",
+      "It is graphic and chart making software",
+      "All of above"
+    ],
+    "answer": "It is used to create, edit and view pictures"
+  },
+  {
+    "question": "What is scandisk?",
+    "options": [
+      "It is used to write program",
+      "It is used to play game",
+      "It is used to destroy disk",
+      "It is used to fix logical errors"
+    ],
+    "answer": "It is used to fix logical errors"
+  },
+  {
+    "question": "What is Modem?",
+    "options": ["An error message", "A network tool", "A personal computer", "A communication device"],
+    "answer": "A communication device"
+  },
+  {
+    "question": "In windows operating system, the size of file extension is ......",
+    "options": ["8", "64", "3", "none of above"],
+    "answer": "3"
+  },
+  {
+    "question": "If you copy files or folders, how many times can you paste the files and folders?",
+    "options": ["many times", "as long as power is on", "until you copy other files", "all of above"],
+    "answer": "all of above"
+  },
+  {
+    "question": "What is cut and paste command?",
+    "options": ["move", "delete", "copy", "paste"],
+    "answer": "move"
+  },
+  {
+    "question": "BCC stands for ......",
+    "options": ["Black carbon copy", "Blank carbon copy", "Balance carbon copy", "None"],
+    "answer": "Blank carbon copy"
+  },
+  {
+    "question": "Which of the following is not an operating system?",
+    "options": ["DOS", "Windows", "Linux", "Office"],
+    "answer": "Office"
+  },
+  {
+    "question": "Which of the following is not a type of ROM?",
+    "options": ["PROM", "Flash memory", "EPROM", "Virtual memory"],
+    "answer": "Virtual memory"
+  },
+  {
+    "question": "Which of the following is not a mass storage device?",
+    "options": ["CDROM", "RAM", "Hard disk", "Tape"],
+    "answer": "RAM"
+  },
+  {
+    "question": "The data in memory survives as long as power is supplied.",
+    "options": [
+      "Non volatile memory",
+      "Volatile memory",
+      "Read only memory",
+      "Shared memory"
+    ],
+    "answer": "Volatile memory"
+  },
+  {
+    "question": "Machine readable code is in the form of ......",
+    "options": ["1's and 0's", "0's, 1's and 2's", "a to z, 0 to 9", "none"],
+    "answer": "1's and 0's"
+  },
+  {
+    "question": "Which of the following software is not used for database design?",
+    "options": ["MS access", "Oracle", "SQL server", "Web server"],
+    "answer": "Web server"
+  },
+  {
+    "question": "...... is used to transfer address of data in the computer.",
+    "options": ["CPU", "Memory", "Bus", "External memory"],
+    "answer": "Bus"
+  },
+  {
+    "question": "A half byte is known as ......",
+    "options": ["Bug", "Nibble", "Bus", "½ Byte"],
+    "answer": "Nibble"
+  },
+  {
+    "question": "The arranging data in a logical sequence is called ......",
+    "options": ["Classifying", "Sorting", "Summarizing", "Reproducing"],
+    "answer": "Sorting"
+  },
+  {
+    "question": "A single binary integer consists of 1's and 0's is called a bit, how many bits are combined to form a byte?",
+    "options": ["4", "8", "12", "16"],
+    "answer": "8"
+  },
+  {
+    "question": "What is the name given to the 8-bits unit used for data coding?",
+    "options": ["Data set", "Byte", "Word", "KB"],
+    "answer": "Byte"
+  },
+  {
+    "question": "All modern computers operate on ......",
+    "options": ["Diskette", "Information", "Data", "Words"],
+    "answer": "Data"
+  },
+  {
+    "question": "An error in computer data is called ......",
+    "options": ["Chip", "Byte", "Bug", "Debug"],
+    "answer": "Bug"
+  },
+  {
+    "question": "In a computer, all calculation are performed and all comparisons are made in ...... unit.",
+    "options": ["Control", "Memory", "Arithmetic-Logic", "Register"],
+    "answer": "Arithmetic-Logic"
+  },
+  {
+    "question": "The ALU of a computer responds to the commands coming from ......",
+    "options": ["Primary memory", "Control unit", "Register unit", "Cache memory"],
+    "answer": "Control unit"
+  },
+  {
+    "question": "Presently, the most expensive component in a computer system is ......",
+    "options": ["hardware", "peripheral", "software", "external storage"],
+    "answer": "software"
+  },
+  {
+    "question": "A smart intelligence device is so called because it contains with in a ......",
+    "options": ["Computer", "Microprocessor", "Programmable CPU", "Sensor"],
+    "answer": "Programmable CPU"
+  },
+  {
+    "question": "What is the sum of -3 and -3 ?",
+    "options": ["6", "0", "3", "-6"],
+    "answer": "-6"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is function of scenario?",
+    "options": ["Data summarizing", "What-if analysis", "Charting", "Financial function"],
+    "answer": "What-if analysis"
+  },
+  {
+    "question": "If you apply format d-mmm-y in 11/30/2008, what will display?",
+    "options": ["30-Nov-2008", "30-Nov-08", "30-11-08", "None"],
+    "answer": "30-Nov-08"
+  },
+  {
+    "question": "Which is not in word art text editor?",
+    "options": ["Bold", "Italic", "Font", "Underline"],
+    "answer": "Underline"
+  },
+  {
+    "question": "The main units of CPU are",
+    "options": ["CPU & Register", "CPU & ALU", "CU and Register", "CU & ALU"],
+    "answer": "CU & ALU"
+  },
+  {
+    "question": "Which is a computer programming language?",
+    "options": ["Interpreted language", "Structure programming", "Object oriented language", "None"],
+    "answer": "Object oriented language"
+  },
+  {
+    "question": "Where you can define permanent path in DOS?",
+    "options": ["IO.sys", "Config.sys", "Autoexec.bat", "Command.com"],
+    "answer": "Autoexec.bat"
+  },
+  {
+    "question": "The shortcut key for repeating task",
+    "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + B", "None"],
+    "answer": "Ctrl + Y"
+  },
+  {
+    "question": "To select entire document",
+    "options": ["Double click on left margin", "Double click on right margin", "Triple click on left margin", "Triple click on right margin"],
+    "answer": "Triple click on left margin"
+  },
+  {
+    "question": "Switch board is also called ...... form.",
+    "options": ["Sub", "Main", "Control", "Datasheet"],
+    "answer": "Control"
+  },
+  {
+    "question": "IT Policy was launch on ...... year.",
+    "options": ["2000", "2001", "2004", "2005"],
+    "answer": "2000"
+  },
+  {
+    "question": "Which is not database object?",
+    "options": ["Table", "Form", "Macro", "Datasheet"],
+    "answer": "Datasheet"
+  },
+  {
+    "question": "How do you set margin?",
+    "options": ["Page Setup/Margin", "Page/Margin", "Page Setup/Size", "Page Setup/Layout"],
+    "answer": "Page Setup/Margin"
+  },
+  {
+    "question": "Which is an input device?",
+    "options": ["Printer", "Speaker", "Scanner", "Plotter"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "What was used in first computer?",
+    "options": ["Vacuum tube", "Transistor", "IC", "All"],
+    "answer": "Vacuum tube"
+  },
+  {
+    "question": "The hexadecimal value of 13 is ......",
+    "options": ["B", "C", "D", "E"],
+    "answer": "D"
+  },
+  {
+    "question": "Which is odd in CRT?",
+    "options": ["Dot Pitch", "Radio Frequency", "Refresh rate", "Pixel"],
+    "answer": "Radio Frequency"
+  },
+  {
+    "question": "The latency is ......",
+    "options": ["Position the write head over data", "Position the write head under data track", "Accessing data from track", "All"],
+    "answer": "Position the write head over data"
+  },
+  {
+    "question": "Which is 4th generation language?",
+    "options": ["SQL", "JAVA", "C++", "Basic"],
+    "answer": "SQL"
+  },
+  {
+    "question": "The function of format printer is ......",
+    "options": ["Auto formatting document", "Apply format", "Alignment of text", "None of above"],
+    "answer": "Apply format"
+  },
+  {
+    "question": "To update the date and time in presentation ......",
+    "options": ["F7", "F8", "F9", "F10"],
+    "answer": "F9"
+  },
+  {
+    "question": "Which is sequential device?",
+    "options": ["Tape", "Magnetic Disk", "Optical Disk", "None"],
+    "answer": "Tape"
+  },
+  {
+    "question": "How do you set password in PowerPoint?",
+    "options": ["Tools/Option/Security", "File/Option/Security", "Tools/Security/Password", "None of the above"],
+    "answer": "Tools/Option/Security"
+  },
+  {
+    "question": "The decimal value of 110100110011 ......",
+    "options": ["3379", "3378", "3360", "3579"],
+    "answer": "3379"
+  },
+  {
+    "question": "What is the value of mod((D3/10) + int(D3/10), D3) where D3 = 67",
+    "options": ["13", "12", "75", "86"],
+    "answer": "13"
+  },
+  {
+    "question": "Which is not valid for system?",
+    "options": ["Fat16", "Fat32", "NTFS", "FXz"],
+    "answer": "FXz"
+  },
+  {
+    "question": "DDL supports for ......",
+    "options": ["Drop", "Insert", "Update", "Delete"],
+    "answer": "Drop"
+  },
+  {
+    "question": "Ellipse motion is ......",
+    "options": ["Animation scheme", "Design template", "Transition", "None"],
+    "answer": "Animation scheme"
+  },
+  {
+    "question": "Custom time setting in presentation ......",
+    "options": ["Rehearsal", "Automatic", "Show time", "All"],
+    "answer": "Rehearsal"
+  },
+  {
+    "question": "Which is not essential in creating frame?",
+    "options": ["HTML", "Rows", "Ol", "Frame"],
+    "answer": "Ol"
+  },
+  {
+    "question": "Which is automatically executable batch file?",
+    "options": ["Autorun.bat", "Automatic.bat", "Autoexec.bat", "Auto.bat"],
+    "answer": "Autoexec.bat"
+  },
+  {
+    "question": "Which is not tag?",
+    "options": ["a href", "Tr", "Td", "Q"],
+    "answer": "a href"
+  },
+  {
+    "question": "Which can you import in MS Access?",
+    "options": ["Workbook", "Slide", "Word document", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Advantages of USB is ......",
+    "options": ["Speed", "High cost", "Both", "None"],
+    "answer": "Speed"
+  },
+  {
+    "question": "What does 'DNS' stand for in networking?",
+    "options": ["Domain Name System", "Data Network Service", "Digital Network Security", "Domain Network Server"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "Which of these is a volatile memory?",
+    "options": ["ROM", "RAM", "Hard Disk", "CD-ROM"],
+    "answer": "RAM"
+  },
+  {
+    "question": "What is the binary equivalent of decimal number 25?",
+    "options": ["11001", "11000", "10101", "11100"],
+    "answer": "11001"
+  },
+  {
+    "question": "Which key combination is used to paste copied content?",
+    "options": ["Ctrl+C", "Ctrl+V", "Ctrl+X", "Ctrl+P"],
+    "answer": "Ctrl+V"
+  },
+  {
+    "question": "What type of software is Microsoft Windows?",
+    "options": ["Application Software", "System Software", "Utility Software", "Programming Software"],
+    "answer": "System Software"
+  },
+  {
+    "question": "Which protocol is used to retrieve emails from a mail server?",
+    "options": ["SMTP", "HTTP", "FTP", "POP3"],
+    "answer": "POP3"
+  },
+  {
+    "question": "What is the maximum number of rows in Excel 2003?",
+    "options": ["65536", "1048576", "16384", "32768"],
+    "answer": "65536"
+  },
+  {
+    "question": "Which of these is a programming paradigm?",
+    "options": ["Object-Oriented Programming", "Spreadsheet Programming", "Document Processing", "Graphics Designing"],
+    "answer": "Object-Oriented Programming"
+  },
+  {
+    "question": "What does 'SQL' stand for?",
+    "options": ["Structured Query Language", "Standard Query Language", "System Query Language", "Simple Query Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which device converts digital signals to analog and vice versa?",
+    "options": ["Router", "Switch", "Modem", "Hub"],
+    "answer": "Modem"
+  },
+  {
+    "question": "What is the purpose of an 'antivirus' software?",
+    "options": ["To speed up computer", "To create documents", "To detect and remove malware", "To connect to internet"],
+    "answer": "To detect and remove malware"
+  },
+  {
+    "question": "Which of these is a cloud storage service?",
+    "options": ["Google Drive", "Microsoft Word", "Adobe Photoshop", "Windows Media Player"],
+    "answer": "Google Drive"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Reference Link"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which programming language is known for web development and creating interactive web pages?",
+    "options": ["Java", "Python", "JavaScript", "C++"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the function of 'Ctrl+S' shortcut?",
+    "options": ["Save document", "Search text", "Select all", "Undo last action"],
+    "answer": "Save document"
+  },
+  {
+    "question": "Which network topology connects all devices to a central hub?",
+    "options": ["Bus", "Ring", "Star", "Mesh"],
+    "answer": "Star"
+  },
+  {
+    "question": "What does 'LAN' stand for?",
+    "options": ["Local Area Network", "Large Area Network", "Local Access Network", "Large Access Network"],
+    "answer": "Local Area Network"
+  }
+]

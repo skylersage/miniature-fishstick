@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which is an internal command?",
+    "options": ["Label", "Chkdsk", "Verify", "All"],
+    "answer": "Verify"
+  },
+  {
+    "question": "Which command is used to see the version of the operating system?",
+    "options": ["Vol", "Version", "Ver", "None"],
+    "answer": "Ver"
+  },
+  {
+    "question": "Which is the fastest transmission media?",
+    "options": ["Fibre optics", "Twisted pair", "Coaxial cable", "Microwave"],
+    "answer": "Fibre optics"
+  },
+  {
+    "question": "Where ethernet card is used?",
+    "options": ["Local area network", "Computer education", "Robots", "All of the above"],
+    "answer": "Local area network"
+  },
+  {
+    "question": "Which is to make readability of the text?",
+    "options": ["Auto formatting", "Bullet and numbering", "Auto text", "Template"],
+    "answer": "Bullet and numbering"
+  },
+  {
+    "question": "Mail merge cannot be performed with:",
+    "options": ["Mailing labels", "Email message", "Letters", "Template"],
+    "answer": "Template"
+  },
+  {
+    "question": "Border and shading lies in which of the following menu?",
+    "options": ["Format", "Table", "Tools", "Window"],
+    "answer": "Format"
+  },
+  {
+    "question": "Which shortcut key is used to make centre align?",
+    "options": ["Ctrl + C", "Ctrl + E", "Ctrl + L", "None"],
+    "answer": "Ctrl + E"
+  },
+  {
+    "question": "Which of the following are features of MS Word?",
+    "options": ["Spelling", "AutoFormat", "AutoCorrect", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "What is not a table property in MS Word?",
+    "options": ["Cell", "Row", "Column", "Line"],
+    "answer": "Line"
+  },
+  {
+    "question": "In which table sort can be applied?",
+    "options": ["Number", "Text", "Date", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Which is the default Font in Word?",
+    "options": ["Arial", "Times New Roman", "Courier", "None"],
+    "answer": "Times New Roman"
+  },
+  {
+    "question": "Which is the highest evaluation operator precedence (order)?",
+    "options": ["( )", "%", "=", "&"],
+    "answer": "( )"
+  },
+  {
+    "question": "Which menu contains the sort command in Excel?",
+    "options": ["Window", "Tools", "Data", "Edit"],
+    "answer": "Data"
+  },
+  {
+    "question": "Which is a valid range in Excel?",
+    "options": ["A1:B2", "A1;B2", "A1 to B2", "A1 B2"],
+    "answer": "A1:B2"
+  },
+  {
+    "question": "In MS Word, which of the following is not an option to change the case of text?",
+    "options": ["Lower case", "Indent case", "Sentence case", "Toggle case"],
+    "answer": "Indent case"
+  },
+  {
+    "question": "Which is a valid option in the validation dialog box (Excel)?",
+    "options": ["Text length", "Whole number", "Date", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Which is a system file?",
+    "options": ["Command.com", "IO.sys", "MSDOS.sys", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which is the template extension for MS Word?",
+    "options": [".dot", ".exe", ".com", ".sys"],
+    "answer": ".dot"
+  },
+  {
+    "question": "Who is known as the father of computer?",
+    "options": ["Charles Babbage", "Bill Gates", "Pascal", "Von Neumann"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "Which one is the fastest memory?",
+    "options": ["L1 Cache", "L2 Cache", "SRAM", "DRAM"],
+    "answer": "L1 Cache"
+  },
+  {
+    "question": "Which of the following is a non-impact printer?",
+    "options": ["Laser", "Dot Matrix", "Chain", "Drum"],
+    "answer": "Laser"
+  },
+  {
+    "question": "What is the full form of URL?",
+    "options": ["Universal Resource Location", "Uniform Resource Locator", "Unify Resource Location", "None"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "What is the full form of UPS?",
+    "options": ["Uninterruptible Power Supply", "Uniform Power Supply", "Universal Power Supply", "None"],
+    "answer": "Uninterruptible Power Supply"
+  },
+  {
+    "question": "Which generation of computers does the Artificial Intelligence (AI) represents?",
+    "options": ["4th Generation", "1st Generation", "5th Generation", "3rd Generation"],
+    "answer": "5th Generation"
+  },
+  {
+    "question": "Which technology was used in first generation of computer?",
+    "options": ["Transistor", "Vacuum tube", "IC", "Microprocessor"],
+    "answer": "Vacuum tube"
+  },
+  {
+    "question": "Which of the following doesn’t support more than one program at a time?",
+    "options": ["DOS", "Linux", "Windows", "Unix"],
+    "answer": "DOS"
+  },
+  {
+    "question": "Which of the following is not a core job of an operating system?",
+    "options": ["Manage file", "Memory management", "CPU management", "Router management"],
+    "answer": "Router management"
+  },
+  {
+    "question": "Which is an invalid user file name?",
+    "options": ["command.com", "user.dot", "autoexec.bat", "paymentbill"],
+    "answer": "command.com"
+  },
+  {
+    "question": "Which command is used to delete all the files/directories including sub-directories?",
+    "options": ["deltree", "Erase", "RD", "Del"],
+    "answer": "deltree"
+  },
+  {
+    "question": "Which file is used to set a path in DOS?",
+    "options": ["path.sys", "config.sys", "IO.sys", "autoexec.bat"],
+    "answer": "config.sys"
+  },
+  {
+    "question": "If you have multiple slides in a presentation but you want to present only some of them, which feature do you use?",
+    "options": ["Run", "Slide show", "Custom show", "Custom animation"],
+    "answer": "Custom show"
+  },
+  {
+    "question": "Motion path is a type of?",
+    "options": ["Animation effect", "Scheme", "Design", "All"],
+    "answer": "Animation effect"
+  },
+  {
+    "question": "AutoFit is used to?",
+    "options": ["Adjust the row height as contents", "Adjust the column width as contents", "Both A & B", "None"],
+    "answer": "Both A & B"
+  },
+  {
+    "question": "Which shortcut key is used to close a window?",
+    "options": ["Ctrl+F4", "Alt+F4", "Shift+F4", "Alt+Tab"],
+    "answer": "Ctrl+F4"
+  },
+  {
+    "question": "Which color is displayed in print preview?",
+    "options": ["White", "Red", "Gray", "Green"],
+    "answer": "White"
+  },
+  {
+    "question": "What is virus?",
+    "options": ["Repeating program", "Useful program", "Utility program", "All of the above"],
+    "answer": "Repeating program"
+  },
+  {
+    "question": "Which is the smallest piece of a database?",
+    "options": ["Bit", "Byte", "Record", "Table"],
+    "answer": "Bit"
+  },
+  {
+    "question": "Which is not an action query?",
+    "options": ["Append", "Update", "Make table", "Select"],
+    "answer": "Select"
+  },
+  {
+    "question": "Which shortcut key is used for adding a new record?",
+    "options": ["Ctrl++", "Alt++", "Shift++", "None"],
+    "answer": "Ctrl++"
+  },
+  {
+    "question": "Filter is used for?",
+    "options": ["Extract the data", "Add the data", "Delete the data", "All of the above"],
+    "answer": "Extract the data"
+  },
+  {
+    "question": "Which is not a system tool?",
+    "options": ["Scandisk", "Defragment", "Display", "Character map"],
+    "answer": "Display"
+  },
+  {
+    "question": "Which is not a chart type?",
+    "options": ["Bar", "Pie", "Column", "Data Marker"],
+    "answer": "Data Marker"
+  },
+  {
+    "question": "The Print command button prints the file?",
+    "options": ["Entire document", "Single page", "Selected Range", "Current page"],
+    "answer": "Entire document"
+  },
+  {
+    "question": "Which option does not display the receiver's mail ID?",
+    "options": ["cc", "bcc", "subject", "title"],
+    "answer": "bcc"
+  },
+  {
+    "question": "What is Goal Seek?",
+    "options": ["a method of finding input value to meet target", "a method of finding output value", "a method of accumulating data", "all of the above"],
+    "answer": "a method of finding input value to meet target"
+  },
+  {
+    "question": "What is the objective of IT policy?",
+    "options": ["Increase employment", "Build knowledge based society", "Establish knowledge based industry", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a valid file property?",
+    "options": ["Read only", "Hidden", "Archive", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Which of the following is a valid page orientation?",
+    "options": ["Landscape", "Portrait", "A4", "All"],
+    "answer": "Landscape"
+  },
+  {
+    "question": "Which RJ (Registered Jack) is commonly used to connect a standard analog telephone?",
+    "options": ["RJ45", "RJ48", "RJ11", "RJ37"],
+    "answer": "RJ11"
+  }
+]

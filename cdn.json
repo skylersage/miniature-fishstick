@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which one is correct for simple average?",
+    "options": ["=average(number1:number2:number3:...)", "=average(number1,number2,number3:...)", "=avg(number1+number2+number3...)", "=avg(number1 number2 number3...)"],
+    "answer": "=average(number1:number2:number3:...)"
+  },
+  {
+    "question": "To calculate sum of A1, A2, B1 and B2",
+    "options": ["=sum(a1:b2)", "=sum(a1,a2,b1,b2)", "=sum(a1-a2-b1-b2)", "=sum(a1+a2+b1+b2)"],
+    "answer": "=sum(a1:b2)"
+  },
+  {
+    "question": "Which command will create sector on disk?",
+    "options": ["xcopy", "format", "defrag", "scandisk"],
+    "answer": "format"
+  },
+  {
+    "question": "The type of excel application is .......",
+    "options": ["Spreadsheet", "Word processor", "Accounting", "All"],
+    "answer": "Spreadsheet"
+  },
+  {
+    "question": "How many columns in excel?",
+    "options": ["150", "200", "256", "300"],
+    "answer": "256"
+  },
+  {
+    "question": "Which is not function of CU?",
+    "options": ["to calculate number", "add number", "to process", "all of the above"],
+    "answer": "to calculate number"
+  },
+  {
+    "question": "Maximum slide in handouts has ......",
+    "options": ["3", "6", "9", "12"],
+    "answer": "9"
+  },
+  {
+    "question": "To make straight two sides of paragraph is ore remove ragness of text?",
+    "options": ["Justify", "Centre", "Right", "Left"],
+    "answer": "Justify"
+  },
+  {
+    "question": "Print only snapshot (picture) in screen.",
+    "options": ["Ctrl + Print Screen", "Print Screen", "Print", "All"],
+    "answer": "Print Screen"
+  },
+  {
+    "question": "Full form of Virus",
+    "options": ["Vital Information Resources Under Siege", "Valuable Information Record System", "Vocal Information Record Size", "None"],
+    "answer": "Vital Information Resources Under Siege"
+  },
+  {
+    "question": "1024kb is referred to ......?",
+    "options": ["1GB", "1MB", "100bit", "1byte"],
+    "answer": "1MB"
+  },
+  {
+    "question": "Which is no dBase object?",
+    "options": ["Table", "Form", "Clipboard", "Micro"],
+    "answer": "Clipboard"
+  },
+  {
+    "question": "If RAM is primary storage, secondary storage is?",
+    "options": ["DVD", "HDD", "CD", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "To create identical slide, what do you do?",
+    "options": ["Ctrl + Shift + D", "Ctrl + D", "Ctrl + M", "All"],
+    "answer": "Ctrl + D"
+  },
+  {
+    "question": "Allow entry in excel, press ......",
+    "options": ["Enter", "Esc", "Ctrl", "Shift"],
+    "answer": "Enter"
+  },
+  {
+    "question": "All option found in Menu except",
+    "options": ["Page number", "Break", "Format painter", "Font"],
+    "answer": "Format painter"
+  },
+  {
+    "question": "What type of PowerPoint presentation?",
+    "options": ["Analog", "Digital", "Distinct", "All"],
+    "answer": "Digital"
+  },
+  {
+    "question": "Word, places data from another application is referred to ......",
+    "options": ["link", "embedding", "linking", "place in word table"],
+    "answer": "embedding"
+  },
+  {
+    "question": "To insert new slide ......",
+    "options": ["Insert/New slide", "Format/New slide", "View/New slide", "None"],
+    "answer": "Insert/New slide"
+  },
+  {
+    "question": "To put comment in slide using",
+    "options": ["use view", "note pane", "slide sorter view", "Title master"],
+    "answer": "note pane"
+  },
+  {
+    "question": "To establish LAN, you do not need ......",
+    "options": ["Modem", "Ethernet Card", "RJ45", "Network cable"],
+    "answer": "Modem"
+  },
+  {
+    "question": "Hub used in ......",
+    "options": ["Star", "Mesh", "Bus", "Ring"],
+    "answer": "Star"
+  },
+  {
+    "question": "Email is",
+    "options": ["Click & send", "Forward & Receive message", "Compost & draft", "None"],
+    "answer": "Forward & Receive message"
+  },
+  {
+    "question": "What type of software creates duplicate file?",
+    "options": ["Virus", "Worm", "Trojan Horse", "Antivirus"],
+    "answer": "Worm"
+  },
+  {
+    "question": "To copy file from floppy disk,",
+    "options": ["copy a:\\*.doc", "copy *.doc a:\\", "copy *.doc a:\\", "None"],
+    "answer": "copy a:\\*.doc"
+  },
+  {
+    "question": "To search file with special criteria into your computer?",
+    "options": ["Locate", "Search", "Find", "B & C"],
+    "answer": "B & C"
+  },
+  {
+    "question": "System date format is in ......",
+    "options": ["mm-dd-yy", "dd-mm-yy", "yy-mm-dd", "None"],
+    "answer": "mm-dd-yy"
+  },
+  {
+    "question": "Which is not use in micro name?",
+    "options": ["Special characters", "Number", "Wild character", "All"],
+    "answer": "Wild character"
+  },
+  {
+    "question": "What is basic feature word",
+    "options": ["Graphic, formatting, printing", "Creating, formatting, printing", "Editing & printing", "None"],
+    "answer": "Creating, formatting, printing"
+  },
+  {
+    "question": "What type of chart can be creating?",
+    "options": ["Bar only", "Column only", "Bar & column", "None"],
+    "answer": "Bar & column"
+  },
+  {
+    "question": "To make white space around page text,",
+    "options": ["Margin", "Page width", "Border", "Gutter"],
+    "answer": "Margin"
+  },
+  {
+    "question": "For excel, data sources can be ......",
+    "options": ["dBase", "Excel", "Text file", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "To show slide no. with contents of slide is",
+    "options": ["Miniature", "Slide sorter view", "Slide view", "Layout"],
+    "answer": "Slide sorter view"
+  },
+  {
+    "question": "Maximum row no. in excel?",
+    "options": ["65534", "65536", "256", "255"],
+    "answer": "65536"
+  },
+  {
+    "question": "Which is not supporting by MS Word?",
+    "options": ["Editing", "Graphics", "Painting", "Formatting"],
+    "answer": "Painting"
+  },
+  {
+    "question": "Which connector is used for LAN?",
+    "options": ["RJ45", "RJ11", "RJ10", "RJ65"],
+    "answer": "RJ45"
+  },
+  {
+    "question": "DBMS is ......",
+    "options": ["Application software", "System software", "Program software", "All of the above"],
+    "answer": "Application software"
+  },
+  {
+    "question": "MS Word is ...... type of software.",
+    "options": ["Customized", "Packaged", "Tailored", "System"],
+    "answer": "Packaged"
+  },
+  {
+    "question": "What do you mean by report?",
+    "options": ["Output", "Modify", "Entry format", "Enquiry"],
+    "answer": "Output"
+  },
+  {
+    "question": "Which one is manufactured by Microsoft?",
+    "options": ["Access", "Oracle", "dBase", "SQL"],
+    "answer": "Access"
+  },
+  {
+    "question": "Worksheet is compose of ......",
+    "options": ["Row & row", "Column & column", "Row & column", "None"],
+    "answer": "Row & column"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which protocol is used for secure web browsing?",
+    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "What is the function of RAM?",
+    "options": ["Permanent storage", "Temporary storage while computer is running", "Processing data", "Display output"],
+    "answer": "Temporary storage while computer is running"
+  },
+  {
+    "question": "Which of these is a spreadsheet software?",
+    "options": ["Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Microsoft Access"],
+    "answer": "Microsoft Excel"
+  },
+  {
+    "question": "What does PDF stand for?",
+    "options": ["Portable Document Format", "Printed Document File", "Personal Data File", "Program Data Format"],
+    "answer": "Portable Document Format"
+  },
+  {
+    "question": "What does GUI stand for?",
+    "options": ["Graphical User Interface", "General User Interface", "Graphical Unit Interface", "General Unit Interface"],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "question": "Which component is known as the brain of the computer?",
+    "options": ["RAM", "CPU", "Hard Drive", "Motherboard"],
+    "answer": "CPU"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "High Transfer Text Protocol", "Hyper Transfer Text Protocol"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which of these is a type of computer network?",
+    "options": ["LAN", "WAN", "MAN", "All of the above"],
+    "answer": "All of the above"
+  }
+]

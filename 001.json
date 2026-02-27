@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which one is the Relational operator?",
+    "options": ["=", "+", "*", "/"],
+    "answer": "="
+  },
+  {
+    "question": "Which formula is used to make multiple calculations?",
+    "options": ["Simple", "Complex", "Natural", "None"],
+    "answer": "Complex"
+  },
+  {
+    "question": "To copy cell contents using drag and drop, press",
+    "options": ["end", "shift", "esc", "none"],
+    "answer": "none"
+  },
+  {
+    "question": "The auto fill feature is",
+    "options": ["extend sequential series", "filling with same value", "automatically adds a cell value", "none"],
+    "answer": "extend sequential series"
+  },
+  {
+    "question": "The excel formula start with ......",
+    "options": ["+", "=", "/", "*"],
+    "answer": "="
+  },
+  {
+    "question": "The MS DOS is the ......",
+    "options": ["application software", "hardware", "system software", "all of the above"],
+    "answer": "system software"
+  },
+  {
+    "question": "The core of operating system is ......",
+    "options": ["Unix", "Kernel", "Command.com", "None"],
+    "answer": "Kernel"
+  },
+  {
+    "question": "Which command is used to list out deleted files in DOS?",
+    "options": ["List", "Undelete/list", "Recover", "None"],
+    "answer": "Undelete/list"
+  },
+  {
+    "question": "Which command allows you to create root directory and FAT on disk?",
+    "options": ["MD", "Deltree", "Format", "All of the above"],
+    "answer": "Format"
+  },
+  {
+    "question": "Which command allows you to create a directory on root?",
+    "options": ["MD", "Deltree", "Format", "All of the above"],
+    "answer": "MD"
+  },
+  {
+    "question": "Which is the 1st generation language?",
+    "options": ["Machine language", "Assembly language", "High level language", "Natural language"],
+    "answer": "Machine language"
+  },
+  {
+    "question": "Presentation designs regulate the formatting and layout for the slide and are commonly called",
+    "options": ["Template", "Design plates", "Place holder", "Blue print"],
+    "answer": "Template"
+  },
+  {
+    "question": "Who is the father of modern digital computer?",
+    "options": ["Charles Babbage", "Dr. Herman Hollerith", "Joseph Jacquard", "John von Neumann"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "The custom animation is located in the ...... menu.",
+    "options": ["slide show", "view", "window", "tools"],
+    "answer": "slide show"
+  },
+  {
+    "question": "The transition time is measured in ......",
+    "options": ["minutes", "seconds", "Hour", "all"],
+    "answer": "seconds"
+  },
+  {
+    "question": "Full form of BIOS",
+    "options": ["Basic Input Output Service", "Basic Input Output System", "Bus Input Output System", "None"],
+    "answer": "Basic Input Output System"
+  },
+  {
+    "question": "The acronyms of RTF",
+    "options": ["Rich Text Format", "Red Text Form", "Reach Text Format", "None"],
+    "answer": "Rich Text Format"
+  },
+  {
+    "question": "The sentence \"My father was write\"",
+    "options": ["highlight the text write", "blue colour underline write", "green colour underline write", "none"],
+    "answer": "green colour underline write"
+  },
+  {
+    "question": "The default background colour in page layout?",
+    "options": ["White", "Gray", "Transparent", "Green"],
+    "answer": "White"
+  },
+  {
+    "question": "The shortcut key for thesaurus is ......",
+    "options": ["F7", "Shift + F7", "Alt + F7", "None"],
+    "answer": "Shift + F7"
+  },
+  {
+    "question": "Which field allows you to add lengthy text?",
+    "options": ["Hyperlink", "Text", "Memo", "OLE"],
+    "answer": "Memo"
+  },
+  {
+    "question": "Which menu allows you to add date & time?",
+    "options": ["Edit", "Tools", "Format", "Insert"],
+    "answer": "Insert"
+  },
+  {
+    "question": "The content of a excel cell is ......",
+    "options": ["32676", "255", "1024", "32000"],
+    "answer": "32000"
+  },
+  {
+    "question": "Which is the default font in Excel?",
+    "options": ["Arial", "Courier", "Times New Roman", "Preeti"],
+    "answer": "Arial"
+  },
+  {
+    "question": "Which is the largest computer?",
+    "options": ["Super computer", "Mini computer", "Mainframe computer", "Micro computer"],
+    "answer": "Mainframe computer"
+  },
+  {
+    "question": "Which is the action query?",
+    "options": ["Append", "Update", "Path", "Parameter"],
+    "answer": "Update"
+  },
+  {
+    "question": "Which is an external command?",
+    "options": ["Format", "Copy", "Path", "Ren"],
+    "answer": "Format"
+  },
+  {
+    "question": "Which is not factor for screen resolution?",
+    "options": ["Bandwidth", "Screen size", "Pixel", "Display adaptor"],
+    "answer": "Bandwidth"
+  },
+  {
+    "question": "Which is input device?",
+    "options": ["Plotter", "Printer", "Touch pad", "Monitor"],
+    "answer": "Touch pad"
+  },
+  {
+    "question": "Which operator is used to change drive?",
+    "options": [">", "\\", ":", "None"],
+    "answer": ":"
+  },
+  {
+    "question": "The auto-sum button exists on ...... toolbar.",
+    "options": ["Standard", "Chart", "Formatting", "Drawing"],
+    "answer": "Standard"
+  },
+  {
+    "question": "Which network covers large area?",
+    "options": ["LAN", "WAN", "MAN", "VAN"],
+    "answer": "WAN"
+  },
+  {
+    "question": "1TB = ......",
+    "options": ["1024GB", "1024KB", "1024MB", "None"],
+    "answer": "1024GB"
+  },
+  {
+    "question": "The ALU stands for ......",
+    "options": ["Arithmetic Logic Unit", "Automatic Logic Unit", "Auto Loan Unit", "None"],
+    "answer": "Arithmetic Logic Unit"
+  },
+  {
+    "question": "The primary key is ......",
+    "options": ["redundant key", "unique key", "index key", "none"],
+    "answer": "unique key"
+  },
+  {
+    "question": "The number of default sheets in excel is ......",
+    "options": ["3", "16", "5", "15"],
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following is helps you to create or edit formula and also provide information about function?",
+    "options": ["Cell tip", "Formula palette", "Standard toolbar", "All of the above"],
+    "answer": "Formula palette"
+  },
+  {
+    "question": "The auto-report generates the ...... report.",
+    "options": ["simple", "formatted", "summary", "all"],
+    "answer": "simple"
+  },
+  {
+    "question": "Which memory is required to refresh?",
+    "options": ["Cache", "DRAM", "SRAM", "All"],
+    "answer": "DRAM"
+  },
+  {
+    "question": "Which is an operating system?",
+    "options": ["DOS", "UNIX", "Windows", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "What are line, curve, freeform and scribble?",
+    "options": ["Emphasis effects that can be applied to animation", "Types of custom motion path", "Predefined entrance and exit effect", "All of the above"],
+    "answer": "Types of custom motion path"
+  },
+  {
+    "question": "How can you see the system date on your computer?",
+    "options": ["Date", "Display date", "System Date", "All of the above"],
+    "answer": "Date"
+  },
+  {
+    "question": "Which of the following is the strategy of information technology policy 2057?",
+    "options": ["The government shall act as a promoter, facilitator and regulator", "E-commerce shall be promoted with legal provision", "IT shall be used to assist e-governance", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The range of cells from which you want to count cells that meet the criteria is ......",
+    "options": ["if count", "count if", "sum if", "none"],
+    "answer": "count if"
+  },
+  {
+    "question": "Which is the command type in DOS?",
+    "options": ["Internal", "External", "Both a & b", "None"],
+    "answer": "Both a & b"
+  },
+  {
+    "question": "What are the components inside the hard disk?",
+    "options": ["Sector", "Partition", "Tracks", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The process or starting or restarting a computer by loading the system files from secondary memory into the primary memory is called ......",
+    "options": ["booting", "startup", "bootstrapping", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Which of the following is a word processor?",
+    "options": ["MS Word", "Word star", "Word perfect", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "To create different types of page in specific formatting within a same document by using ......",
+    "options": ["page break", "Text wrapping break", "Section breaks", "All"],
+    "answer": "Section breaks"
+  },
+  {
+    "question": "To move the insertion cursor left end of the line, you must press ......",
+    "options": ["home", "left arrow", "end", "Ctrl + left arrow"],
+    "answer": "home"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "How to change slides master items?",
+    "options": ["Format > Master > Slide Master", "Tools > Master > Slide Master", "View > Master > Slide Master", "Edit > Master > Slide Master"],
+    "answer": "View > Master > Slide Master"
+  },
+  {
+    "question": "Which of the followings is the default page setup orientation for slides in MS PowerPoint?",
+    "options": ["Landscape", "Vertical", "Portrait", "Horizontal"],
+    "answer": "Landscape"
+  },
+  {
+    "question": "How can you create a uniform appearance by adding a background image to all slides?",
+    "options": ["Create a template", "Edit slide master", "Use the content wizard", "Use the auto-fit option"],
+    "answer": "Create a template"
+  },
+  {
+    "question": "Shortcut for inserting new slide in presentation is:",
+    "options": ["Ctrl+N", "Ctrl+M", "Ctrl+L", "Ctrl+K"],
+    "answer": "Ctrl+M"
+  },
+  {
+    "question": "...... is a standalone tag (i.e. does not have closing tag)",
+    "options": ["<FONT>", "<HR>", "<B>", "<TABLE>"],
+    "answer": "<HR>"
+  },
+  {
+    "question": "Which of the following techniques is the latest way of designing interactive web-page?",
+    "options": ["CSS", "Java Script", "PHP", "Ajax"],
+    "answer": "CSS"
+  },
+  {
+    "question": "In HTML tag, OL and Li are related to creation of",
+    "options": ["Line", "List", "Level", "None of the above"],
+    "answer": "List"
+  },
+  {
+    "question": "Which of the followings is not the function of operating system?",
+    "options": ["POST", "Memory management", "Process scheduling", "I/O management"],
+    "answer": "POST"
+  },
+  {
+    "question": "\"ATTRIB\" command in DOS",
+    "options": ["removes all attributes of a file", "hide the directory", "make the directory read only", "none of the above"],
+    "answer": "none of the above"
+  },
+  {
+    "question": "Multiprogramming operating system refers to",
+    "options": ["Processor can executes job concurrently", "Processor can executes program parallel", "OS supports more than 2 processors", "Memory can load more than 1 program"],
+    "answer": "Memory can load more than 1 program"
+  },
+  {
+    "question": "OLE technology enables Microsoft word:",
+    "options": ["To erase the dynamically linked objects", "To embed the Excel sheet inside itself", "To create table", "To create tables"],
+    "answer": "To embed the Excel sheet inside itself"
+  },
+  {
+    "question": "Which shortcut key is used for capitalized letter in MS Word?",
+    "options": ["Ctrl+A", "Alt+A", "Ctrl+Shift+A", "Ctrl+Alt+A"],
+    "answer": "Ctrl+Shift+A"
+  },
+  {
+    "question": "Which of the followings is not a valid page layout in MS Word?",
+    "options": ["Print layout", "Web layout", "Form layout", "Normal layout"],
+    "answer": "Form layout"
+  },
+  {
+    "question": "Page number in MS Word is inserted as:",
+    "options": ["Footer", "Foot-note", "End-note", "None of above"],
+    "answer": "Footer"
+  },
+  {
+    "question": "The hyperlink facility can be applied to the text using following shortcut key?",
+    "options": ["Ctrl+K", "Ctrl+I", "Ctrl+M", "Ctrl+N"],
+    "answer": "Ctrl+K"
+  },
+  {
+    "question": "Which tools has been used to copy the format only in MS Word?",
+    "options": ["Copy tools", "Paste tools", "Format painter tools", "None"],
+    "answer": "Format painter tools"
+  },
+  {
+    "question": "Word wrap in MS Word",
+    "options": ["Change the line space", "Evenly distribute words in justified alignment", "Allows the words to stay within margin", "All of the above"],
+    "answer": "Allows the words to stay within margin"
+  },
+  {
+    "question": "In the merge operation of MS Word one can",
+    "options": ["preview a merge", "merge directly to a printer", "merge to a new document", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "To make a list of name arrange in alphabetically managed order in excel one can user",
+    "options": ["Filter", "Sort", "Consolidate", "Manage"],
+    "answer": "Sort"
+  },
+  {
+    "question": "The formula: left(\"examination\",4) will result:",
+    "options": ["tion", "erro", "exam", "mina"],
+    "answer": "exam"
+  },
+  {
+    "question": "Which of the following is the valid filter in MS Excel?",
+    "options": ["Auto filter", "Advanced filter", "Both of the above", "None of the above"],
+    "answer": "Both of the above"
+  },
+  {
+    "question": "Which of the is used to have unauthorized access to computer?",
+    "options": ["Virus", "Spam-mail", "Trojan", "All of the above"],
+    "answer": "Trojan"
+  },
+  {
+    "question": "Which of the following are characteristics of peer to peer networking?",
+    "options": ["Limited number of computers involved", "Computer acting as both a client and a server", "Centralized security and admin", "A and B"],
+    "answer": "A and B"
+  },
+  {
+    "question": "Which of the following is not a transmission medium?",
+    "options": ["Telephone lines", "Coaxial cable", "Modem", "Microwave system"],
+    "answer": "Modem"
+  },
+  {
+    "question": "Network services are",
+    "options": ["Print services", "Message services", "Database services", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Machine language ......",
+    "options": ["is the language in which programs were first written", "is the only language understood by the computer", "differs from one type of computer to another", "all of these"],
+    "answer": "all of these"
+  },
+  {
+    "question": "Which is the information technology policy?",
+    "options": ["to develop physical & virtual information technology park", "to promote e-commerce, education, e-health", "to establish Nepal in global market", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Multimedia consists of",
+    "options": ["Text & pictures", "Audio", "Video", "All of the CPU"],
+    "answer": "All of the CPU"
+  },
+  {
+    "question": "Which of the following is not a part of CPU?",
+    "options": ["Control Unit", "Register", "Arithmetic Logic Unit", "Graphical Card Unit"],
+    "answer": "Graphical Card Unit"
+  },
+  {
+    "question": "Which Technology is the oldest one?",
+    "options": ["Transistor", "Vacuum tube", "VLSI", "CMOS"],
+    "answer": "Vacuum tube"
+  },
+  {
+    "question": "The XOR of 10011001 and 01000111 is",
+    "options": ["10011110", "11011110", "11001110", "01011110"],
+    "answer": "11011110"
+  },
+  {
+    "question": "Which one is the odd terminology?",
+    "options": ["Bluetooth", "Infrared", "UTP", "Satellite"],
+    "answer": "UTP"
+  },
+  {
+    "question": "The Nepali Unicode can be enabled from control panel by help of",
+    "options": ["Fonts & Display", "Regional setting & keyboard", "Printer", "Multimedia"],
+    "answer": "Regional setting & keyboard"
+  },
+  {
+    "question": "Tool which help to ensure that data can be made available from another part if there is some error is known as",
+    "options": ["Backup", "Defragmentation", "Format", "Scandisk"],
+    "answer": "Backup"
+  },
+  {
+    "question": "Which of the following file names are invalid in MS DOS?",
+    "options": ["MYFILE.DOS", "CHECK$(1)", "VERIFIED.###", "QWERY.1??"],
+    "answer": "QWERY.1??"
+  },
+  {
+    "question": "The tribunal for cyber crime consists of ……",
+    "options": ["4 members", "5 members", "6 members", "7 members"],
+    "answer": "5 members"
+  },
+  {
+    "question": "3-D reference in a formula in MS Excel:",
+    "options": ["Spans worksheets", "Array formula", "Complex formulas", "Smart formula"],
+    "answer": "Spans worksheets"
+  },
+  {
+    "question": "In MS Excel multiple calculations can be made in a single formula using:",
+    "options": ["Standard formulas", "Array formula", "Complex formulas", "Smart formula"],
+    "answer": "Array formula"
+  },
+  {
+    "question": "What can you do with macros?",
+    "options": ["Speed up routine editing and formatting", "Combining more than one command", "Automate a complex series of tasks", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What does it mean by Goal-seek in spreadsheet?",
+    "options": ["to draw the curve for given cell value", "to determine the value of cell for given result", "to omit the cell data for given graph", "none of the above"],
+    "answer": "to determine the value of cell for given result"
+  },
+  {
+    "question": "Which of the following is not provided by standard, toolbar, in spreadsheet?",
+    "options": ["File management", "Editing commands", "Special features such as wizard", "Cell formatting commands"],
+    "answer": "Cell formatting commands"
+  },
+  {
+    "question": "...... is a interface through which the user interacts with the application:",
+    "options": ["Form", "Module", "Report", "Query"],
+    "answer": "Form"
+  },
+  {
+    "question": "When key is used to find and distinguish records uniquely?",
+    "options": ["Foreign key", "Candidate key", "Primary key", "All of the above"],
+    "answer": "Primary key"
+  },
+  {
+    "question": "...... helps to create the fields of a table in MS Access:",
+    "options": ["Form view", "Design view", "Table view", "None of the above"],
+    "answer": "Design view"
+  },
+  {
+    "question": "The technique which define a set of values acceptable for the field is known as:",
+    "options": ["Validation", "Verification", "Relation", "Audit"],
+    "answer": "Validation"
+  },
+  {
+    "question": "Technique to speed up data retrieval in database is:",
+    "options": ["Speeding", "Listing", "Indexing", "Wrapping"],
+    "answer": "Indexing"
+  },
+  {
+    "question": "The oldest database models are:",
+    "options": ["Object oriented", "Hierarchical and network model", "Relational", "None"],
+    "answer": "Hierarchical and network model"
+  },
+  {
+    "question": "Consider the following table student (roll.no, name, grade, subject), Which SQL is correct to retrieve the name of all students having grade \"B\":",
+    "options": ["SELECT name FROM STUDENTS", "SELECT name FROM students WHERE grade=\"B\"", "SELECT name FROM students WHERE grade IN B", "Both B and C"],
+    "answer": "SELECT name FROM students WHERE grade=\"B\""
+  },
+  {
+    "question": "Which of the following keywords does not belong of DDL?",
+    "options": ["CREATE", "ALTER", "CONSTRAINT", "SELECT"],
+    "answer": "SELECT"
+  },
+  {
+    "question": "...... are the properties of characteristics of an object in presentation:",
+    "options": ["Design templates", "Levels", "Textures", "Attributes"],
+    "answer": "Attributes"
+  }
+]

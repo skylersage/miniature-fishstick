@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which is a spreadsheet package?",
+    "options": ["Lotus", "Excel", "Quattro Pro", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the shortcut key for row hide?",
+    "options": ["Ctrl + 9", "Ctrl + F9", "Shift + F9", "Ctrl + Shift + 9"],
+    "answer": "Ctrl + 9"
+  },
+  {
+    "question": "What is the function of network neighbourhood?",
+    "options": ["Navigate shared", "Folder in network", "Shared computers in network", "None of above"],
+    "answer": "Shared computers in network"
+  },
+  {
+    "question": "What is the function of recycle bin?",
+    "options": ["Store deleted file", "Store temporary file", "Store corrupted file", "Store document file"],
+    "answer": "Store deleted file"
+  },
+  {
+    "question": "What is the shortcut key for superscript?",
+    "options": ["Ctrl + =", "Ctrl + +", "Ctrl + Shift + =", "Ctrl + Shift + +"],
+    "answer": "Ctrl + Shift + ="
+  },
+  {
+    "question": "How many sheets are there in Excel workbook?",
+    "options": ["3", "many", "2", "1"],
+    "answer": "many"
+  },
+  {
+    "question": "What is the function of folder?",
+    "options": ["Save files", "Delete files", "Move files", "All of the above"],
+    "answer": "Save files"
+  },
+  {
+    "question": "Which command is not an internal command?",
+    "options": ["DIR", "EDIT", "CD", "CLS"],
+    "answer": "EDIT"
+  },
+  {
+    "question": "Which will be the title in words to save summary (status)?",
+    "options": ["Summary info", "Summary information", "Summary", "Sum information"],
+    "answer": "Summary info"
+  },
+  {
+    "question": "Which of the drop down list?",
+    "options": ["List", "Combo box", "Text box", "None"],
+    "answer": "Combo box"
+  },
+  {
+    "question": "In which O/S can you give smallest file name?",
+    "options": ["PS/2", "DOS", "Windows", "Windows NT"],
+    "answer": "DOS"
+  },
+  {
+    "question": "Which is the latest version of MS Word?",
+    "options": ["Word XP", "Windows XP", "Windows 2000", "Word 97"],
+    "answer": "Word XP"
+  },
+  {
+    "question": "What is the function of Radio buttons?",
+    "options": ["To select multiple option", "To select single option", "To select all option", "All of the above"],
+    "answer": "To select single option"
+  },
+  {
+    "question": "How do you connect internet into your system?",
+    "options": ["My computer/Dial up networking", "Control panel/Modem", "Network Neighbourhood", "None"],
+    "answer": "My computer/Dial up networking"
+  },
+  {
+    "question": "What happen when selecting record presses delete key?",
+    "options": ["Row will be deleted", "Content will be deleted", "Row moves one step up", "None of the above"],
+    "answer": "Content will be deleted"
+  },
+  {
+    "question": "Which device cannot be shared in network?",
+    "options": ["Floppy", "Keyboard", "Computer", "Printer"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "What is the purpose of query?",
+    "options": ["Input data", "Output data", "Filter & sort", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Which port does not exist in computer?",
+    "options": ["USB", "Parallel", "COM1/COM2", "None"],
+    "answer": "None"
+  },
+  {
+    "question": "Database utility exist in ...... menu.",
+    "options": ["Format", "Tools", "File", "Edit"],
+    "answer": "Tools"
+  },
+  {
+    "question": "Which command doesn't exist in DOS?",
+    "options": ["Sum", "CLS", "CD", "DIR"],
+    "answer": "Sum"
+  },
+  {
+    "question": "In which generation, transistor was used?",
+    "options": ["1st", "2nd", "3rd", "4th"],
+    "answer": "2nd"
+  },
+  {
+    "question": "Number Increment is done by",
+    "options": ["Auto number", "Auto increment", "AutoCAD", "Auto increase"],
+    "answer": "Auto number"
+  },
+  {
+    "question": "After copying how many times can you paste in the content?",
+    "options": ["1", "2", "3", "Many"],
+    "answer": "Many"
+  },
+  {
+    "question": "What is the function of workspace?",
+    "options": ["Contain multiple workbook", "Contain multiple worksheets", "Contain multiple cells", "All"],
+    "answer": "Contain multiple workbook"
+  },
+  {
+    "question": "What is the name of Excel file?",
+    "options": ["Workbook", "Worksheet", "Spreadsheet", "Spread Book"],
+    "answer": "Workbook"
+  },
+  {
+    "question": "Which is the function of relationship?",
+    "options": ["Relate multiple tables", "Contain multiple worksheet", "Relate table and forms", "Relate queries and forms"],
+    "answer": "Relate multiple tables"
+  },
+  {
+    "question": "1 nibble contains ...... bit",
+    "options": ["8 bits", "3 bits", "1 byte", "4 bits"],
+    "answer": "4 bits"
+  },
+  {
+    "question": "OLE means",
+    "options": ["Open Linking and Embedding", "Object Linking and Embedding", "Objective Linking and Embedding", "Open Link and End"],
+    "answer": "Object Linking and Embedding"
+  },
+  {
+    "question": "In which object SQL is used?",
+    "options": ["Query", "Form", "Report", "Macro"],
+    "answer": "Query"
+  },
+  {
+    "question": "Workgroup means",
+    "options": ["Computers in network", "Individual user", "End user", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Outline view is used to",
+    "options": ["Show chapter-wise heading", "Show heading", "Show content", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What happens when you cut in excel?",
+    "options": ["The content of cell will be removed after paste.", "The value of cell will be remained after paste.", "The content of cell will be remained after paste."],
+    "answer": "The content of cell will be removed after paste."
+  },
+  {
+    "question": "What should you use to create Newspaper style?",
+    "options": ["Column", "Bullet and numbering", "Tab", "None"],
+    "answer": "Column"
+  },
+  {
+    "question": "Which data type doesn't exist in access?",
+    "options": ["Number", "Picture", "Memo", "Text"],
+    "answer": "Picture"
+  },
+  {
+    "question": "Synonym can be reviewed with",
+    "options": ["Spelling and Grammar", "Thesaurus", "Both", "Synonym viewer"],
+    "answer": "Thesaurus"
+  },
+  {
+    "question": "Which device will process data?",
+    "options": ["RAM", "CPU", "Hard disk", "None"],
+    "answer": "CPU"
+  },
+  {
+    "question": "In which data will be erased as power supply is off.",
+    "options": ["RAM", "ROM", "PROM", "EPROM"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Data store in",
+    "options": ["Floppy", "Hard disk", "Tape", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Which files is (are) most essential in every computer?",
+    "options": ["IO.sys", "MSDOS.sys", "Command.com", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Paper orientation can be changed from",
+    "options": ["Page setup/Paper size", "Property", "Print/layout", "Print preview"],
+    "answer": "Page setup/Paper size"
+  },
+  {
+    "question": "Category is written in ......",
+    "options": ["X-axis", "Y-axis", "Both", "None"],
+    "answer": "X-axis"
+  },
+  {
+    "question": "What is there in Record?",
+    "options": ["Collection of Fields", "Collection of number", "Collection of Rows", "All"],
+    "answer": "Collection of Fields"
+  },
+  {
+    "question": "Which command is used to create a directory?",
+    "options": ["CHDIR", "Make dir", "Mkdir", "All of the above"],
+    "answer": "Mkdir"
+  },
+  {
+    "question": "What operation is not permitted by Query?",
+    "options": ["Delete", "Entry", "Modify", "Create table"],
+    "answer": "Entry"
+  },
+  {
+    "question": "Which is not related with Database?",
+    "options": ["Table", "Query", "Form", "Macro"],
+    "answer": "Macro"
+  },
+  {
+    "question": "What is the full form of ISP?",
+    "options": ["Internet Service Provider", "Internet Server Provider", "Internal Service Provider", "International Service Provider"],
+    "answer": "Internet Service Provider"
+  },
+  {
+    "question": "Which is the web browser?",
+    "options": ["Netscape Navigator", "Windows explore", "Outlook express", "Google.com"],
+    "answer": "Netscape Navigator"
+  },
+  {
+    "question": "Which is the search engine?",
+    "options": ["Google.com", "Hotmail.com", "Internet.com", "Find.com"],
+    "answer": "Google.com"
+  },
+  {
+    "question": "What will do by filter?",
+    "options": ["Display the record that meet the criteria.", "Display only one record to delete.", "Modify all the records at once", "All of the above"],
+    "answer": "Display the record that meet the criteria."
+  },
+  {
+    "question": "Hard disk is coated with",
+    "options": ["Carbon layer", "Magnetic metallic oxide", "Optical metallic oxide", "All of the above"],
+    "answer": "Magnetic metallic oxide"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "When you open \"My Computer\" on desktop you see the information of",
+    "options": ["Hard disk", "CD", "Removable disk", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "When you delete file, where recently store in?",
+    "options": ["Brief case", "Recycle bin", "CD", "Desktop"],
+    "answer": "Recycle bin"
+  },
+  {
+    "question": "To print window with components as it is",
+    "options": ["Print Screen", "Alt + Copy", "Ctrl + Copy", "All"],
+    "answer": "Print Screen"
+  },
+  {
+    "question": "Query structure",
+    "options": ["Field", "Records", "Snapshot", "Dynaset"],
+    "answer": "Dynaset"
+  },
+  {
+    "question": "Which is not the function of OS?",
+    "options": ["File management", "Disk Management", "Application management", "Virus detection"],
+    "answer": "Virus detection"
+  },
+  {
+    "question": "Keyboard shortcut key for superscript ax², which is correct",
+    "options": ["Ctrl +=", "Ctrl + +", "Ctrl + Shift + +", "Ctrl + Alt +="],
+    "answer": "Ctrl + Shift + +"
+  },
+  {
+    "question": "Which is the function of macro?",
+    "options": ["Speed up editing and formatting", "Automate complex task easily", "Complete different command at once", "All of the above"],
+    "answer": "Automate complex task easily"
+  },
+  {
+    "question": "Redoing formatting",
+    "options": ["Ctrl + W", "Ctrl + Z", "Ctrl + X", "Ctrl + D"],
+    "answer": "Ctrl + X"
+  },
+  {
+    "question": "RJ-45 has cable",
+    "options": ["2 cable", "4 cable", "6 cable", "8 cable"],
+    "answer": "8 cable"
+  },
+  {
+    "question": "Which is transfer most fast?",
+    "options": ["RAM", "ROM", "CD-ROM", "Removable Disk"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Which does modulation and demodulation?",
+    "options": ["Modem", "Multiplexure", "De multiplexure", "All of the above"],
+    "answer": "Modem"
+  },
+  {
+    "question": "Which cable transfer data faster?",
+    "options": ["Twisted pair cable", "UTP cable", "Fibre optics", "Coaxial cable"],
+    "answer": "Fibre optics"
+  },
+  {
+    "question": "In MS Word header & footer will display by default",
+    "options": ["On first page", "Every page", "Even page", "None of the above"],
+    "answer": "Every page"
+  },
+  {
+    "question": "Which is the correct example of function?",
+    "options": ["=add(A1:A2)", "=A1+A2", "=sum(A1:A2)", "A1+A2"],
+    "answer": "=sum(A1:A2)"
+  },
+  {
+    "question": "Ellipse (……) show ……",
+    "options": ["Dialog box", "Entry box", "Window", "Menu"],
+    "answer": "Menu"
+  },
+  {
+    "question": "Which is used to boot menu?",
+    "options": ["F10", "F8", "F9", "F7"],
+    "answer": "F8"
+  },
+  {
+    "question": "Continuous data transmission",
+    "options": ["Digital computer", "Analog computer", "Hybrid computer", "All of the above"],
+    "answer": "Analog computer"
+  },
+  {
+    "question": "Where will store data first time when you copy?",
+    "options": ["Clip board", "Clip book", "Hard disk", "Cd"],
+    "answer": "Clip board"
+  },
+  {
+    "question": "\"Collection of character and formatting\" is",
+    "options": ["Style", "Template", "Bibliography", "Formatting"],
+    "answer": "Style"
+  },
+  {
+    "question": "How you can optimize performance of your computer?",
+    "options": ["Delete unused file", "Defrag disk", "Scan for virus", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "To save your computer from virus you will do",
+    "options": ["Install antivirus software and run it", "Make physical safe for the removable disk", "Scan the removable disk before using it", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "From which you can save your computer",
+    "options": ["Virus", "Time born", "Worm", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "In MS Word, if you check the spelling from where word check the error",
+    "options": ["From top of the document", "From the insertion point", "Button of the document", "None of the above"],
+    "answer": "From the insertion point"
+  },
+  {
+    "question": "In MS Access, if you type ?sort(abs(-81)), then it display",
+    "options": ["9", "-9", "0", "wrong command"],
+    "answer": "9"
+  },
+  {
+    "question": "Complete horizontal row of the data is called",
+    "options": ["Record", "Fields", "Column", "None of the above"],
+    "answer": "Record"
+  },
+  {
+    "question": "If you have network and you are transfer file then what will be done",
+    "options": ["Uploading", "Downloading", "Sending cline email", "Receiving email"],
+    "answer": "Uploading"
+  },
+  {
+    "question": "To add new slide in PowerPoint, what is the keyboard shortcut key?",
+    "options": ["Ctrl + N", "Ctrl + M", "Ctrl + Copy", "Alt + Copy"],
+    "answer": "Ctrl + M"
+  },
+  {
+    "question": "MS Access can import file from ......",
+    "options": ["Dbase database file", "Excel workbook", "Notepad delimited text file", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which is not database application?",
+    "options": ["PowerPoint", "Excel", "MS Access", "All of the above"],
+    "answer": "PowerPoint"
+  },
+  {
+    "question": "You can supply slide design scheme from ......",
+    "options": ["Slide layout", "Slide animation", "Slide show", "All of the above"],
+    "answer": "Slide layout"
+  },
+  {
+    "question": "Which command make the text \"Nepal\" capital?",
+    "options": ["Upper(\"Nepal\")", "Capital(Nepal)", "CAP\"Nepal\"", "Capital(\"nepal\")"],
+    "answer": "Upper(\"Nepal\")"
+  },
+  {
+    "question": "Which translator translate whole source program into object program at once?",
+    "options": ["Compiler", "Interpreter", "Translator", "None of the above"],
+    "answer": "Compiler"
+  },
+  {
+    "question": "Which protocol is used to transfer E-mail?",
+    "options": ["POP3", "SMTP", "SGTP", "None"],
+    "answer": "SMTP"
+  },
+  {
+    "question": "To remove extra space from the left side of string which if used?",
+    "options": ["Left()", "Right()", "Ltrim()", "Rtrim()"],
+    "answer": "Ltrim()"
+  },
+  {
+    "question": "Form can be making from",
+    "options": ["Table & Queries", "Table only", "Table & Report", "Report and Queries"],
+    "answer": "Table & Queries"
+  },
+  {
+    "question": "<UL></UL> gives the",
+    "options": ["Bullet list", "Ordered list", "Definition list", "None of the above"],
+    "answer": "Bullet list"
+  },
+  {
+    "question": "Thesaurus is used to check",
+    "options": ["Meaning of the word", "Check error", "Check the grammatical error", "None of the above"],
+    "answer": "Meaning of the word"
+  },
+  {
+    "question": "XGA, VGA are types of ......",
+    "options": ["Printers", "Plotters", "Keyboards", "Video standards"],
+    "answer": "Video standards"
+  },
+  {
+    "question": "The VLSI was used in ...... generation computers.",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "answer": "Fourth"
+  },
+  {
+    "question": "Which of the following formula is invalid?",
+    "options": ["=sum(a4:zz5)", "=if(a5>23, \"Pass\", \"Fail\")", "=A1+25", "=sum(A1,A2)"],
+    "answer": "=sum(a4:zz5)"
+  },
+  {
+    "question": "Which is not valid reference in Excel?",
+    "options": ["Relative reference", "Mixed reference", "Absolute reference", "Join reference"],
+    "answer": "Join reference"
+  },
+  {
+    "question": "Which is not storage device?",
+    "options": ["Hard disk", "Zip disk", "Floppy disk", "Zip drive"],
+    "answer": "Zip drive"
+  },
+  {
+    "question": "A utility that can be used to minimize the number of fragmented files and enhanced the speed.",
+    "options": ["Drive", "Defragment", "Scan disk", "Zip drive"],
+    "answer": "Defragment"
+  },
+  {
+    "question": "The gutter position can be applied for",
+    "options": ["Left", "Button", "Top", "a & b"],
+    "answer": "a & b"
+  },
+  {
+    "question": "Hyperlinks can be",
+    "options": ["Text", "Drawing object", "Picture", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "DBMS stands for",
+    "options": ["Database Managerial System", "Database Management System", "Database Basic Managerial System", "Database Basic Management System"],
+    "answer": "Database Management System"
+  },
+  {
+    "question": "OLE stands for",
+    "options": ["Object Link & Engaging", "Object Linking & Embedding", "Object Link and Energy", "Online Linking & Embedding"],
+    "answer": "Object Linking & Embedding"
+  },
+  {
+    "question": "Table can be created by All ways Status Correct Information Engine in MS Access.",
+    "options": ["2 ways", "3 ways", "4 ways", "5 ways"],
+    "answer": "3 ways"
+  },
+  {
+    "question": "Tag can appear",
+    "options": ["Many times", "2 times", "1", "Depends of mark up language"],
+    "answer": "Many times"
+  },
+  {
+    "question": "If a1=5, b2=6, c2=10.5 then what will be the output of =int(sum(a1, b2, c2))",
+    "options": ["21", "22", "21.5", "none"],
+    "answer": "21"
+  }
+]

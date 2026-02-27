@@ -1,0 +1,247 @@
+[
+  {
+    "question": "What component was used in first generation computer?",
+    "options": ["Transistor", "Vacuum tube", "Chips", "Optics"],
+    "answer": "Vacuum tube"
+  },
+  {
+    "question": "Which is no operating system?",
+    "options": ["GEOX", "Windows", "OS/2", "Linux"],
+    "answer": "GEOX"
+  },
+  {
+    "question": "This is the smallest unit of data in a computer",
+    "options": ["bit", "Exabyte", "bogomip", "byte"],
+    "answer": "bit"
+  },
+  {
+    "question": "This is the measure of the range of frequencies a communication signal occupies",
+    "options": ["frequency modulation", "frequency hopping spread spectrum", "dynamic range", "bandwidth"],
+    "answer": "bandwidth"
+  },
+  {
+    "question": "Which one works as an output and input device?",
+    "options": ["Modem", "Scanner", "Mouse", "Monitor"],
+    "answer": "Modem"
+  },
+  {
+    "question": "All computers must have",
+    "options": ["Work processing software", "Operating system", "A printer attached", "Virus checking software"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "An operating system is",
+    "options": ["integrated software", "CD-ROM software", "application software", "system software"],
+    "answer": "system software"
+  },
+  {
+    "question": "1MB is equal to?",
+    "options": ["The amount of RAM in every computer", "1 billion byte", "1024 KB", "1 thousand bytes"],
+    "answer": "1024 KB"
+  },
+  {
+    "question": "The resolution of a printer is measured in ......",
+    "options": ["megabits", "Hz", "Dots per inch", "inches (diagonal)"],
+    "answer": "Dots per inch"
+  },
+  {
+    "question": "Which computer is the fastest?",
+    "options": ["PII 600 MHz", "PIII 600 MHz", "Pentium 600 MHz", "486 Turbo"],
+    "answer": "PIII 600 MHz"
+  },
+  {
+    "question": "In order to play music in your computer, you need ......",
+    "options": ["a network card & speakers", "a sound car & speaker", "nothing more than the internal speaker.", "CD-ROM drive"],
+    "answer": "a sound car & speaker"
+  },
+  {
+    "question": "Which windows program do you use to manage folders and files?",
+    "options": ["Windows explorer", "Widows Accessories", "Microsoft Office", "Windows control panel"],
+    "answer": "Windows explorer"
+  },
+  {
+    "question": "Which one is an email address?",
+    "options": ["http://vianet.com/index.htm", "d:\\email\\standard", "joesmart@billme.com", "haminade.org/teachers/mailaddress"],
+    "answer": "joesmart@billme.com"
+  },
+  {
+    "question": "Which is not a network topology?",
+    "options": ["ring", "bus", "rapid", "star"],
+    "answer": "rapid"
+  },
+  {
+    "question": "Sunil typed the following sentence: \"The girl was very beautiful.\" In which word processing utility could he find a synonym for \"beautiful\"?",
+    "options": ["Thesaurus", "Spell Checker", "Grammar Checker", "Outliner"],
+    "answer": "Thesaurus"
+  },
+  {
+    "question": "URL stands for",
+    "options": ["United Resource Link", "Undeleted Record Line", "Uniform Record Link", "Uniform Resource Locator"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "In MS Word what keys are applied for page break?",
+    "options": ["Alt + Enter", "Shift + Enter", "Ctrl + Enter", "Tab + Enter"],
+    "answer": "Ctrl + Enter"
+  },
+  {
+    "question": "ROM is an abbreviated form of",
+    "options": ["Recall only memory", "Read only memory", "Red only memory", "Retrieve only memory"],
+    "answer": "Read only memory"
+  },
+  {
+    "question": "Which one of the following is a volatile memory?",
+    "options": ["RAM", "ROM", "EPROM", "None"],
+    "answer": "RAM"
+  },
+  {
+    "question": "What is the full form of FAT?",
+    "options": ["Function allocation table", "File allocation table", "File attribute text", "Fixed assets table"],
+    "answer": "File allocation table"
+  },
+  {
+    "question": "The mechanical parts of the computer are known as:",
+    "options": ["Software", "Hardware", "Peopleware", "None of the above"],
+    "answer": "Hardware"
+  },
+  {
+    "question": "The full form of CPU is",
+    "options": ["Control Processing Unit", "Central Processing Unit", "Central Progress Unit", "Core Progress Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "To exit DOS prompt and return to windows; which process should be followed?",
+    "options": ["press enter key", "type Exit and press Enter key", "Type clear screen", "None of the above"],
+    "answer": "type Exit and press Enter key"
+  },
+  {
+    "question": "Which of the following helps to adjust the setting in your computer?",
+    "options": ["Control panel", "Virus program", "Split panel", "None of the above"],
+    "answer": "Control panel"
+  },
+  {
+    "question": "Which command is used to underline the text and numbers?",
+    "options": ["Alt+U", "Ctrl+U", "Alt+U", "Shift+U"],
+    "answer": "Ctrl+U"
+  },
+  {
+    "question": "Which command is used to save a file?",
+    "options": ["Alt+S", "Ctrl+S", "Alt+Ctrl+S", "Shift+S"],
+    "answer": "Ctrl+S"
+  },
+  {
+    "question": "Insert of clipart is possible in",
+    "options": ["Word", "Excel", "PowerPoint", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "To see how a file will look when we print, we click",
+    "options": ["Print overview", "Print preview", "Print review", "None of the above"],
+    "answer": "Print preview"
+  },
+  {
+    "question": "A series of command grouped together as a single command to make every day task easier is known as",
+    "options": ["Micro", "Macro", "Super", "Mini"],
+    "answer": "Macro"
+  },
+  {
+    "question": "In Excel, when a result is too long to fit in a cell what will be displayed?",
+    "options": ["#N/A", "#Num", "Err", "####"],
+    "answer": "####"
+  },
+  {
+    "question": "To organize data in a list alphabetically, numerically or chronologically is known as:",
+    "options": ["Filter", "Sort", "Match", "Drag"],
+    "answer": "Sort"
+  },
+  {
+    "question": "Which of the following is the most popular presentation graphics program?",
+    "options": ["Word", "Excel", "PowerPoint", "None of the above"],
+    "answer": "PowerPoint"
+  },
+  {
+    "question": "Which key is necessary to define relationship between the tables?",
+    "options": ["Secondary key", "Primary key", "Miscellaneous key", "Auxiliary key"],
+    "answer": "Primary key"
+  },
+  {
+    "question": "Which of the following help you trace and identify the errors?",
+    "options": ["Backup", "Debug", "Virus", "None of the above"],
+    "answer": "Debug"
+  },
+  {
+    "question": "What is the full form of LAN?",
+    "options": ["Local Access Network", "Local Area Network", "Local Area News", "Local Area Northorth"],
+    "answer": "Local Area Network"
+  },
+  {
+    "question": "Basic stands for",
+    "options": ["Beginners all purpose symbolic instruction code", "Basic language", "Beginners all purpose scientific instruction code", "None"],
+    "answer": "Beginners all purpose symbolic instruction code"
+  },
+  {
+    "question": "...... can be program one time by either the manufactured or the computer use once programmed it cannot be modified?",
+    "options": ["RAM", "EEPROM", "PROM", "EPROM"],
+    "answer": "PROM"
+  },
+  {
+    "question": "Which of the following is not application software?",
+    "options": ["Word Processing", "Excel", "Unix", "Desktop publishing"],
+    "answer": "Unix"
+  },
+  {
+    "question": "A device that can convert digital signals into analog signals is",
+    "options": ["a packet", "a modem", "an emulator", "multiplexer"],
+    "answer": "a modem"
+  },
+  {
+    "question": "What is the requirement for connecting internet?",
+    "options": ["phone, modem, computer", "computer, internet account, phone, modem", "internet account, phone computer", "none"],
+    "answer": "computer, internet account, phone, modem"
+  },
+  {
+    "question": "Which of the following is an example of single user operating system?",
+    "options": ["Unix", "Windows NT", "MS DOS", "None of above"],
+    "answer": "MS DOS"
+  },
+  {
+    "question": "Special characters of symbol, which is used for substituting one or a set of unknown characters of file name and its extension?",
+    "options": ["Child card", "Wild card", "Internal command", "External card"],
+    "answer": "Wild card"
+  },
+  {
+    "question": "Deleting a folder from the disk shall delete?",
+    "options": ["All folders under that folder", "All files under the folder", "All files and folders from the disk", "All files and folders from the folder"],
+    "answer": "All files and folders from the folder"
+  },
+  {
+    "question": "WordPad is ......",
+    "options": ["Word processing software", "Ancillary", "Language", "Operating system"],
+    "answer": "Word processing software"
+  },
+  {
+    "question": "What is the shortcut key to select all text?",
+    "options": ["Ctrl+A", "Ctrl+V", "Ctrl+S", "None"],
+    "answer": "Ctrl+A"
+  },
+  {
+    "question": "When a PowerPoint presentation is saved as a web page, with which application do we open that web page?",
+    "options": ["PowerPoint", "Internet Explorer", "Word", "None"],
+    "answer": "Internet Explorer"
+  },
+  {
+    "question": "A tool provided in a database management system that allows users to define the database is called ......",
+    "options": ["Structured query language", "Data definition language", "Data manipulation language", "None"],
+    "answer": "Data definition language"
+  },
+  {
+    "question": "What is the full form of RDBMS?",
+    "options": ["Relational database management system", "Rational database management system", "Record database management system", "Read database management system"],
+    "answer": "Relational database management system"
+  },
+  {
+    "question": "Full form of OCR is ......",
+    "options": ["Open character reader", "Optional character reader", "Open code reader", "Optical code reader"],
+    "answer": "Optical code reader"
+  }
+]

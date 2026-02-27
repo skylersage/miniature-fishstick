@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the function of Alt + F9?",
+    "options": ["To insert field code", "Switching field code", "Run macro", "None of the above"],
+    "answer": "Switching field code"
+  },
+  {
+    "question": "When was Abacus used?",
+    "options": ["China, 2000BC", "America, 2000BC", "Korea, 1000BC", "None of the above"],
+    "answer": "China, 2000BC"
+  },
+  {
+    "question": "To make directory",
+    "options": ["MKD", "MKDIR", "CD", "All of the above"],
+    "answer": "MKDIR"
+  },
+  {
+    "question": "The function of count A() is ......",
+    "options": ["counts the number of empty cells", "counts the number of non empty cells", "counts the number of cells contains number", "all of the above"],
+    "answer": "counts the number of non empty cells"
+  },
+  {
+    "question": "Full form of URL",
+    "options": ["Uniform Resource Language", "Uniform Resource Location", "Universal Resource Locator", "Universal Resource Language"],
+    "answer": "Uniform Resource Location"
+  },
+  {
+    "question": "Hyperlink is",
+    "options": ["graphics", "underline", "coloured text", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Shortcut key for left indent",
+    "options": ["Ctrl + L", "Ctrl + M", "Ctrl + I", "Ctrl + T"],
+    "answer": "Ctrl + M"
+  },
+  {
+    "question": "The shortcut key for replaces operation",
+    "options": ["Ctrl + H", "Ctrl + R", "Ctrl + F", "None of the above"],
+    "answer": "Ctrl + H"
+  },
+  {
+    "question": "Which key is used to retrieve back deleted text",
+    "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + S", "Ctrl + U"],
+    "answer": "Ctrl + Z"
+  },
+  {
+    "question": "The key is used to uniquely defined record in master table",
+    "options": ["primary key", "foreign key", "composite key", "all of the above"],
+    "answer": "primary key"
+  },
+  {
+    "question": "In MS Word, drop down shows the maximum font size",
+    "options": ["48", "72", "100", "1638"],
+    "answer": "72"
+  },
+  {
+    "question": "Digital signal",
+    "options": ["1/0", "high/low", "on/off", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Properties of database",
+    "options": ["consistency", "independence", "security", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "BIOS is used in",
+    "options": ["Operating System", "Compiler", "Interpreter", "Application Software"],
+    "answer": "Operating System"
+  },
+  {
+    "question": "The program translates line by line of source program is",
+    "options": ["Compiler", "Assembler", "Interpreter", "Application software"],
+    "answer": "Interpreter"
+  },
+  {
+    "question": "Pixel in found in",
+    "options": ["XGA", "VGA", "SVGA", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Eight bits equals",
+    "options": ["Byte", "Nibble", "Kilobyte", "Megabyte"],
+    "answer": "Byte"
+  },
+  {
+    "question": "To add effect to the object",
+    "options": ["Slide transition", "Custom animation", "Slide sorter view", "None of the above"],
+    "answer": "Custom animation"
+  },
+  {
+    "question": "The maximum number of handouts per page in PowerPoint?",
+    "options": ["3", "6", "5", "9"],
+    "answer": "9"
+  },
+  {
+    "question": "Which cable transfer data faster?",
+    "options": ["Twisted pair cable", "UTP cable", "Fibre optics", "Coaxial cable"],
+    "answer": "Fibre optics"
+  },
+  {
+    "question": "Which is not programming language?",
+    "options": ["Basic", "Cobol", "DDL", "APL"],
+    "answer": "DDL"
+  },
+  {
+    "question": "In excel first two lines are fixed to every page is from ......",
+    "options": ["Print", "Page Setup", "Print Preview", "None of the above"],
+    "answer": "Page Setup"
+  },
+  {
+    "question": "Volatile Memory is",
+    "options": ["RAM", "ROM", "EPROM", "PROM"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Independence means",
+    "options": ["Exclusive", "Inclusive", "Sharing", "None of the above"],
+    "answer": "Exclusive"
+  },
+  {
+    "question": "To modify the data type by",
+    "options": ["Table design view", "Datasheet view", "Open mode", "All of the above"],
+    "answer": "Table design view"
+  },
+  {
+    "question": "The function of save as ......",
+    "options": ["Supply new name", "Overwrite the exclusive file", "Fast saving", "All of the above"],
+    "answer": "Supply new name"
+  },
+  {
+    "question": "Excel formulas start from",
+    "options": ["Equal sign", "Function name", "Plus sign", "Operating parenthesis"],
+    "answer": "Equal sign"
+  },
+  {
+    "question": "Methods of saving document in MS Word.",
+    "options": ["1", "2", "3", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "The extension of index file is",
+    "options": ["ndx", "idx", "ind", "all of the above"],
+    "answer": "ndx"
+  },
+  {
+    "question": "Which operating system uses short file name?",
+    "options": ["Windows", "Unix", "DOS", "All of the above"],
+    "answer": "DOS"
+  },
+  {
+    "question": "View menu does not show",
+    "options": ["Outline", "Normal", "Page layout", "Object"],
+    "answer": "Object"
+  },
+  {
+    "question": "To sent file to recipient",
+    "options": ["File", "Edit", "View", "Insert"],
+    "answer": "File"
+  },
+  {
+    "question": "Easiest way to create chart",
+    "options": ["Select range and click chart wizard", "Insert chart and select range", "Draw the chart using drawing toolbar", "None of the above"],
+    "answer": "Select range and click chart wizard"
+  },
+  {
+    "question": "Home page of HTML",
+    "options": ["Introductory page", "Details information of page", "Summary of page", "All of the above"],
+    "answer": "Introductory page"
+  },
+  {
+    "question": "The function of Dir/W",
+    "options": ["Shows all details of file", "Show only file & directories name", "Shows only directory", "All of the above"],
+    "answer": "Show only file & directories name"
+  },
+  {
+    "question": "Tree structure displays the ......",
+    "options": ["File only", "Directory only", "Directory and file name", "None of the above"],
+    "answer": "Directory and file name"
+  },
+  {
+    "question": "John Napier ......",
+    "options": ["1550", "1617", "1740", "1920"],
+    "answer": "1617"
+  },
+  {
+    "question": "Word Processor is used to create document",
+    "options": ["text", "number", "graphics", "all of the above"],
+    "answer": "text"
+  },
+  {
+    "question": "Slide sorter view is used",
+    "options": ["sorting slide", "numeric order", "alphabetic order", "to view all slides"],
+    "answer": "sorting slide"
+  },
+  {
+    "question": "Batch file is used ......",
+    "options": ["To run program", "to show the contents", "to record command", "all of the above"],
+    "answer": "to record command"
+  },
+  {
+    "question": "Which one is the currently popular database?",
+    "options": ["Object oriented", "Flat file database", "Object Oriented relational database", "None of the above"],
+    "answer": "Object Oriented relational database"
+  },
+  {
+    "question": "Hard disk is ......",
+    "options": ["Primary memory", "Auxiliary memory", "Volatile memory", "None of the above"],
+    "answer": "Auxiliary memory"
+  },
+  {
+    "question": "Select odd one",
+    "options": ["Print/Print Preview", "Column/Text", "Save/Save As", "Insert/Insert Cell"],
+    "answer": "Column/Text"
+  },
+  {
+    "question": "Full form of EGA",
+    "options": ["Enhance Graphic Adaptor", "Enhanced Graph Adaptor", "Eco Graphic Array", "Eco Graphical Agency"],
+    "answer": "Enhanced Graph Adaptor"
+  },
+  {
+    "question": "Which component is known as the brain of the computer?",
+    "options": ["RAM", "CPU", "Hard Drive", "Motherboard"],
+    "answer": "CPU"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "High Transfer Text Protocol", "Hyper Transfer Text Protocol"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which of these is a type of computer network?",
+    "options": ["LAN", "WAN", "MAN", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the primary function of an operating system?",
+    "options": ["Manage hardware resources", "Run application software", "Provide user interface", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which programming language is used for web development?",
+    "options": ["Python", "Java", "HTML", "C++"],
+    "answer": "HTML"
+  },
+  {
+    "question": "What does GUI stand for?",
+    "options": ["Graphical User Interface", "General User Interface", "Graphical Unit Interface", "General Unit Interface"],
+    "answer": "Graphical User Interface"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which one is the last column?",
+    "options": ["II", "IV", "IX", "VI"],
+    "answer": "IX"
+  },
+  {
+    "question": "How many row in MS Excel?",
+    "options": ["65535", "65636", "66535", "65536"],
+    "answer": "65536"
+  },
+  {
+    "question": "Which one is odd?",
+    "options": ["Binary", "Numeric", "Character", "External"],
+    "answer": "External"
+  },
+  {
+    "question": "Find sum (A1:A7), if A1=2, A23=5, A3=1, A5=4, A6=1, A7=Blank",
+    "options": ["6", "14", "0", "16"],
+    "answer": "14"
+  },
+  {
+    "question": "Which shortcut key is used to insert chart?",
+    "options": ["F10", "F11", "F2", "F8"],
+    "answer": "F11"
+  },
+  {
+    "question": "Which one is easiest way to insert a chart?",
+    "options": ["Select data → Chart wizard", "Select data and Press F11", "Insert → Chart form menu", "None of the above"],
+    "answer": "Select data and Press F11"
+  },
+  {
+    "question": "Best use of MS Excel is ……",
+    "options": ["Word Processing", "Spreadsheet Management", "Payroll and Balance sheet", "Data Processing"],
+    "answer": "Payroll and Balance sheet"
+  },
+  {
+    "question": "The PowerPoint View that displays only text (title and text) is ......",
+    "options": ["Slide shows", "Slide sorter view", "Outline view", "Note page view"],
+    "answer": "Outline view"
+  },
+  {
+    "question": "Which feature is available in custom animation?",
+    "options": ["Design template", "Transition", "Master slide", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "What is capacity of MF2DD9 sector 80 track?",
+    "options": ["360KB", "720KB", "1.2MB", "1.24MB"],
+    "answer": "720KB"
+  },
+  {
+    "question": "Which standard is used for converting the key stroke into the corresponding bits?",
+    "options": ["ASCII", "EBCDIC", "ANSI", "ISO"],
+    "answer": "ASCII"
+  },
+  {
+    "question": "When was first microprocessor developed?",
+    "options": ["1991", "1981", "1971", "1961"],
+    "answer": "1971"
+  },
+  {
+    "question": "To display the content of the disk to use?",
+    "options": ["Format", "Dir", "Copy", "WinZip"],
+    "answer": "Dir"
+  },
+  {
+    "question": "Which one is not operating system?",
+    "options": ["PT1", "OS/2", "Windows", "Unix"],
+    "answer": "PT1"
+  },
+  {
+    "question": "Which one is not multitasking operating system?",
+    "options": ["Windows", "Linux", "Win NT", "DOS"],
+    "answer": "DOS"
+  },
+  {
+    "question": "Which one is not hardware?",
+    "options": ["Zip Drive", "Hard disk", "Zip disk", "NIC"],
+    "answer": "Zip disk"
+  },
+  {
+    "question": "Which one is odd?",
+    "options": ["Monitor", "Consol", "Screen", "Printer"],
+    "answer": "Printer"
+  },
+  {
+    "question": "Which one is easily translation?",
+    "options": ["Win 95 to 98", "Win NT to 98", "Win 2000 to 98", "Win 95 to 3.1"],
+    "answer": "Win 95 to 98"
+  },
+  {
+    "question": "How many ways can we go to control panel?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "question": "Which is easiest method to go MS-DOS?",
+    "options": ["My Computer", "Go to Dos from start menu", "Click on icon of desktop", "Type command in Run dialog box"],
+    "answer": "Go to Dos from start menu"
+  },
+  {
+    "question": "To print table structure is called",
+    "options": ["Documenter", "Generator", "Analyzer", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which object extracts the subset of data?",
+    "options": ["Form", "Field", "Query", "Report"],
+    "answer": "Query"
+  },
+  {
+    "question": "If you have to send a same letter to 100 customers use",
+    "options": ["Send document", "Despatch document", "Mail-merge", "None of the above"],
+    "answer": "Mail-merge"
+  },
+  {
+    "question": "Which type of website is used for university library?",
+    "options": [".com", ".net", ".org", ".edu"],
+    "answer": ".edu"
+  },
+  {
+    "question": "Which option is not available in shutdown dialog box?",
+    "options": ["Stand by", "Network", "Restart", "Restart in MS-Dos mode"],
+    "answer": "Network"
+  },
+  {
+    "question": "Which is not put in top of the page?",
+    "options": ["Header", "Footer", "Picture", "Page number"],
+    "answer": "Footer"
+  },
+  {
+    "question": "Which shortcut key is used undoing format?",
+    "options": ["Ctrl + Q", "Ctrl + Z", "Ctrl + M", "Ctrl + P"],
+    "answer": "Ctrl + Z"
+  },
+  {
+    "question": "To set line spacing",
+    "options": ["Format/Paragraph tool bar", "Format/Paragraph/Indent", "Format/Paragraph/Link", "None of the above"],
+    "answer": "Format/Paragraph tool bar"
+  },
+  {
+    "question": "What is the name of vertical space of between two columns?",
+    "options": ["Orientation", "Margin", "Alignment", "Indentation"],
+    "answer": "Margin"
+  },
+  {
+    "question": "Which one is used to locate the web address?",
+    "options": ["Uniform Resource Locator", "Universal Reform Location", "Unified Research Line", "Universal Resource Language"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which is included in table?",
+    "options": ["Record", "Field", "Index", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which one default sheet in the MS Excel?",
+    "options": ["Sheet 1/Sheet 2/Sheet 3", "Sheet 3/Sheet 2/Sheet 1", "Sheet 1", "1/2/3"],
+    "answer": "Sheet 1"
+  },
+  {
+    "question": "How many maximum pages is available in note page for printing?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "Which extension is used in MS PowerPoint?",
+    "options": ["PPT", "POT", "PPP", "POP"],
+    "answer": "PPT"
+  },
+  {
+    "question": "What is maximum data size in MS Access?",
+    "options": ["1GB", "1.2GB", "1.4GB", "2GB"],
+    "answer": "1GB"
+  },
+  {
+    "question": "Which function is used to find the reminders?",
+    "options": ["avg()", "div()", "fact()", "mod()"],
+    "answer": "mod()"
+  },
+  {
+    "question": "Form and Report is called",
+    "options": ["Object", "Field", "Record", "Column"],
+    "answer": "Object"
+  },
+  {
+    "question": "Web style is ......",
+    "options": ["Content of the web page", "Desktop style", "Internet style", "Website style"],
+    "answer": "Internet style"
+  },
+  {
+    "question": "Which one is unique key?",
+    "options": ["Index key", "Foreign key", "Assign a common field", "Primary key"],
+    "answer": "Primary key"
+  },
+  {
+    "question": "To insert a form within a form is called ......",
+    "options": ["Sub Form", "Query", "Report", "Form"],
+    "answer": "Sub Form"
+  },
+  {
+    "question": "Which of the following is input device?",
+    "options": ["Floppy disk", "Monitor", "Printer", "Keyboard"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Which protocol is used to connect internet?",
+    "options": ["TCP/IP", "SPX", "Telnet", "Gopher"],
+    "answer": "TCP/IP"
+  },
+  {
+    "question": "Which is not system file of MS DOS?",
+    "options": ["IO.SYS", "MSDOS.SYS", "COMMAND.COM", "HIMEM.SYS"],
+    "answer": "HIMEM.SYS"
+  },
+  {
+    "question": "Chart wizard completes any chart with ...... steps.",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "question": "Acronyms of CRT",
+    "options": ["Computer Resource Table", "Cathode Ray Tube", "Computer Research Tabulate", "Command Resource Table"],
+    "answer": "Cathode Ray Tube"
+  },
+  {
+    "question": "Computer virus cannot be contracted by",
+    "options": ["Scanner", "Email", "Floppy", "Internet"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "Hybrid computer is used in",
+    "options": ["ATM", "Petrol pump", "Railway", "Jet plane"],
+    "answer": "Railway"
+  },
+  {
+    "question": "What is the shortcut key to hide row?",
+    "options": ["Ctrl + F9", "Ctrl + 9", "Ctrl + Shift + 9", "Shift + 9"],
+    "answer": "Shift + 9"
+  },
+  {
+    "question": "Which is the most powerful computer?",
+    "options": ["Super Computer", "Mainframe Computer", "Mini Computer", "Personal Computer"],
+    "answer": "Super Computer"
+  },
+  {
+    "question": "A nibble contains ...... bits.",
+    "options": ["2", "4", "8", "16"],
+    "answer": "4"
+  }
+]

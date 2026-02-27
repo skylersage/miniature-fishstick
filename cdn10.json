@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Which of the following printers uses light beam and electrostatically sensitive black powder?",
+    "options": ["Dot matrix printer", "Daisywheel printer", "Chain printer", "Laser printer"],
+    "answer": "Laser printer"
+  },
+  {
+    "question": "Which command of MS DOS is used to copy only files that have been modified on or after the data you specify?",
+    "options": ["XCOPY /d: date", "COPY /d: date", "COPY /M", "XCOPY /N"],
+    "answer": "XCOPY /d: date"
+  },
+  {
+    "question": "An algorithm is best described as:",
+    "options": ["a computer language", "a step by step procedure for solving a problem", "a branch of mathematics", "All of the above"],
+    "answer": "a step by step procedure for solving a problem"
+  },
+  {
+    "question": "The location of the 1st computer instructions available on boot up from",
+    "options": ["ROM BIOS", "CPU", "BOOT.INL", "CONFIG.SYS"],
+    "answer": "ROM BIOS"
+  },
+  {
+    "question": "Which of the following unit of the CPU performed the Boolean function?",
+    "options": ["Control Unit", "Memory Unit", "Arithmetic Logical Unit", "All above"],
+    "answer": "Arithmetic Logical Unit"
+  },
+  {
+    "question": "Your company has a LAN in its main office and has now set up a LAN in the manufacturing plant in the sub office. To enable everyone to share data and resources between the two LANs, what type of device(s) are needed to connect them? Choose the most correct answer.",
+    "options": ["Modem", "Cable", "Hub", "Router"],
+    "answer": "Router"
+  },
+  {
+    "question": "Internet-like networks within an enterprise is called",
+    "options": ["Intranets", "Switching alternating", "Inter organizational networks", "Extranets"],
+    "answer": "Intranets"
+  },
+  {
+    "question": "Which of the following match with the page orientation?",
+    "options": ["Portrait", "Landscape", "Page preview", "a and b"],
+    "answer": "a and b"
+  },
+  {
+    "question": "To add different header and footer in the same document, which of the following break type is used?",
+    "options": ["Page break", "Section break", "Column break", "Text wrapping break"],
+    "answer": "Section break"
+  },
+  {
+    "question": "A form defines",
+    "options": ["Where data is placed on the screen", "the width of each field", "both (a) and (b)", "all of the above"],
+    "answer": "Where data is placed on the screen"
+  },
+  {
+    "question": "The text between <p> and </p> is display is",
+    "options": ["paragraph", "heading", "bold text", "page content in separate page"],
+    "answer": "paragraph"
+  },
+  {
+    "question": "Which of the following is system software?",
+    "options": ["Microsoft Windows", "Disk defragmenter", "Microsoft word", "Both a and b"],
+    "answer": "Both a and b"
+  },
+  {
+    "question": "Which of the following is an external DO command?",
+    "options": ["Copy", "MD", "Rename", "Deltree"],
+    "answer": "Deltree"
+  },
+  {
+    "question": "A system has two IDE hard drives that are each divided into primary and extended partitions; which drive letter is assigned to the primary partition of the second drive?",
+    "options": ["C", "D", "E", "F"],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following operating system is based on graphical user interface?",
+    "options": ["Windows XP", "Windows Vista", "Windows 7", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following formula is not entered correctly?",
+    "options": ["=SUM(A1:A10)", "=SUM(:A1:A10)", "=AVG(A1:A10)", "COUNT(A1:A10)"],
+    "answer": "=AVG(A1:A10)"
+  },
+  {
+    "question": "The database is said to be ...... if the same information is duplicated in several places.",
+    "options": ["Consistent", "Redundant", "Secure", "All of the above"],
+    "answer": "Redundant"
+  },
+  {
+    "question": "Which of the following data type in MS Access supports text or more than 25 characters?",
+    "options": ["Text", "Memo", "Number", "Yes/No"],
+    "answer": "Memo"
+  },
+  {
+    "question": "Bug means",
+    "options": ["a logical error in a program", "a difficult syntax error in a program", "documenting programs using an efficient documentation tool", "All of the above"],
+    "answer": "a logical error in a program"
+  },
+  {
+    "question": "Which of the following is characteristic of an operating system?",
+    "options": ["Resource management system files", "Error recovery memory files", "Memory management", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which shortcut keys you will use to select all the text after current cursor position in MS Word?",
+    "options": ["Shift+End", "Ctrl+Shift+End", "Ctrl+End", "Ctrl+Shift+Page Down"],
+    "answer": "Ctrl+Shift+End"
+  },
+  {
+    "question": "To return the remainder after a number is divided by a divisor in EXCEL, we use the function?",
+    "options": ["ROUND()", "FACT()", "MOD()", "DIV()"],
+    "answer": "MOD()"
+  },
+  {
+    "question": "Which key do you press to check spelling in PowerPoint?",
+    "options": ["F3", "F7", "F5", "F9"],
+    "answer": "F7"
+  },
+  {
+    "question": "Which file format can be added to a PowerPoint show?",
+    "options": [".jpg", ".wav", ".gif", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Which of the following performs modulation and demodulation?",
+    "options": ["Fibre optics", "Satellite", "Coaxial cable", "Modem"],
+    "answer": "Modem"
+  },
+  {
+    "question": "What does 'HTML' stand for in web technology?",
+    "options": ["HyperText Markup Language", "High Transfer Markup Language", "Hyper Transfer Markup Language", "Hyperlink Text Markup Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "question": "Which component is often called the 'brain' of the computer?",
+    "options": ["RAM", "Hard Drive", "CPU", "Motherboard"],
+    "answer": "CPU"
+  },
+  {
+    "question": "What is the purpose of an IP address?",
+    "options": ["To identify a website name", "To uniquely identify a device on a network", "To encrypt data transmission", "To store web pages"],
+    "answer": "To uniquely identify a device on a network"
+  },
+  {
+    "question": "Which storage device has no moving parts?",
+    "options": ["HDD", "SSD", "Floppy Disk", "DVD"],
+    "answer": "SSD"
+  },
+  {
+    "question": "What does 'GUI' stand for in computing?",
+    "options": ["General User Interface", "Graphical User Interface", "Graphical Utility Interface", "General Utility Interface"],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "question": "Which programming language is primarily used for web development?",
+    "options": ["Java", "Python", "C++", "JavaScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What does 'DNS' stand for in networking?",
+    "options": ["Domain Name System", "Data Network Service", "Digital Network Security", "Domain Network Server"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "Which of these is a volatile memory?",
+    "options": ["ROM", "RAM", "Hard Disk", "CD-ROM"],
+    "answer": "RAM"
+  },
+  {
+    "question": "What is the binary equivalent of decimal number 25?",
+    "options": ["11001", "11000", "10101", "11100"],
+    "answer": "11001"
+  },
+  {
+    "question": "Which key combination is used to paste copied content?",
+    "options": ["Ctrl+C", "Ctrl+V", "Ctrl+X", "Ctrl+P"],
+    "answer": "Ctrl+V"
+  },
+  {
+    "question": "What type of software is Microsoft Windows?",
+    "options": ["Application Software", "System Software", "Utility Software", "Programming Software"],
+    "answer": "System Software"
+  },
+  {
+    "question": "Which protocol is used to retrieve emails from a mail server?",
+    "options": ["SMTP", "HTTP", "FTP", "POP3"],
+    "answer": "POP3"
+  },
+  {
+    "question": "What is the maximum number of rows in Excel 2003?",
+    "options": ["65536", "1048576", "16384", "32768"],
+    "answer": "65536"
+  },
+  {
+    "question": "Which of these is a programming paradigm?",
+    "options": ["Object-Oriented Programming", "Spreadsheet Programming", "Document Processing", "Graphics Designing"],
+    "answer": "Object-Oriented Programming"
+  },
+  {
+    "question": "What does 'SQL' stand for?",
+    "options": ["Structured Query Language", "Standard Query Language", "System Query Language", "Simple Query Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which device converts digital signals to analog and vice versa?",
+    "options": ["Router", "Switch", "Modem", "Hub"],
+    "answer": "Modem"
+  },
+  {
+    "question": "What is the purpose of an 'antivirus' software?",
+    "options": ["To speed up computer", "To create documents", "To detect and remove malware", "To connect to internet"],
+    "answer": "To detect and remove malware"
+  },
+  {
+    "question": "Which of these is a cloud storage service?",
+    "options": ["Google Drive", "Microsoft Word", "Adobe Photoshop", "Windows Media Player"],
+    "answer": "Google Drive"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Reference Link"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which programming language is known for web development and creating interactive web pages?",
+    "options": ["Java", "Python", "JavaScript", "C++"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the function of 'Ctrl+S' shortcut?",
+    "options": ["Save document", "Search text", "Select all", "Undo last action"],
+    "answer": "Save document"
+  },
+  {
+    "question": "Which network topology connects all devices to a central hub?",
+    "options": ["Bus", "Ring", "Star", "Mesh"],
+    "answer": "Star"
+  },
+  {
+    "question": "What does 'LAN' stand for?",
+    "options": ["Local Area Network", "Large Area Network", "Local Access Network", "Large Access Network"],
+    "answer": "Local Area Network"
+  },
+  {
+    "question": "What does 'CPU' stand for?",
+    "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+    "answer": "Central Processing Unit"
+  }
+]

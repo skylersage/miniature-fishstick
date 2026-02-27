@@ -1,0 +1,267 @@
+[
+  {
+    "question": "A small or intelligent device is so called because it contains within it a:",
+    "options": ["Computer", "Microcomputer", "Programmable", "Sensor"],
+    "answer": "Programmable"
+  },
+  {
+    "question": "Each IP packet must contain:",
+    "options": ["Only source address", "Only destination address", "Sources and destination address", "Sources or destination address"],
+    "answer": "Sources and destination address"
+  },
+  {
+    "question": "The two basic types of record access methods are",
+    "options": ["Sequential and random", "Sequential and indexed", "Direct and immediate", "Online and real time"],
+    "answer": "Sequential and random"
+  },
+  {
+    "question": "Which of the following memories needs refresh?",
+    "options": ["SRAM", "DRAM", "ROM", "All of the above"],
+    "answer": "DRAM"
+  },
+  {
+    "question": "First generation computer used to have processing speed in:",
+    "options": ["Microsecond", "Millisecond", "Nanosecond", "Picosecond"],
+    "answer": "Millisecond"
+  },
+  {
+    "question": "USB stands for",
+    "options": ["Unique Serial Bus", "Unique Saved Data", "Universal Serial Bus", "Ultra Serial Bus"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "question": "Which of the following is an example of operating system?",
+    "options": ["DOS", "OS/2", "UNIX", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which one is not an output device?",
+    "options": ["Printer", "Keyboard", "Monitor", "None of the above"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Which of the following loses its contents when the computer it turns off?",
+    "options": ["RAM", "ROM", "PROM", "All of the above"],
+    "answer": "RAM"
+  },
+  {
+    "question": "CPU consists of:",
+    "options": ["ALU", "CU", "MU", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the main objective of IT policy 2000?",
+    "options": ["To increase employment", "To build knowledge based society", "To establish knowledge based industry", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is network topology?",
+    "options": ["Bus", "Star", "Both of above", "None of above"],
+    "answer": "Both of above"
+  },
+  {
+    "question": "WLAN stands for",
+    "options": ["Widely Accessible Network", "Wide Area Network", "Wire and Network", "Wire Accessible Network"],
+    "answer": "Wide Area Network"
+  },
+  {
+    "question": "FAT and NTFS is windows in type of:",
+    "options": ["Disk tool", "Disk Storage Format", "Internal windows command", "Utilities"],
+    "answer": "Disk Storage Format"
+  },
+  {
+    "question": "The principle of locality of reference justifies the use of ......",
+    "options": ["Virtual memory", "Interrupts", "Main memory", "Cache memory"],
+    "answer": "Cache memory"
+  },
+  {
+    "question": "Multitasking and multithreading is used in:",
+    "options": ["Windows XP", "Windows 2000", "Linux", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "An Approach that permits the computer to work on several programs instead of one is:",
+    "options": ["On-line thesaurus", "Multiprogramming", "Overlapped processing", "Outline processor"],
+    "answer": "Multiprogramming"
+  },
+  {
+    "question": "While booting how many types of system files will load into RAM?",
+    "options": ["2", "3", "4", "1"],
+    "answer": "3"
+  },
+  {
+    "question": "Which menu you have to click if you want to print a document?",
+    "options": ["Edit", "Format", "File", "View"],
+    "answer": "File"
+  },
+  {
+    "question": "Which one of the following is shortcut key of cut?",
+    "options": ["Ctrl+X", "Ctrl+V", "Alt+X", "Ctrl+C"],
+    "answer": "Ctrl+X"
+  },
+  {
+    "question": "Alignment can be found inside the:",
+    "options": ["Font", "Background", "Paragraph", "Page setup"],
+    "answer": "Paragraph"
+  },
+  {
+    "question": "From where do you install font?",
+    "options": ["Font icons of control panel", "Options sub menu of tools menu", "Font option of format menu", "None of the above"],
+    "answer": "Font icons of control panel"
+  },
+  {
+    "question": "Which one is not found in edit menu?",
+    "options": ["Find", "Copy", "Replace", "Print"],
+    "answer": "Print"
+  },
+  {
+    "question": "To change case, which menu you have to click?",
+    "options": ["File", "Edit", "View", "Format"],
+    "answer": "Format"
+  },
+  {
+    "question": "What is the file extension of MS Word document?",
+    "options": ["Dot", "Doc", "Dom", "Txt"],
+    "answer": "Doc"
+  },
+  {
+    "question": "What is the shortcut key of thesaurus?",
+    "options": ["F7", "Shift+F7", "Ctrl+T", "Alt+T"],
+    "answer": "Shift+F7"
+  },
+  {
+    "question": "Electronic spreadsheet is also known as ......",
+    "options": ["Data processor", "Word processor", "Presentation package", "All of the above"],
+    "answer": "Data processor"
+  },
+  {
+    "question": "The contents of a cell may also be edited by pressing:",
+    "options": ["F1", "F2", "F3", "F4"],
+    "answer": "F2"
+  },
+  {
+    "question": "Which one of the following is extension of Excel?",
+    "options": ["Exl", "Xcl", "Xls", "Exe"],
+    "answer": "Xls"
+  },
+  {
+    "question": "In order to add comment in a cell one can use following steps:",
+    "options": ["Edit → Comment", "Comment → Edit", "Insert → Diagram on menu bar", "Insert → Comment"],
+    "answer": "Insert → Comment"
+  },
+  {
+    "question": "Type of data in a cell of a worksheet can be of:",
+    "options": ["Label", "Value", "Formula", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What do you use to create a chart?",
+    "options": ["Chart wizard on toolbar", "Insert → Chart on menu bar", "Insert → diagram on menu bar", "Both A & B"],
+    "answer": "Both A & B"
+  },
+  {
+    "question": "Multiple calculations can be made in single formula by using:",
+    "options": ["Complex formula", "Array formula", "Composite formula", "All of the above"],
+    "answer": "Array formula"
+  },
+  {
+    "question": "How do you protect your excel sheet?",
+    "options": ["Tools → Option → Password", "Tools → Protection → Protect Sheet → Password", "Both a & b", "None of the above"],
+    "answer": "Tools → Protection → Protect Sheet → Password"
+  },
+  {
+    "question": "Which of the following is not a database application?",
+    "options": ["Excel", "Access", "My SQL", "Oracle"],
+    "answer": "Excel"
+  },
+  {
+    "question": "A row in a table is also known as:",
+    "options": ["record", "a field", "a data type", "None of the above"],
+    "answer": "record"
+  },
+  {
+    "question": "Which of the following best describes a query?",
+    "options": [
+      "A query enables people to enter a view data in your database easily",
+      "A query summarizes of prints data",
+      "A query retrieves data that satisfies condition that you set",
+      "All of the above"
+    ],
+    "answer": "A query retrieves data that satisfies condition that you set"
+  },
+  {
+    "question": "The query \"SELECT*from Employee\" returns:",
+    "options": [
+      "All rows from table employee",
+      "All rows from table employee where \"*\" character is present",
+      "All rows from employee starting from \"(*)\"",
+      "None of the above"
+    ],
+    "answer": "All rows from table employee"
+  },
+  {
+    "question": "Instructions in memory are:",
+    "options": ["character cod", "binary code", "binary word", "all of the above"],
+    "answer": "binary code"
+  },
+  {
+    "question": "In MS-Access ...... presents data in a way similar to an excel spreadsheet.",
+    "options": ["Data sheet view", "Design view", "Print preview", "Layout view"],
+    "answer": "Data sheet view"
+  },
+  {
+    "question": "A field that uniquely identifies a record is called a ......",
+    "options": ["main field", "header", "key field", "all of the above"],
+    "answer": "key field"
+  },
+  {
+    "question": "...... is used to speed up data retrieval.",
+    "options": ["Indexing", "Speeding", "Referencing", "Listing"],
+    "answer": "Indexing"
+  },
+  {
+    "question": "A ...... is the readymade styles that can be used for presentation in MS-PowerPoint",
+    "options": ["Autostyle", "Wizard", "Pre-format", "Template"],
+    "answer": "Template"
+  },
+  {
+    "question": "To enter speaker comments one has to be in which view?",
+    "options": ["Normal", "Slide sorter", "Slide show", "Note page view"],
+    "answer": "Note page view"
+  },
+  {
+    "question": "To use the same fonts & bullets styles on all your text slides you can:",
+    "options": [
+      "set them on the slide master",
+      "set them on the title master",
+      "set them in the auto content wizard",
+      "select all of the slide thumbnails & use the formatting toolbar to set the fonts & bullets"
+    ],
+    "answer": "set them on the slide master"
+  },
+  {
+    "question": "The effect that looks like the new slide is pushing the old one of the screen is an example of:",
+    "options": ["slide transition", "slide animation", "slide presentation", "all of the above"],
+    "answer": "slide transition"
+  },
+  {
+    "question": "The MS PowerPoint save PowerPoint file as following extension:",
+    "options": [".ppt", ".pptx", ".ppp", ".ptp"],
+    "answer": ".pptx"
+  },
+  {
+    "question": "What is the full form of www in \"www.gmail.com\"?",
+    "options": ["World Wide Web", "World Wide Writing", "Whole World Web", "Wild Wild West"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "What is the correct tag to add a hyperlink in html page?",
+    "options": ["<a href=\"target\">Link text</a>", "<link src=\"source\">Link text", "<a src=\"target\">Link text</a>", "<a Name=\"target\">Link text</a>"],
+    "answer": "<a href=\"target\">Link text</a>"
+  },
+  {
+    "question": "To draw a horizontal line in HTML we use:",
+    "options": ["<hr>", "<h1>", "<H1>", "<l1>"],
+    "answer": "<hr>"
+  }
+]

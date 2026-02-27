@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Special effects used to introduce slides in a presentation are called ……",
+    "options": ["effects", "custom animations", "slide transitions", "present animations"],
+    "answer": "slide transitions"
+  },
+  {
+    "question": "What is the purpose of indexing?",
+    "options": ["To reduce table size", "To speed up data search", "Both (a) & (b)", "None of the above"],
+    "answer": "To speed up data search"
+  },
+  {
+    "question": "You can edit a cell in spreadsheet by",
+    "options": ["Clicking edit formula button", "Double clicking the cell to edit in place", "Select Edit → Edit cell from the menu", "None of the above"],
+    "answer": "Double clicking the cell to edit in place"
+  },
+  {
+    "question": "Which function will calculate the number of workdays between 6/11/2012 and 8/12/2012 in spreadsheet?",
+    "options": ["Workday", "Date", "Net workdays", "All of the above"],
+    "answer": "Net workdays"
+  },
+  {
+    "question": "Which of the following is not a valid data type in Excel?",
+    "options": ["Number", "Character", "Label", "Date/Time"],
+    "answer": "Character"
+  },
+  {
+    "question": "The file type ...... indicates the file, is a word document.",
+    "options": [".msw", ".wor", ".wrd", ".doc"],
+    "answer": ".doc"
+  },
+  {
+    "question": "How can you make the selected character superscripted in word document?",
+    "options": ["Ctrl+=", "Ctrl+Shift+=", "Alt+Ctrl+Shift+=", "None of the above"],
+    "answer": "Ctrl+Shift+="
+  },
+  {
+    "question": "What is the short key to open Font dialog box in MS Word?",
+    "options": ["Ctrl+F", "Alt+Ctrl+F", "Ctrl+D", "Ctrl+Shift+D"],
+    "answer": "Ctrl+D"
+  },
+  {
+    "question": "A ...... acts as a security buffer between a company's private network and all external.",
+    "options": ["firewall", "password", "disaster recovery plan", "virus checker"],
+    "answer": "firewall"
+  },
+  {
+    "question": "Protecting the data from unauthorized access called",
+    "options": ["data inaccessibility", "data encryption", "data security", "data validity"],
+    "answer": "data security"
+  },
+  {
+    "question": "Which of the following is responsible for coordinating various operations using timing signals?",
+    "options": ["Arithmetic-logic unit", "Control unit", "Memory unit", "I/O unit"],
+    "answer": "Control unit"
+  },
+  {
+    "question": "A computer consists of",
+    "options": ["a central processing unit", "a memory", "input and output units", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following package is used to create slides for presentation?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "answer": "MS PowerPoint"
+  },
+  {
+    "question": "Which of the following in DBMS?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "answer": "MS Access"
+  },
+  {
+    "question": "Which of the following formula is entered correctly?",
+    "options": ["=SUM(A1:A10:)", "=SUM(:A1:A10)", "=SUM(A1:A10)", "All of the above"],
+    "answer": "=SUM(A1:A10)"
+  },
+  {
+    "question": "Each excel file is called a workbook, because",
+    "options": ["it can contain text and data", "it can be modified", "it can contain many sheets", "you have to work hard to create it"],
+    "answer": "it can contain many sheets"
+  },
+  {
+    "question": "Which of the following shortcut key is used to select all the contents of a MS Word document?",
+    "options": ["Ctrl+B", "Ctrl+A", "Ctrl+C", "Ctrl+V"],
+    "answer": "Ctrl+A"
+  },
+  {
+    "question": "In word processing, the task of changing the appearance of a document is called",
+    "options": ["Formatting", "Editing", "Proofing", "Inserting"],
+    "answer": "Formatting"
+  },
+  {
+    "question": "MS Word is an example of",
+    "options": ["Word processor", "Spreadsheet", "Presentation", "DBMS"],
+    "answer": "Word processor"
+  },
+  {
+    "question": "Which of the following network device is used to connect different network?",
+    "options": ["Hub", "Switch", "Router", "None of the above"],
+    "answer": "Router"
+  },
+  {
+    "question": "The output quality of a printer is measured by",
+    "options": ["Dots per square inch", "Dots per inch", "Dots printed per unit time", "All of the above"],
+    "answer": "Dots per inch"
+  },
+  {
+    "question": "Which of the following memory is volatile?",
+    "options": ["RAM", "ROM", "PROM", "EPROM"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Which command will you choose to convert a column of data into row?",
+    "options": ["Cut and Paste", "Edit → Paste Special → Transpose", "Both (a) and (b)", "None of above"],
+    "answer": "Edit → Paste Special → Transpose"
+  },
+  {
+    "question": "How can you update the values of formula cells if Auto Calculate mode of Excel is disabled?",
+    "options": ["F8", "F9", "F10", "F11"],
+    "answer": "F9"
+  },
+  {
+    "question": "How can you show or hide the gridlines in Excel worksheet?",
+    "options": ["Go to Tools → Options → View tab and mark on remove the check box named Gridline", "To Gridline tool on Forms toolbar", "Both (a) & (b)", "None of above"],
+    "answer": "Go to Tools → Options → View tab and mark on remove the check box named Gridline"
+  },
+  {
+    "question": "What is the purpose of inserting header and footer in document?",
+    "options": ["To enhance the overall appearance of the document", "To mark the starting and ending of page", "To make large document more readable", "To allow page headers and footer appear on document when printed"],
+    "answer": "To enhance the overall appearance of the document"
+  },
+  {
+    "question": "Which feature help you to setup document page size in Microsoft Word?",
+    "options": ["Page setup", "Print Setup", "Styles", "Print Preview"],
+    "answer": "Page setup"
+  },
+  {
+    "question": "Which of the following is the symptom of the virus?",
+    "options": ["It must execute itself", "It often places its own code in the part of execution of another program", "It must replicate itself", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following protocol is used to receive email?",
+    "options": ["SMTP", "POP3", "TCP/IP", "None of the above"],
+    "answer": "POP3"
+  },
+  {
+    "question": "Which of the following is the operating system?",
+    "options": ["Microsoft Word", "Microsoft Excel", "Microsoft Windows 7", "All of the above"],
+    "answer": "Microsoft Windows 7"
+  },
+  {
+    "question": "What does 'HTML' stand for in web technology?",
+    "options": ["HyperText Markup Language", "High Transfer Markup Language", "Hyper Transfer Markup Language", "Hyperlink Text Markup Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "question": "Which component is often called the 'brain' of the computer?",
+    "options": ["RAM", "Hard Drive", "CPU", "Motherboard"],
+    "answer": "CPU"
+  },
+  {
+    "question": "What is the purpose of an IP address?",
+    "options": ["To identify a website name", "To uniquely identify a device on a network", "To encrypt data transmission", "To store web pages"],
+    "answer": "To uniquely identify a device on a network"
+  },
+  {
+    "question": "Which storage device has no moving parts?",
+    "options": ["HDD", "SSD", "Floppy Disk", "DVD"],
+    "answer": "SSD"
+  },
+  {
+    "question": "What does 'GUI' stand for in computing?",
+    "options": ["General User Interface", "Graphical User Interface", "Graphical Utility Interface", "General Utility Interface"],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "question": "Which programming language is primarily used for web development?",
+    "options": ["Java", "Python", "C++", "JavaScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What does 'DNS' stand for in networking?",
+    "options": ["Domain Name System", "Data Network Service", "Digital Network Security", "Domain Network Server"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "Which of these is a volatile memory?",
+    "options": ["ROM", "RAM", "Hard Disk", "CD-ROM"],
+    "answer": "RAM"
+  },
+  {
+    "question": "What is the binary equivalent of decimal number 25?",
+    "options": ["11001", "11000", "10101", "11100"],
+    "answer": "11001"
+  },
+  {
+    "question": "Which key combination is used to paste copied content?",
+    "options": ["Ctrl+C", "Ctrl+V", "Ctrl+X", "Ctrl+P"],
+    "answer": "Ctrl+V"
+  },
+  {
+    "question": "What type of software is Microsoft Windows?",
+    "options": ["Application Software", "System Software", "Utility Software", "Programming Software"],
+    "answer": "System Software"
+  },
+  {
+    "question": "Which protocol is used to retrieve emails from a mail server?",
+    "options": ["SMTP", "HTTP", "FTP", "POP3"],
+    "answer": "POP3"
+  },
+  {
+    "question": "What is the maximum number of rows in Excel 2003?",
+    "options": ["65536", "1048576", "16384", "32768"],
+    "answer": "65536"
+  },
+  {
+    "question": "Which of these is a programming paradigm?",
+    "options": ["Object-Oriented Programming", "Spreadsheet Programming", "Document Processing", "Graphics Designing"],
+    "answer": "Object-Oriented Programming"
+  },
+  {
+    "question": "What does 'SQL' stand for?",
+    "options": ["Structured Query Language", "Standard Query Language", "System Query Language", "Simple Query Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which device converts digital signals to analog and vice versa?",
+    "options": ["Router", "Switch", "Modem", "Hub"],
+    "answer": "Modem"
+  },
+  {
+    "question": "What is the purpose of an 'antivirus' software?",
+    "options": ["To speed up computer", "To create documents", "To detect and remove malware", "To connect to internet"],
+    "answer": "To detect and remove malware"
+  },
+  {
+    "question": "Which of these is a cloud storage service?",
+    "options": ["Google Drive", "Microsoft Word", "Adobe Photoshop", "Windows Media Player"],
+    "answer": "Google Drive"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Reference Link"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which programming language is known for web development and creating interactive web pages?",
+    "options": ["Java", "Python", "JavaScript", "C++"],
+    "answer": "JavaScript"
+  }
+]

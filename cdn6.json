@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Abacus was a ...... device.",
+    "options": ["Electronic", "Counting", "Digital", "Calculating"],
+    "answer": "Calculating"
+  },
+  {
+    "question": "How many computers are there on the basis of working principle?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "What technology was used in 2nd generation?",
+    "options": ["Vacuum tube", "Transistor", "IC", "Microprocessor"],
+    "answer": "Transistor"
+  },
+  {
+    "question": "Which is not output device?",
+    "options": ["Printer", "Plotter", "Monitor", "Scanner"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "Which is a secondary memory?",
+    "options": ["RAM", "ROM", "Compact Disk", "None"],
+    "answer": "Compact Disk"
+  },
+  {
+    "question": "What is the function of operating system?",
+    "options": ["Memory Management", "Hardware Management", "File Management", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which file is transfer when computer is start up?",
+    "options": ["Document", "Program File", "Operating System", "System File"],
+    "answer": "System File"
+  },
+  {
+    "question": "Format a:/s will do ......",
+    "options": ["Formats which create system file", "Formats with verification", "Formats with surface scan", "None"],
+    "answer": "Formats which create system file"
+  },
+  {
+    "question": "Copy con ram.txt is",
+    "options": ["Copy the enter data", "Delete the data", "Controlling the enter data", "All of the above"],
+    "answer": "Copy the enter data"
+  },
+  {
+    "question": "Which is invalid character for saving document?",
+    "options": ["a to z", "0 to 9", "$", "\\"],
+    "answer": "\\"
+  },
+  {
+    "question": "Internal commands are",
+    "options": ["Incorporate the command.com", "Incorporate the command directory", "Have external file", "All of the above"],
+    "answer": "Incorporate the command.com"
+  },
+  {
+    "question": "RD commands is used for",
+    "options": ["removes an empty directory", "removes non empty directory", "removes directory include files", "none of the above"],
+    "answer": "removes an empty directory"
+  },
+  {
+    "question": "Which is not an application?",
+    "options": ["Word", "Excel", "PowerPoint", "Vista"],
+    "answer": "Vista"
+  },
+  {
+    "question": "Virus is a ......",
+    "options": ["Insect like aids", "Malicious program", "Important program", "None"],
+    "answer": "Malicious program"
+  },
+  {
+    "question": "WAN is not used",
+    "options": ["Computer within a building", "Computer within a country", "Computer around world", "Computer within a region"],
+    "answer": "Computer within a building"
+  },
+  {
+    "question": "To install the new font ......",
+    "options": ["Start → Setting → Control Panel → Font", "Start → Setting → Control Panel → Font → Install New Font", "Start → Control Panel → Font → Install New Font", "Start → Setting → Font"],
+    "answer": "Start → Setting → Control Panel → Font → Install New Font"
+  },
+  {
+    "question": "Notepad is used for ......",
+    "options": ["Data Processing", "Word Processor", "Graphics", "Text Editor"],
+    "answer": "Text Editor"
+  },
+  {
+    "question": "To make bold face,",
+    "options": ["Press Ctrl + B", "Ctrl + C", "Ctrl + D", "Ctrl + U"],
+    "answer": "Press Ctrl + B"
+  },
+  {
+    "question": "To use underline, you must press",
+    "options": ["Ctrl + B", "Ctrl + C", "Ctrl + Z", "Ctrl + U"],
+    "answer": "Ctrl + U"
+  },
+  {
+    "question": "Protocol is a",
+    "options": ["rules of transmitting data", "rules of data sharing", "rules of information processing", "none"],
+    "answer": "rules of transmitting data"
+  },
+  {
+    "question": "Modem is used for",
+    "options": ["analog to digital data conversion", "digital to analog data conversion", "analog to analog data conversion", "both a & b"],
+    "answer": "both a & b"
+  },
+  {
+    "question": "To create your picture, you have to which toolbar?",
+    "options": ["Auto Shape", "Drawing", "Picture", "Formatting"],
+    "answer": "Drawing"
+  },
+  {
+    "question": "To create table in MS Word",
+    "options": ["Tools → Table", "Tools → Insert Table", "Table → Insert Table", "None"],
+    "answer": "Table → Insert Table"
+  },
+  {
+    "question": "When you cut the text what will happen in excel?",
+    "options": ["Remove the text after the paste", "Removes the text before the paste", "Does not do anything", "Creates multiple copies without paste"],
+    "answer": "Remove the text after the paste"
+  },
+  {
+    "question": "Workbook is a ......",
+    "options": ["Collection of worksheet", "Collection of workbook", "Collection of workspace", "All of the above"],
+    "answer": "Collection of worksheet"
+  },
+  {
+    "question": "Shortcut key to move into the next sheet?",
+    "options": ["Page up", "Ctrl + Page up", "Ctrl + Page down", "Page down"],
+    "answer": "Ctrl + Page down"
+  },
+  {
+    "question": "Graphic object is used in chart for?",
+    "options": ["emphasizes the data", "high light data", "entertainment", "all of the above"],
+    "answer": "emphasizes the data"
+  },
+  {
+    "question": "Which file format is supported to all programs?",
+    "options": [".doc", ".mdb", "rtf", "all"],
+    "answer": "rtf"
+  },
+  {
+    "question": "Excel formula begins with ......",
+    "options": ["=", "+", "/", "&"],
+    "answer": "="
+  },
+  {
+    "question": "=sum(A1+A3) is equivalent with ......",
+    "options": ["=A1+A3", "A1+A2+A3", "=A1+A2+A3", "=sum(A1:A3)"],
+    "answer": "=A1+A3"
+  },
+  {
+    "question": "Formatting code is ......",
+    "options": ["#", "+", "$", "~"],
+    "answer": "#"
+  },
+  {
+    "question": "Fill series command is used for ......",
+    "options": ["to fill the series of data", "fill the same data repeatedly", "fill with text data", "all of the above"],
+    "answer": "to fill the series of data"
+  },
+  {
+    "question": "Which format is this RAM in MS Word?",
+    "options": ["Mistake", "Strikethrough", "Middle line", "Underline"],
+    "answer": "Strikethrough"
+  },
+  {
+    "question": "We can view slide show by",
+    "options": ["F5", "View → Slide show", "Slide show → View show", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Extension of PowerPoint is ......",
+    "options": [".ppt", ".pot", ".pps", ".pwt"],
+    "answer": ".ppt"
+  },
+  {
+    "question": "Which field type is not used in database?",
+    "options": ["Currency", "Text", "Number", "Single"],
+    "answer": "Single"
+  },
+  {
+    "question": "Which is not including in view menu?",
+    "options": ["View show", "Master slide", "Custom animation", "Task pane"],
+    "answer": "Custom animation"
+  },
+  {
+    "question": "Primary key ......",
+    "options": ["Must have an unique number", "Not null", "Used to related with foreign key", "All of the above"],
+    "answer": "Must have an unique number"
+  },
+  {
+    "question": "File extension of MS Access?",
+    "options": [".mdb", ".mda", ".mbd", ".mdp"],
+    "answer": ".mdb"
+  },
+  {
+    "question": "Form is used for",
+    "options": ["entering and editing data", "printing information", "storing data", "none"],
+    "answer": "entering and editing data"
+  },
+  {
+    "question": "RDBMS uses data source from ......",
+    "options": ["Flat file", "Table", "OLAP", "none"],
+    "answer": "Table"
+  },
+  {
+    "question": "Full form of RAID",
+    "options": ["Redundant Array of Independent Disks", "Redundant Array of Inexpensive Disks", "Read Array of Independent Disks", "Both a & b"],
+    "answer": "Both a & b"
+  },
+  {
+    "question": "What does 'HTML' stand for?",
+    "options": ["Hyper Text Markup Language", "High Transfer Markup Language", "Hyper Transfer Markup Language", "Hyperlink Text Markup Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which key combination is used to save a document?",
+    "options": ["Ctrl+S", "Ctrl+P", "Ctrl+O", "Ctrl+N"],
+    "answer": "Ctrl+S"
+  },
+  {
+    "question": "What is the purpose of a firewall?",
+    "options": ["To increase internet speed", "To prevent unauthorized access", "To store data", "To create websites"],
+    "answer": "To prevent unauthorized access"
+  },
+  {
+    "question": "Which of these is a programming language?",
+    "options": ["Python", "Excel", "PowerPoint", "Photoshop"],
+    "answer": "Python"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Reference Link"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which device is used to connect multiple computers in a network?",
+    "options": ["Modem", "Router", "Printer", "Scanner"],
+    "answer": "Router"
+  },
+  {
+    "question": "What is the binary number system based on?",
+    "options": ["2", "8", "10", "16"],
+    "answer": "2"
+  },
+  {
+    "question": "Which software is used for creating presentations?",
+    "options": ["Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Microsoft Access"],
+    "answer": "Microsoft PowerPoint"
+  }
+]

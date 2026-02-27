@@ -1,0 +1,252 @@
+[
+  {
+    "question": "HTML stands for",
+    "options": ["Hyper Text Mark Up Language", "Hyper Text Manipulation Language", "High Tension Manipulation Language", "None of the above"],
+    "answer": "Hyper Text Mark Up Language"
+  },
+  {
+    "question": "Which tag is used for body text?",
+    "options": ["/body", "<body>", "<b>", "<bo>"],
+    "answer": "<body>"
+  },
+  {
+    "question": "URL stands for ......",
+    "options": ["Uniform Resource Language", "Uniform Resource Locator", "Universal Resource Locator", "Universal Resource Language"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "ASCII stands for ......",
+    "options": ["American Standard Code for Information Interchange", "American Standard Code for Information Interchange", "American Code Information Interchange", "Accredited Code for Information Interchange"],
+    "answer": "American Standard Code for Information Interchange"
+  },
+  {
+    "question": "Which relationship cannot be set between two tables?",
+    "options": ["One to one", "One to many", "Many to one", "Many to many"],
+    "answer": "Many to one"
+  },
+  {
+    "question": "To start printing a document",
+    "options": ["Ctrl + P and Press Enter", "Ctrl + P and Press Esc", "File → View → Print", "None of the above"],
+    "answer": "Ctrl + P and Press Enter"
+  },
+  {
+    "question": "To display system Boo menu, press ......",
+    "options": ["F4", "F7", "F8", "F5"],
+    "answer": "F8"
+  },
+  {
+    "question": "Which memory is programmed during the manufacturing?",
+    "options": ["RAM", "PROM", "ROM", "EPROM"],
+    "answer": "ROM"
+  },
+  {
+    "question": "Size of 3.5\" Floppy disk",
+    "options": ["1.2MB", "1.44MB", "1.4MB", "720KB"],
+    "answer": "1.44MB"
+  },
+  {
+    "question": "Protocol is used for",
+    "options": ["Network", "Email", "Process data", "None of the above"],
+    "answer": "Network"
+  },
+  {
+    "question": "To set the text inside the fixed margin",
+    "options": ["Text wrapping", "Text alignment", "Text formatting", "None of the above"],
+    "answer": "Text alignment"
+  },
+  {
+    "question": "The key used to fast data accessing from database ......",
+    "options": ["Index key", "Primary key", "Foreign key", "All of the above"],
+    "answer": "Index key"
+  },
+  {
+    "question": "The key used to organize database is sorting manner?",
+    "options": ["Foreign key", "Index key", "Key field", "None of the above"],
+    "answer": "Index key"
+  },
+  {
+    "question": "Icon is a",
+    "options": ["Symbol of Folder", "Symbol of Program", "Symbol of Devices", "All of the Above"],
+    "answer": "Symbol of Program"
+  },
+  {
+    "question": "Low level language",
+    "options": ["Basic", "Assembly", "C language", "None of the above"],
+    "answer": "Assembly"
+  },
+  {
+    "question": "RAM is",
+    "options": ["volatile memory", "non-volatile memory", "secondary memory", "pre-programmed memory"],
+    "answer": "volatile memory"
+  },
+  {
+    "question": "1000 bytes ......",
+    "options": ["1KB", "1 byte", "1MB", "None"],
+    "answer": "1KB"
+  },
+  {
+    "question": "Shortcut key for left indent",
+    "options": ["Ctrl + L", "Ctrl + M", "Ctrl + I", "Ctrl + T"],
+    "answer": "Ctrl + M"
+  },
+  {
+    "question": "To rename sheet",
+    "options": ["Format/Rename sheet", "View/Rename sheet", "Insert/Rename sheet", "All of the above"],
+    "answer": "Format/Rename sheet"
+  },
+  {
+    "question": "Which is not consolidation?",
+    "options": ["Sum", "Average", "Count", "PMT"],
+    "answer": "PMT"
+  },
+  {
+    "question": "Default number of sheets in a workbook is ......",
+    "options": ["1", "3", "255", "Many"],
+    "answer": "3"
+  },
+  {
+    "question": "Which is valid cell address?",
+    "options": ["1A", "A1", "$1", "$A"],
+    "answer": "A1"
+  },
+  {
+    "question": "Form can be built from",
+    "options": ["Table", "Table and Query", "Sub form", "None of the above"],
+    "answer": "Table and Query"
+  },
+  {
+    "question": "How do you keep border in excel?",
+    "options": ["Click to border button in standard toolbar.", "Edit → Cells → Border page tab", "Format → Cells → Border page tab", "All of the above"],
+    "answer": "Format → Cells → Border page tab"
+  },
+  {
+    "question": "Hyperlink function in excel",
+    "options": ["links between different cells", "creates a shortcut to open document stored on disk", "links with chart", "All of the above"],
+    "answer": "creates a shortcut to open document stored on disk"
+  },
+  {
+    "question": "Form is used",
+    "options": ["To enter data", "to display message", "to place different controls", "All of the above"],
+    "answer": "To enter data"
+  },
+  {
+    "question": "The maximum number of handouts in PowerPoint is ......",
+    "options": ["3", "5", "9", "12"],
+    "answer": "9"
+  },
+  {
+    "question": "Relationship established with",
+    "options": ["Two identical fields", "One numeric and other text field", "Foreign key", "All of the above"],
+    "answer": "Two identical fields"
+  },
+  {
+    "question": "Taskbar is used for",
+    "options": ["Navigation program.", "Switching between programs", "To start program", "All"],
+    "answer": "Switching between programs"
+  },
+  {
+    "question": "Driver is",
+    "options": ["Hardware controller", "Hardware and gain controller", "Data controller", "All of the above"],
+    "answer": "Hardware controller"
+  },
+  {
+    "question": "ALU",
+    "options": ["Arithmetic Logic Unit", "American Language Unit", "Arithmetic Logical Unit", "Arithmetic Logic United"],
+    "answer": "Arithmetic Logic Unit"
+  },
+  {
+    "question": "Input print is",
+    "options": ["Laser Printer", "Dot Matrix Printer", "Inkjet Printer", "None of the above"],
+    "answer": "Dot Matrix Printer"
+  },
+  {
+    "question": "To run slide",
+    "options": ["F5", "F8", "F7", "F6"],
+    "answer": "F5"
+  },
+  {
+    "question": "Stop slide show",
+    "options": ["Enter", "Esc", "Ctrl + Enter", "All of the above"],
+    "answer": "Esc"
+  },
+  {
+    "question": "Number of slide layout",
+    "options": ["6", "8", "9", "12"],
+    "answer": "6"
+  },
+  {
+    "question": "Macro recording in",
+    "options": ["Visual Basic", "Visual C++", "... C language", "Basic Programming"],
+    "answer": "Visual Basic"
+  },
+  {
+    "question": "Different page number at different section",
+    "options": ["Insert → Page number dialog box", "Insert → Page number format dialog box", "Insert → Page number", "None of the above"],
+    "answer": "Insert → Page number format dialog box"
+  },
+  {
+    "question": "Digital computer handles",
+    "options": ["Continuous data", "Discrete data", "Textual data", "None of the above"],
+    "answer": "Discrete data"
+  },
+  {
+    "question": "To secure file and folder",
+    "options": ["Set up password", "User password", "System password", "Start up password"],
+    "answer": "Start up password"
+  },
+  {
+    "question": "To display date and time",
+    "options": ["now()", "today()", "date()", "All of the above"],
+    "answer": "now()"
+  },
+  {
+    "question": "To apply design in PowerPoint",
+    "options": ["Format/Design/Template", "Insert/Design/Template", "Insert Slides from outline", "All of the above"],
+    "answer": "Format/Design/Template"
+  },
+  {
+    "question": "Database Management system function",
+    "options": ["add", "delete", "append", "all"],
+    "answer": "append"
+  },
+  {
+    "question": "Which is Auxiliary memory?",
+    "options": ["RAM", "ROM", "Hard disk", "BIOS"],
+    "answer": "Hard disk"
+  },
+  {
+    "question": "Word Processor is",
+    "options": ["text editor", "language", "spreadsheet", "notepad"],
+    "answer": "text editor"
+  },
+  {
+    "question": "Which is not internal command?",
+    "options": ["copy con", "copy", "dir/p", "chkdsk"],
+    "answer": "chkdsk"
+  },
+  {
+    "question": "Which view will give you exact what will be printed?",
+    "options": ["Outline view", "Print layout view", "Normal view", "Web layout view"],
+    "answer": "Print layout view"
+  },
+  {
+    "question": "Filter",
+    "options": ["Extract the subset of data", "Extract the numeric data only", "Extract the character data only", "None of the above"],
+    "answer": "Extract the subset of data"
+  },
+  {
+    "question": "Outline is",
+    "options": ["let you show/hide details", "border of page", "correcting document", "sorting pages"],
+    "answer": "let you show/hide details"
+  },
+  {
+    "question": "Disk initialization is",
+    "options": ["preparing disk to store", "preparing disk to read", "preparing disk to edit", "none of the above"],
+    "answer": "preparing disk to store"
+  },
+  {
+    "question": "Record is called in database terminology",
+    "options": ["Entity", "Attribute", "Relation", "All of the above"],
+    "answer": "Entity"
+  }
+]
