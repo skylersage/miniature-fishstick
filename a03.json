@@ -156,7 +156,7 @@
   },
   {
     "question": "What happens when you cut in excel?",
-    "options": ["The content of cell will be removed after paste.", "The value of cell will be remained after paste.", "The content of cell will be remained after paste."],
+    "options": ["The content of cell will be removed after paste.", "The value of cell will be remained after paste.", "The content of cell will be remained after paste.","None of the above"],
     "answer": "The content of cell will be removed after paste."
   },
   {
