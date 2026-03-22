@@ -1,18 +1,18 @@
 [
   {
     "question": "Collection of interrelated data is known as",
-    "options": ["data model", "DBMS", "data base", "all of the above"],
-    "answer": "data base"
+    "options": ["Data model", "DBMS", "Data Base", "All of the above"],
+    "answer": "Data Base"
   },
   {
     "question": "Which of the following is not relational database?",
-    "options": ["reflex", "Dbase_IV", "Sybase", "SQL server"],
-    "answer": "reflex"
+    "options": ["Reflex", "Dbase_IV", "Sybase", "SQL server"],
+    "answer": "Reflex"
   },
   {
     "question": "The relational algebra is a ...... is language.",
-    "options": ["complex language", "lower level language", "procedural language", "non procedural language"],
-    "answer": "procedural language"
+    "options": ["Complex language", "Lower level language", "Procedural language", "non procedural language"],
+    "answer": "Procedural language"
   },
   {
     "question": "The highest level in the hierarchy of data organization is called",
